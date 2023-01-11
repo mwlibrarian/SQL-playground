@@ -1,0 +1,1001 @@
+id,first_name,sex,age,fixed,breed,allergies,special_diet,owner_id,last_name,rabies_shot_date,method_heartworm,method_flea&tick
+58-519-4930,Miran,F,17,FALSE,Paraguayan,TRUE,FALSE,10-775-9996,Whiteway,7/12/2022,unknown,oral
+30-250-9372,Ashlee,F,5,TRUE,,FALSE,TRUE,03-467-2671,Huitt,2/5/2019,unknown,shampoo
+09-652-8208,Kean,M,5,TRUE,Mexican,FALSE,FALSE,34-783-5314,Swane,4/23/2022,annually,oral
+57-257-0135,Kelvin,M,17,FALSE,Argentinian,FALSE,FALSE,38-823-9720,Fandrey,10/15/2021,monthly,shampoo
+60-373-5885,Jory,M,4,FALSE,,TRUE,FALSE,97-050-9880,Richie,10/12/2020,annually,shampoo
+47-353-2417,Rubetta,F,2,TRUE,,TRUE,TRUE,13-324-4753,Unsworth,12/22/2018,annually,topical drops
+90-635-4613,Zackariah,M,6,FALSE,,TRUE,FALSE,94-748-7889,Revan,12/1/2021,annually,unknown
+09-046-4858,Timotheus,M,4,TRUE,Alaska Native,TRUE,FALSE,42-397-0445,Maffucci,3/6/2020,annually,topical drops
+70-206-2141,Enriqueta,F,9,FALSE,Salvadoran,TRUE,TRUE,80-794-5343,Pennell,11/3/2019,monthly,topical powder
+71-421-1884,Germaine,M,9,FALSE,Tlingit-Haida,FALSE,TRUE,29-534-8254,Naldrett,9/28/2021,annually,collar
+47-202-7069,Nanny,F,5,TRUE,American Indian,TRUE,FALSE,51-872-5308,Gripton,12/24/2020,monthly,oral
+25-496-7084,Lyda,F,9,FALSE,,TRUE,FALSE,15-310-4471,Grimsdell,1/26/2020,monthly,topical powder
+86-250-4090,Etty,F,14,TRUE,,FALSE,TRUE,62-722-7695,Ellerby,12/19/2021,unknown,topical powder
+77-378-6843,Nancie,F,13,FALSE,,FALSE,TRUE,89-825-6375,Budgey,9/30/2018,unknown,unknown
+61-194-7849,Rodolphe,M,1,FALSE,Potawatomi,FALSE,FALSE,53-144-9577,Rickard,6/5/2022,annually,topical drops
+50-868-1235,Emmi,F,10,FALSE,Guamanian,FALSE,FALSE,02-088-5986,Wolsey,9/10/2022,monthly,unknown
+84-342-8036,Jedidiah,M,12,FALSE,,TRUE,FALSE,50-260-9586,Di Claudio,3/10/2019,annually,topical powder
+45-283-8748,Carny,M,9,TRUE,,TRUE,TRUE,75-021-6514,Chaters,3/12/2019,annually,oral
+91-333-8047,Kaitlynn,F,14,TRUE,Guatemalan,FALSE,TRUE,81-826-1086,Callister,8/16/2021,annually,shampoo
+01-758-0284,Geri,M,3,TRUE,,TRUE,FALSE,79-272-7668,Jeckell,6/27/2022,monthly,oral
+55-603-9933,Townsend,M,10,TRUE,,FALSE,TRUE,59-645-1858,Meugens,3/9/2021,monthly,oral
+69-404-8558,Micah,M,17,FALSE,Sri Lankan,TRUE,TRUE,68-360-6065,Jerger,4/26/2018,monthly,topical drops
+12-254-8485,Darya,F,18,FALSE,Alaskan Athabascan,TRUE,FALSE,90-826-0895,Goodban,6/29/2018,annually,unknown
+68-456-9847,Drusilla,F,2,FALSE,,FALSE,TRUE,98-847-1416,Collinette,2/23/2018,monthly,shampoo
+48-895-3271,Vite,M,5,FALSE,,TRUE,TRUE,04-892-2590,Gooderick,10/5/2020,unknown,shampoo
+40-372-2132,Lois,F,18,FALSE,,FALSE,TRUE,78-786-5177,Coolbear,11/18/2022,unknown,topical drops
+80-067-5485,Cecile,F,18,FALSE,,TRUE,FALSE,88-027-1740,Ranvoise,11/19/2020,monthly,topical powder
+66-840-6203,Delmore,M,2,FALSE,,FALSE,FALSE,20-012-5264,Moughtin,9/30/2022,unknown,oral
+43-803-4283,Sada,F,2,TRUE,Alaskan Athabascan,TRUE,TRUE,33-601-6138,Keynd,5/19/2018,unknown,oral
+62-183-7206,Susie,F,8,TRUE,Cambodian,TRUE,TRUE,32-609-9564,Barbey,4/20/2020,monthly,topical drops
+48-814-4671,Tomasine,F,17,FALSE,,TRUE,FALSE,27-880-6854,Chaff,12/8/2020,unknown,collar
+72-593-9266,Cazzie,M,4,FALSE,,FALSE,FALSE,07-928-7375,Ingilson,7/22/2021,annually,unknown
+12-508-2829,Kelsy,F,14,TRUE,,TRUE,TRUE,10-061-5762,Jozwik,12/7/2020,monthly,topical drops
+71-552-9364,Biron,M,15,TRUE,Alaska Native,TRUE,TRUE,19-511-3745,Cowitz,5/10/2021,annually,shampoo
+76-062-3729,Justino,M,1,FALSE,Chinese,TRUE,TRUE,90-446-9606,Orrom,5/17/2018,unknown,collar
+84-341-5037,Florencia,F,20,TRUE,Iroquois,FALSE,TRUE,73-928-8170,De Bell,11/29/2019,unknown,collar
+63-489-6420,Jilleen,F,5,FALSE,,FALSE,TRUE,50-149-8667,Jonin,11/24/2022,annually,topical powder
+71-206-6841,Laure,F,12,FALSE,,FALSE,TRUE,20-213-1078,Catterall,9/30/2021,monthly,unknown
+00-448-1793,Lock,M,12,FALSE,Asian,TRUE,TRUE,28-599-4649,Altham,9/15/2021,annually,topical powder
+30-394-3879,Hogan,M,19,FALSE,White,FALSE,TRUE,94-677-5905,Mapledorum,7/30/2021,monthly,collar
+26-900-5097,Shaun,M,5,TRUE,Central American,TRUE,FALSE,35-878-4142,Roumier,9/26/2020,monthly,shampoo
+95-406-1647,Spencer,M,16,TRUE,,FALSE,FALSE,48-318-6664,Comizzoli,3/20/2020,unknown,unknown
+67-498-4540,Jaimie,M,1,TRUE,,TRUE,TRUE,05-110-6249,Lissandri,5/29/2021,annually,oral
+85-881-7364,Vernor,M,4,TRUE,,TRUE,TRUE,42-319-3118,Rozenzweig,4/13/2019,monthly,topical drops
+60-658-1456,Teddi,F,2,TRUE,,TRUE,FALSE,91-443-3399,Winney,10/30/2019,monthly,unknown
+53-534-9136,Mercy,F,12,TRUE,,FALSE,FALSE,51-871-3514,Smale,10/4/2021,unknown,collar
+97-457-4127,Hal,M,15,FALSE,Alaska Native,TRUE,TRUE,46-039-3732,Purvis,2/21/2019,annually,unknown
+85-991-3580,Bear,M,15,TRUE,Seminole,TRUE,FALSE,26-928-9202,Shalcros,4/22/2021,annually,unknown
+47-186-3639,Lezley,M,11,FALSE,Asian Indian,TRUE,TRUE,39-402-3664,Marquis,10/20/2022,monthly,topical powder
+49-924-8095,Boycie,M,17,TRUE,,TRUE,TRUE,76-059-5370,Seif,5/14/2018,monthly,collar
+26-422-1881,Jessee,M,14,FALSE,,FALSE,TRUE,42-799-1320,Chilvers,10/7/2019,annually,oral
+21-969-6283,Ray,F,1,FALSE,Ottawa,FALSE,TRUE,04-286-7627,Evetts,7/27/2021,annually,topical drops
+67-267-0437,Benny,F,6,FALSE,,FALSE,TRUE,44-532-9729,Kidney,12/4/2019,monthly,topical powder
+88-380-3319,Claudine,F,9,FALSE,,TRUE,TRUE,87-629-1791,Sparshutt,10/18/2018,annually,unknown
+19-460-1130,Gray,F,14,TRUE,,TRUE,TRUE,94-068-7702,Konke,5/31/2020,monthly,unknown
+82-661-8243,Vitoria,F,1,TRUE,,FALSE,TRUE,44-408-0537,Pudney,10/23/2022,unknown,topical drops
+73-553-7666,Brett,M,4,TRUE,,FALSE,FALSE,01-513-3366,Venus,12/29/2021,monthly,unknown
+05-708-8783,Toddie,M,9,FALSE,Yaqui,FALSE,FALSE,43-077-9142,Eastwood,1/29/2018,unknown,shampoo
+93-012-1994,Arlen,F,14,TRUE,Delaware,FALSE,TRUE,52-191-1479,Marton,8/30/2021,monthly,unknown
+75-128-3969,Sloane,M,12,FALSE,Apache,TRUE,TRUE,09-060-9423,De la Eglise,8/4/2021,annually,unknown
+68-237-9118,Tove,F,11,TRUE,,TRUE,FALSE,92-378-7392,O' Hanvey,3/20/2018,monthly,topical drops
+67-849-1594,Huntington,M,4,FALSE,,TRUE,FALSE,33-643-6241,Wheatley,1/15/2022,unknown,shampoo
+50-615-2200,Sadella,F,8,FALSE,,TRUE,FALSE,00-711-9657,Zamorano,7/18/2020,annually,collar
+69-572-4299,Sarge,M,13,TRUE,Delaware,FALSE,FALSE,90-823-2294,Beckwith,8/15/2022,annually,shampoo
+48-812-5309,Dov,M,4,TRUE,,TRUE,TRUE,72-526-2156,Humble,4/28/2018,unknown,topical powder
+73-980-9112,Darline,F,13,TRUE,Choctaw,TRUE,TRUE,15-102-3662,Donaho,4/13/2019,monthly,collar
+91-361-3873,Massimo,M,17,FALSE,,FALSE,FALSE,83-190-4709,Wheater,2/12/2018,monthly,topical powder
+18-883-2731,Brittni,F,5,FALSE,,TRUE,TRUE,96-166-1334,Searby,10/4/2021,annually,collar
+13-098-7737,Brad,M,9,TRUE,Bolivian,TRUE,TRUE,27-120-5575,Husbands,7/1/2020,monthly,collar
+96-158-1962,Barnett,M,14,TRUE,Fijian,TRUE,TRUE,05-497-7222,Eady,6/27/2021,unknown,topical powder
+70-113-8870,Jamey,M,19,FALSE,Crow,FALSE,FALSE,85-568-1187,Stawell,7/7/2018,unknown,oral
+93-418-7543,Osmond,M,15,FALSE,Sri Lankan,FALSE,FALSE,37-696-1393,Slocombe,4/20/2021,unknown,oral
+04-535-6810,Sharline,F,1,TRUE,,FALSE,TRUE,06-520-2594,McKerron,1/3/2021,annually,topical drops
+97-728-0463,Andriana,F,19,TRUE,Shoshone,TRUE,TRUE,64-576-3818,Berkelay,7/12/2018,annually,unknown
+35-323-9990,Mead,F,7,TRUE,,TRUE,FALSE,87-131-5784,Rydzynski,5/16/2022,annually,oral
+28-412-3975,Poppy,F,20,TRUE,,FALSE,TRUE,11-199-3378,Steel,7/8/2022,unknown,unknown
+40-463-0857,Levi,M,16,FALSE,,FALSE,TRUE,34-575-4336,Ventum,1/3/2019,unknown,unknown
+98-274-6894,Else,F,16,TRUE,,TRUE,FALSE,67-066-3692,Bartlett,11/10/2019,annually,unknown
+77-782-0171,Layton,M,11,FALSE,,FALSE,FALSE,93-603-8572,Larne,5/12/2019,monthly,topical powder
+68-059-8026,Fanchette,F,20,FALSE,,FALSE,TRUE,57-898-9253,Breston,6/10/2019,unknown,oral
+79-273-5530,Carey,M,5,TRUE,,TRUE,TRUE,39-048-8830,Whitby,12/15/2021,unknown,topical powder
+89-782-9327,Roberto,M,3,FALSE,Mexican,FALSE,FALSE,01-514-1302,Speed,10/27/2018,unknown,collar
+84-538-4164,Eduino,M,1,TRUE,,TRUE,TRUE,34-484-3731,Sawrey,3/13/2019,annually,collar
+44-502-1204,Natka,F,14,TRUE,Cambodian,TRUE,TRUE,54-620-1798,Headrick,7/15/2021,monthly,collar
+46-866-3030,Orazio,M,2,FALSE,,TRUE,FALSE,32-230-1991,Fenby,7/11/2022,annually,topical powder
+41-054-2404,Clarke,M,5,TRUE,,FALSE,FALSE,16-580-5960,Ditchburn,4/12/2018,unknown,oral
+02-430-5606,Georges,M,15,TRUE,Tongan,TRUE,FALSE,70-354-7866,Gallgher,10/9/2020,unknown,collar
+44-161-5085,Heather,F,18,TRUE,,TRUE,TRUE,55-992-1693,Kleinsmuntz,6/4/2020,unknown,collar
+91-194-6725,Viola,F,4,TRUE,,FALSE,TRUE,75-189-2613,Mellhuish,11/8/2018,annually,oral
+47-514-7808,Aloysius,M,14,TRUE,,FALSE,FALSE,27-747-0845,Screas,10/31/2018,monthly,unknown
+27-715-7023,Stacey,F,13,TRUE,,FALSE,TRUE,87-648-7191,Ambroz,2/1/2021,annually,topical powder
+62-089-0943,Jarrad,M,4,TRUE,Yuman,TRUE,FALSE,23-884-5882,Cayley,7/10/2021,monthly,oral
+72-509-3936,Lauren,M,20,FALSE,Tohono O'Odham,FALSE,FALSE,01-438-2167,Phizackerly,6/29/2022,unknown,shampoo
+71-369-9179,Quintus,M,5,TRUE,Cuban,TRUE,TRUE,88-687-1897,Tardiff,1/20/2018,monthly,oral
+44-148-3404,Sherwood,M,12,TRUE,,TRUE,FALSE,77-355-6690,Thaxter,6/11/2022,annually,topical drops
+38-932-4972,Shae,M,10,TRUE,Sioux,TRUE,FALSE,58-196-8022,Boyland,1/25/2020,monthly,topical powder
+48-475-1321,Derk,M,18,FALSE,,TRUE,TRUE,28-867-8261,Garside,10/29/2021,monthly,shampoo
+19-917-5263,Shamus,M,10,TRUE,Seminole,TRUE,FALSE,23-818-8682,Crannis,7/24/2022,monthly,collar
+19-147-6768,Wendie,F,16,FALSE,,TRUE,TRUE,19-253-3817,Wilkisson,11/20/2022,annually,shampoo
+04-578-4085,Francis,M,14,TRUE,,TRUE,FALSE,38-118-5343,Lawrinson,10/15/2020,unknown,collar
+97-107-2460,Merlina,F,19,TRUE,Chickasaw,TRUE,TRUE,50-849-7901,Handscomb,6/30/2018,monthly,unknown
+31-619-2978,Sherrie,F,16,TRUE,Puerto Rican,TRUE,TRUE,26-527-1700,Bartrum,4/6/2020,unknown,unknown
+41-960-1305,Dannie,F,19,FALSE,,FALSE,TRUE,62-804-5424,Addionisio,6/25/2021,annually,topical drops
+91-494-8888,Winnah,F,14,FALSE,South American,TRUE,FALSE,61-120-8318,Raubheim,10/3/2019,annually,topical drops
+63-836-1696,Spenser,M,20,FALSE,Paraguayan,FALSE,FALSE,57-693-1368,Terrington,12/15/2020,monthly,unknown
+83-545-6697,Bradney,M,4,TRUE,,FALSE,TRUE,82-220-4202,Phillipson,3/20/2020,unknown,topical powder
+28-802-1391,Riki,F,3,FALSE,,FALSE,TRUE,43-467-8432,Ellph,6/27/2020,annually,oral
+93-252-9342,Betsey,F,16,TRUE,Native Hawaiian,TRUE,FALSE,30-151-2610,Farington,9/6/2019,monthly,topical powder
+71-388-5267,Phillip,M,11,TRUE,Shoshone,TRUE,FALSE,66-754-6580,Nickolls,8/29/2018,monthly,oral
+71-708-9904,Micah,M,15,FALSE,,TRUE,FALSE,82-729-6268,Sagg,4/16/2018,unknown,shampoo
+99-901-3659,Kiel,M,17,TRUE,Honduran,FALSE,TRUE,14-308-4283,Belsey,8/4/2020,monthly,topical powder
+64-274-1707,Garrot,M,1,TRUE,Colville,TRUE,TRUE,26-755-1581,Monger,11/9/2019,monthly,collar
+20-426-5442,Rosanne,F,14,FALSE,Comanche,FALSE,FALSE,56-056-0021,Jacke,6/1/2020,unknown,unknown
+30-100-8119,Umeko,F,3,TRUE,Filipino,FALSE,TRUE,26-905-6186,MacTerrelly,9/5/2022,annually,topical powder
+68-663-4033,Lorant,M,19,TRUE,Tongan,TRUE,TRUE,41-848-1039,Pawle,2/16/2019,monthly,unknown
+91-504-8885,Mada,F,18,FALSE,Mexican,TRUE,TRUE,76-532-5115,Waddilove,5/1/2020,annually,collar
+08-648-1586,Michale,M,16,TRUE,Dominican (Dominican Republic),TRUE,TRUE,68-421-1098,Blinder,5/4/2022,monthly,unknown
+36-372-3012,Inger,F,10,TRUE,Eskimo,TRUE,FALSE,30-955-3415,De Filippo,6/17/2020,unknown,topical powder
+32-729-5733,Marie-jeanne,F,10,TRUE,,TRUE,TRUE,78-689-9642,McLeoid,12/2/2021,monthly,topical drops
+06-054-1016,Trumaine,M,10,TRUE,,TRUE,FALSE,42-391-4338,Crone,11/4/2019,monthly,collar
+83-904-7749,Filmer,M,13,TRUE,,TRUE,TRUE,09-862-3706,Tift,12/8/2021,annually,topical drops
+88-855-2221,Erroll,M,6,FALSE,Delaware,TRUE,FALSE,90-639-1091,Gleed,12/15/2021,annually,collar
+73-518-3826,Tracey,M,5,TRUE,,FALSE,TRUE,32-531-1131,Irlam,12/13/2018,monthly,shampoo
+90-902-4451,Thekla,F,9,FALSE,,FALSE,TRUE,86-875-1080,Fort,1/28/2020,monthly,topical powder
+36-541-8904,Billy,M,5,FALSE,,TRUE,FALSE,93-179-3030,Daniele,5/22/2022,monthly,collar
+01-912-0586,Ashely,F,2,TRUE,Bolivian,FALSE,FALSE,75-205-7291,Sowden,4/11/2022,unknown,unknown
+87-028-1456,Benoit,M,3,TRUE,Dominican (Dominican Republic),TRUE,TRUE,72-755-6514,Venart,11/14/2022,unknown,unknown
+08-749-5044,Gennie,F,12,TRUE,Asian,TRUE,FALSE,02-213-8078,Bogey,11/23/2019,unknown,topical drops
+17-482-6443,Corine,F,17,FALSE,,FALSE,TRUE,27-499-6647,Pettiward,11/8/2022,annually,collar
+48-465-1102,Dannel,M,13,TRUE,,TRUE,FALSE,29-686-5741,Stokes,5/19/2019,monthly,collar
+58-692-1092,Mira,F,5,FALSE,Yakama,TRUE,FALSE,46-953-2126,Birchett,12/9/2019,monthly,oral
+86-310-4304,Dael,M,14,TRUE,,FALSE,FALSE,05-903-4633,Stonard,11/22/2018,monthly,topical powder
+34-575-0634,Cristie,F,18,TRUE,,FALSE,FALSE,21-118-7255,Willson,12/3/2018,annually,topical powder
+49-277-3554,Jake,M,4,TRUE,,TRUE,TRUE,25-614-3279,Shilliday,5/1/2019,unknown,shampoo
+07-779-6213,Ugo,M,1,TRUE,Latin American Indian,TRUE,TRUE,87-609-6976,Huyghe,1/17/2019,annually,oral
+60-873-3419,Randall,M,1,TRUE,,TRUE,FALSE,79-958-6540,Paunsford,1/19/2022,unknown,unknown
+22-135-1661,Northrop,M,7,TRUE,,TRUE,TRUE,34-778-6277,Orwin,5/27/2022,annually,topical powder
+18-071-2901,Joane,F,11,TRUE,,TRUE,TRUE,76-563-3158,Chatband,10/7/2018,monthly,topical drops
+91-915-6729,Zenia,F,15,TRUE,,FALSE,TRUE,21-735-3063,Lindro,6/6/2021,monthly,topical powder
+83-116-0100,Jed,M,17,TRUE,,FALSE,FALSE,43-085-1729,Kippen,5/30/2020,monthly,topical drops
+22-708-1588,Daphene,F,18,FALSE,,TRUE,FALSE,57-044-1810,McClory,2/1/2021,monthly,unknown
+81-571-4526,Dorolice,F,18,FALSE,Latin American Indian,TRUE,TRUE,16-670-2297,Kantor,8/8/2021,annually,topical drops
+61-757-1051,Peyter,M,2,TRUE,Panamanian,TRUE,FALSE,86-996-6907,Stoffersen,5/24/2019,annually,unknown
+96-306-2073,Goldina,F,1,TRUE,,FALSE,TRUE,01-405-8004,Goodwell,11/13/2022,unknown,oral
+77-350-2794,Raddie,M,8,FALSE,Osage,FALSE,TRUE,09-891-6037,Delgadillo,3/27/2018,annually,unknown
+26-115-5576,Susan,F,11,FALSE,,TRUE,FALSE,56-837-1795,Pays,8/28/2018,unknown,oral
+66-605-8104,Farah,F,8,TRUE,Vietnamese,TRUE,TRUE,16-630-1953,Woodburne,3/26/2020,unknown,topical powder
+54-163-8267,Buddie,M,13,FALSE,,TRUE,FALSE,29-333-6953,Bampkin,4/3/2022,monthly,oral
+27-645-6568,Dew,M,3,TRUE,Creek,FALSE,TRUE,98-232-9676,Gotthard.sf,1/31/2021,unknown,unknown
+00-129-8518,Taffy,F,7,TRUE,Colville,FALSE,FALSE,73-790-0913,Pablos,4/20/2022,annually,unknown
+03-610-3142,Andree,F,7,FALSE,Creek,TRUE,FALSE,01-797-9618,Waistall,12/14/2018,unknown,shampoo
+00-345-4363,Augustus,M,3,TRUE,White,FALSE,TRUE,14-865-0988,Georgelin,7/28/2021,annually,topical powder
+44-923-4324,Joy,F,4,TRUE,,TRUE,TRUE,74-960-1220,Chaikovski,1/30/2021,monthly,topical drops
+47-794-5899,Tuck,M,6,FALSE,Shoshone,TRUE,FALSE,79-763-0743,Waulker,6/16/2019,monthly,topical powder
+40-828-2398,Jervis,M,19,TRUE,,FALSE,TRUE,72-986-5376,Steptow,12/16/2021,unknown,shampoo
+62-769-8538,Patrick,M,3,TRUE,Honduran,TRUE,TRUE,88-006-9706,Greenacre,10/3/2021,unknown,collar
+42-169-8603,Munmro,M,13,FALSE,Mexican,TRUE,FALSE,01-846-9880,Peer,8/17/2020,unknown,oral
+50-732-0516,Schuyler,M,15,FALSE,Black or African American,TRUE,TRUE,09-767-2121,Abbess,11/22/2018,monthly,topical powder
+17-239-3751,Ryun,M,18,FALSE,,FALSE,FALSE,66-445-7034,Partlett,8/30/2021,unknown,shampoo
+49-362-5818,Niels,M,1,TRUE,,FALSE,FALSE,17-504-8367,Armitt,6/30/2020,unknown,topical powder
+19-093-3372,Dewain,M,6,TRUE,,TRUE,FALSE,99-821-0533,Walter,1/11/2019,annually,collar
+18-734-3535,Deck,M,13,FALSE,,FALSE,FALSE,88-241-5178,Tritton,2/7/2019,annually,oral
+19-106-9341,Ainsley,F,5,FALSE,,FALSE,FALSE,37-924-3411,Lannen,4/11/2018,monthly,oral
+14-699-7773,Ronna,F,7,TRUE,,FALSE,FALSE,19-872-4466,Gianninotti,7/1/2020,annually,topical drops
+13-729-9602,Thomasine,F,15,TRUE,,FALSE,FALSE,76-408-2847,Burch,8/22/2021,annually,oral
+65-251-5854,Forester,M,8,FALSE,Bolivian,FALSE,TRUE,91-835-9304,Grimm,1/12/2022,annually,unknown
+57-279-3820,Gerhardt,M,11,FALSE,Puget Sound Salish,FALSE,FALSE,11-938-7730,Mundle,8/12/2018,unknown,oral
+92-100-4302,Lucinda,F,17,FALSE,Venezuelan,TRUE,TRUE,58-231-7312,Habergham,6/25/2018,annually,collar
+11-774-8759,Lorant,M,1,FALSE,,FALSE,FALSE,37-888-0883,Skrzynski,2/26/2022,annually,collar
+88-743-9129,Loren,M,17,TRUE,Potawatomi,TRUE,FALSE,55-444-7687,Heatly,4/27/2018,unknown,collar
+17-562-8815,Jeremias,M,13,TRUE,Malaysian,TRUE,TRUE,58-916-0607,Leak,8/14/2018,annually,oral
+14-705-5836,Traver,M,9,TRUE,Filipino,FALSE,FALSE,53-997-8119,Neville,5/21/2020,monthly,collar
+31-476-4259,Jobey,F,17,FALSE,Comanche,FALSE,FALSE,51-597-9036,Symons,9/23/2019,monthly,shampoo
+37-091-4209,Ainslee,F,14,FALSE,,FALSE,FALSE,04-763-6185,Odby,4/28/2021,monthly,shampoo
+70-817-8583,Henri,M,19,TRUE,,TRUE,FALSE,49-143-4147,Leasor,4/24/2022,unknown,topical drops
+49-094-9092,Lavinie,F,17,TRUE,Sioux,FALSE,FALSE,64-637-7108,Ayliffe,11/14/2022,unknown,unknown
+43-840-1945,Sawyer,M,5,TRUE,,FALSE,TRUE,60-573-8771,Mollen,9/10/2018,monthly,topical drops
+36-203-4605,Chad,M,6,FALSE,Dominican (Dominican Republic),TRUE,TRUE,93-920-7928,Looney,4/5/2022,monthly,topical powder
+35-496-8837,Farrah,F,15,TRUE,Native Hawaiian,FALSE,FALSE,94-483-8448,Ankers,9/14/2019,annually,shampoo
+32-834-4635,Hubey,M,10,FALSE,Puerto Rican,FALSE,TRUE,11-767-5032,Littell,10/13/2018,monthly,shampoo
+45-845-6730,Raynor,M,3,TRUE,,FALSE,FALSE,10-287-2164,Yitzowitz,1/16/2020,annually,collar
+15-011-5706,Iseabal,F,13,TRUE,Chinese,FALSE,FALSE,83-837-8474,Witch,10/31/2018,annually,collar
+69-092-8745,Beck,M,7,FALSE,Hmong,TRUE,FALSE,19-138-2508,Eynald,1/4/2022,unknown,unknown
+46-232-1910,Fulton,M,1,FALSE,,TRUE,TRUE,06-277-1318,Bunn,1/5/2019,annually,oral
+81-557-8287,Kenton,M,8,FALSE,Sri Lankan,TRUE,TRUE,58-197-7201,Kitcher,3/27/2019,unknown,unknown
+09-761-0183,Darlleen,F,12,FALSE,Guatemalan,TRUE,FALSE,20-823-9323,Creamen,11/16/2018,monthly,shampoo
+71-616-8607,Marlyn,F,7,TRUE,Asian,TRUE,TRUE,75-403-3782,Applegarth,5/19/2020,monthly,shampoo
+78-823-2190,Ike,M,20,FALSE,,FALSE,TRUE,54-973-3311,Umney,8/24/2020,unknown,shampoo
+75-491-5230,Marice,F,13,FALSE,American Indian and Alaska Native (AIAN),TRUE,FALSE,28-767-2715,Walrond,9/6/2022,annually,collar
+42-991-5246,Laney,M,17,TRUE,Latin American Indian,FALSE,FALSE,30-816-0791,Glasscott,7/11/2021,monthly,oral
+94-371-8281,Lezley,M,14,TRUE,,FALSE,FALSE,19-592-3464,Fishbourne,7/10/2020,annually,topical drops
+22-784-9577,Kliment,M,2,FALSE,,FALSE,FALSE,17-909-3909,Jirusek,8/4/2021,unknown,topical powder
+43-879-6211,Mellie,F,12,FALSE,Hmong,TRUE,FALSE,04-696-6368,Scane,12/31/2019,monthly,unknown
+77-275-3257,Milena,F,13,TRUE,,TRUE,FALSE,70-010-0653,Abramow,8/17/2018,monthly,shampoo
+19-422-9772,Regine,F,4,TRUE,,FALSE,FALSE,35-751-4329,Beaconsall,4/2/2020,unknown,unknown
+68-216-3705,Wallie,M,20,TRUE,,FALSE,FALSE,16-919-2673,Berry,1/11/2019,unknown,oral
+21-747-0299,Archibold,M,7,FALSE,Blackfeet,TRUE,TRUE,59-863-8236,Klimkowski,3/17/2022,annually,shampoo
+89-825-9254,Lyn,F,19,FALSE,Pueblo,TRUE,TRUE,70-480-2946,Sherborne,1/11/2022,unknown,shampoo
+08-309-8223,Pinchas,M,15,FALSE,,TRUE,TRUE,52-364-8989,Kellaway,7/1/2022,monthly,oral
+52-944-6162,Kennan,M,7,FALSE,Costa Rican,TRUE,TRUE,59-342-0777,Ewbanks,8/19/2019,unknown,unknown
+83-609-1619,Rocky,M,7,TRUE,Pima,FALSE,TRUE,18-819-7511,Rizzo,2/8/2022,unknown,collar
+32-923-7754,Claretta,F,14,TRUE,,FALSE,TRUE,54-517-7323,Hemmingway,11/11/2020,annually,oral
+21-125-7650,Anne-corinne,F,14,FALSE,,FALSE,TRUE,36-101-9405,Engall,11/14/2022,monthly,shampoo
+89-000-5624,Nicolas,M,13,TRUE,,FALSE,TRUE,42-841-5754,Goodday,4/2/2022,unknown,oral
+75-627-3149,Sherwood,M,3,TRUE,Alaska Native,FALSE,TRUE,93-104-6111,Branston,1/19/2021,annually,topical powder
+30-672-8294,Inessa,F,11,FALSE,,TRUE,FALSE,63-624-9968,Galier,5/17/2020,annually,topical drops
+99-638-2244,Tommy,M,18,TRUE,,FALSE,TRUE,60-357-6074,Tutt,6/16/2018,unknown,topical drops
+59-639-9875,Feodora,F,3,TRUE,Paiute,TRUE,TRUE,73-082-0285,Bernardoux,10/15/2019,monthly,shampoo
+71-865-2520,Denny,F,1,TRUE,,TRUE,FALSE,94-157-2568,Hehnke,3/23/2022,annually,shampoo
+37-175-9403,Perkin,M,15,TRUE,Native Hawaiian and Other Pacific Islander (NHPI),FALSE,FALSE,87-321-9591,Veillard,10/3/2018,monthly,topical powder
+26-979-6469,Myrtle,F,13,TRUE,,FALSE,FALSE,43-457-6380,Piatkowski,5/15/2022,annually,shampoo
+03-631-7714,Irving,M,8,TRUE,Blackfeet,TRUE,FALSE,79-907-7131,Matiewe,12/17/2022,unknown,shampoo
+88-509-7869,Aldin,M,10,FALSE,,FALSE,FALSE,84-785-3474,Wraggs,10/14/2019,annually,collar
+89-353-7886,Matt,M,17,FALSE,,TRUE,TRUE,51-677-2815,Ebenezer,2/10/2020,monthly,shampoo
+10-203-5628,Vonny,F,10,FALSE,Laotian,FALSE,TRUE,58-143-3963,Sollom,2/29/2020,unknown,collar
+52-266-3648,Tremain,M,16,FALSE,Chilean,FALSE,TRUE,57-912-9458,Torvey,8/5/2022,annually,collar
+39-751-8609,Yovonnda,F,12,TRUE,Guatemalan,FALSE,TRUE,48-594-5112,Forseith,1/11/2020,annually,shampoo
+49-497-0377,Wren,F,12,TRUE,Chickasaw,FALSE,FALSE,76-219-8964,Ion,8/17/2019,monthly,unknown
+16-309-3076,Franky,F,8,FALSE,Iroquois,FALSE,TRUE,79-417-7207,Rabbitt,8/15/2021,annually,topical drops
+13-262-5884,Florentia,F,5,FALSE,,FALSE,TRUE,33-925-3464,Dowdell,9/15/2020,unknown,collar
+36-182-9503,Sib,F,9,FALSE,,TRUE,TRUE,12-733-7222,Hulatt,9/7/2019,unknown,collar
+69-442-7339,Washington,M,19,TRUE,Korean,TRUE,TRUE,09-446-7727,Manthroppe,7/30/2022,unknown,topical powder
+11-141-7479,Karleen,F,19,TRUE,Vietnamese,TRUE,TRUE,33-864-3069,Shillom,6/4/2018,unknown,unknown
+91-455-9552,Rebekah,F,3,TRUE,Mexican,FALSE,TRUE,70-550-8781,Kellegher,11/3/2018,monthly,unknown
+58-928-7341,Waiter,M,11,FALSE,,TRUE,TRUE,38-541-5125,Davet,5/21/2018,monthly,topical powder
+25-447-8677,Kaela,F,6,FALSE,Colville,TRUE,TRUE,43-194-5084,Asgodby,1/18/2019,unknown,collar
+72-979-2932,Marven,M,10,TRUE,,TRUE,TRUE,03-675-1299,Rawcliffe,11/26/2019,unknown,topical powder
+61-627-7872,Mab,F,2,TRUE,,TRUE,FALSE,04-119-6621,Paulin,1/12/2021,monthly,topical drops
+54-096-5354,Kendell,M,8,FALSE,,TRUE,TRUE,01-065-6821,Twaits,4/10/2018,monthly,topical powder
+36-117-8036,Gracie,F,2,TRUE,,FALSE,TRUE,35-962-6112,Alp,6/18/2020,annually,oral
+53-875-0279,Freddie,M,18,TRUE,,TRUE,FALSE,27-906-9228,Wicklen,12/29/2018,monthly,shampoo
+77-490-3639,Olga,F,1,FALSE,Polynesian,TRUE,FALSE,17-568-5672,Wyldes,12/21/2021,unknown,topical drops
+90-235-1330,Britte,F,10,TRUE,,FALSE,FALSE,81-792-9350,Picker,4/17/2018,unknown,unknown
+64-287-6260,Reinaldo,M,18,FALSE,Blackfeet,TRUE,FALSE,55-676-5055,Sparkes,12/3/2018,unknown,topical drops
+80-878-0729,Luz,F,7,FALSE,Peruvian,TRUE,FALSE,49-339-1013,Pittock,9/12/2018,annually,topical drops
+19-709-8763,Oates,M,11,FALSE,,TRUE,TRUE,91-272-9502,Wegenen,3/4/2021,unknown,topical powder
+37-595-3848,Nadya,F,16,TRUE,,TRUE,FALSE,16-176-6177,Sudell,12/13/2018,annually,oral
+29-279-9088,Malissia,F,11,FALSE,Laotian,TRUE,TRUE,55-166-2917,Scolts,10/2/2020,monthly,topical powder
+40-444-7092,Else,F,14,FALSE,Puerto Rican,TRUE,FALSE,09-989-5265,Berceros,11/16/2022,unknown,topical drops
+48-127-2535,Bordie,M,15,TRUE,Melanesian,TRUE,TRUE,35-844-7077,Garwood,5/11/2021,monthly,shampoo
+47-213-5145,Kesley,F,19,FALSE,,FALSE,FALSE,53-956-4449,Goggey,3/28/2018,annually,topical powder
+08-368-7460,Jillayne,F,1,FALSE,Yakama,FALSE,FALSE,77-981-1759,Nolte,2/22/2020,monthly,topical drops
+67-512-3202,Nadean,F,3,TRUE,,TRUE,TRUE,25-650-4612,Surcombe,6/10/2020,annually,topical drops
+71-108-5365,Wylie,M,3,TRUE,Japanese,FALSE,FALSE,55-353-0905,Bogey,12/18/2022,annually,unknown
+15-626-3581,Sander,M,3,FALSE,Chilean,FALSE,TRUE,30-670-1413,Scally,9/7/2019,annually,topical powder
+70-277-3455,Bertha,F,2,TRUE,,FALSE,TRUE,39-347-2013,De Launde,1/7/2022,unknown,topical drops
+19-376-8747,Caralie,F,3,TRUE,,FALSE,TRUE,81-943-1404,Kilbane,2/10/2022,unknown,collar
+81-735-3263,Wittie,M,1,FALSE,,TRUE,FALSE,93-611-9875,Warrier,2/23/2018,unknown,unknown
+38-570-5470,Kaia,F,4,TRUE,,TRUE,TRUE,47-313-5811,Prahm,3/31/2018,monthly,topical drops
+04-681-0450,Barry,M,19,FALSE,Sri Lankan,FALSE,FALSE,34-493-6003,Worrill,11/9/2021,annually,oral
+84-987-3585,Marmaduke,M,5,TRUE,,TRUE,FALSE,33-420-6405,Devo,8/19/2022,annually,topical powder
+57-638-7990,Faythe,F,7,TRUE,Eskimo,TRUE,TRUE,85-372-4555,Hefner,9/30/2018,annually,shampoo
+46-714-7727,Cathrin,F,15,FALSE,,FALSE,TRUE,05-848-2874,Boxe,8/11/2022,unknown,topical drops
+26-279-6653,Harbert,M,3,TRUE,,FALSE,TRUE,53-969-2442,Tremonte,2/15/2021,monthly,collar
+74-709-2305,Henriette,F,12,TRUE,Puget Sound Salish,FALSE,FALSE,57-252-0011,Willingale,4/25/2019,annually,shampoo
+36-573-8704,Valera,F,6,FALSE,,FALSE,FALSE,47-148-4189,Bohey,11/23/2020,annually,topical drops
+53-140-7569,Adair,M,10,TRUE,Aleut,FALSE,TRUE,28-827-3523,Le Barre,6/17/2018,annually,collar
+64-246-0381,Gaelan,M,11,TRUE,Chickasaw,TRUE,FALSE,51-240-8764,Cornforth,9/3/2018,annually,topical drops
+12-805-0864,Camala,F,15,FALSE,,FALSE,TRUE,15-254-5367,MacLise,9/27/2018,monthly,unknown
+83-792-9481,Jeri,F,14,FALSE,Cree,TRUE,FALSE,21-994-3251,Bamb,4/4/2020,annually,unknown
+21-697-7807,Hilary,M,10,TRUE,,FALSE,TRUE,03-774-6908,Peris,12/10/2022,monthly,unknown
+65-860-0256,Bendicty,M,7,TRUE,Salvadoran,TRUE,FALSE,58-236-4018,Izchaki,9/13/2021,monthly,collar
+16-076-0631,Llywellyn,M,18,TRUE,,TRUE,TRUE,06-804-4554,Pashler,7/30/2022,annually,topical powder
+54-390-6152,Doloritas,F,2,FALSE,Venezuelan,TRUE,FALSE,11-917-7532,Truesdale,2/14/2021,unknown,topical drops
+97-459-2869,Ivan,M,2,TRUE,,TRUE,TRUE,37-139-6453,Gallyhaock,2/7/2018,annually,shampoo
+40-142-7709,Gabrila,F,18,FALSE,Navajo,TRUE,FALSE,93-517-6228,Liverock,10/15/2022,monthly,topical drops
+45-175-3104,Berry,F,7,TRUE,,FALSE,TRUE,78-589-9945,Beggan,10/25/2022,unknown,topical drops
+83-551-6595,Maible,F,9,FALSE,Colville,TRUE,TRUE,76-092-5811,Freda,8/7/2019,annually,shampoo
+58-720-5541,Arvin,M,4,FALSE,Puget Sound Salish,TRUE,TRUE,63-830-0544,Thumnel,5/8/2019,unknown,topical powder
+08-755-9212,Hamnet,M,13,TRUE,,FALSE,TRUE,01-873-4406,Extal,11/19/2022,monthly,unknown
+77-501-9508,Ema,F,9,FALSE,Chamorro,FALSE,FALSE,30-369-9630,Labb,10/26/2022,annually,topical powder
+11-593-0319,Lionel,M,2,TRUE,,FALSE,FALSE,57-970-3592,Ferrillio,6/19/2019,unknown,oral
+44-607-0698,Renell,F,18,TRUE,Houma,FALSE,FALSE,95-089-7821,Rough,9/9/2019,annually,collar
+81-607-0494,Cookie,F,1,TRUE,Cherokee,FALSE,FALSE,90-081-5823,Pockett,1/13/2020,monthly,collar
+63-200-0957,Blondell,F,4,FALSE,,TRUE,FALSE,14-140-0782,Cornhill,1/2/2019,annually,oral
+51-642-4354,Gwendolen,F,4,FALSE,,TRUE,FALSE,98-782-2260,Congreve,9/25/2020,monthly,unknown
+26-400-2693,Tiff,F,9,TRUE,,FALSE,FALSE,30-529-5766,Ingley,8/24/2019,annually,unknown
+58-157-4133,Lenette,F,11,FALSE,Eskimo,FALSE,FALSE,56-478-1943,Bartoleyn,11/20/2022,annually,shampoo
+02-219-9708,Jacki,F,1,TRUE,,FALSE,FALSE,10-405-7547,Lafford,3/14/2020,annually,unknown
+81-589-8929,Madeline,F,7,FALSE,Lumbee,FALSE,TRUE,29-929-5324,Pascoe,6/8/2018,unknown,oral
+56-657-4632,Kipp,F,8,TRUE,Eskimo,FALSE,TRUE,41-386-3517,Agostini,4/6/2019,unknown,shampoo
+90-881-0826,Araldo,M,11,TRUE,,FALSE,FALSE,62-145-5648,Portsmouth,2/17/2021,monthly,shampoo
+76-190-9050,Romy,F,14,FALSE,Puget Sound Salish,FALSE,FALSE,50-747-8828,Kleinschmidt,2/13/2019,monthly,collar
+76-654-9399,Grayce,F,3,FALSE,,TRUE,TRUE,84-836-5480,Fodden,9/12/2021,unknown,topical drops
+08-996-4952,Pattie,F,11,TRUE,,FALSE,FALSE,22-144-8419,Tatton,11/3/2018,unknown,topical powder
+09-628-9208,Giraldo,M,20,FALSE,,FALSE,TRUE,20-806-9622,Schwandermann,3/28/2021,monthly,topical powder
+02-474-1156,Peder,M,14,FALSE,,FALSE,FALSE,95-618-9735,Flippini,6/18/2019,unknown,shampoo
+35-102-2955,Huey,M,7,TRUE,Asian Indian,TRUE,TRUE,42-705-4216,Patrickson,3/30/2018,monthly,shampoo
+86-137-0057,Barry,F,11,FALSE,Micronesian,TRUE,FALSE,54-981-8830,Uc,11/7/2020,unknown,topical drops
+95-920-5303,Saundra,M,13,FALSE,Spaniard,FALSE,TRUE,20-162-2428,Chewter,1/13/2019,annually,topical drops
+71-473-1560,Inglis,M,18,FALSE,Paraguayan,FALSE,TRUE,09-477-7300,Machel,12/3/2019,annually,unknown
+15-247-9479,Gussi,F,19,TRUE,,FALSE,FALSE,54-610-0085,Ishaki,7/22/2019,monthly,shampoo
+74-018-5920,Kiersten,F,10,FALSE,Pima,TRUE,TRUE,21-243-3407,Ammer,5/20/2020,annually,unknown
+39-638-7052,Betsy,F,20,TRUE,,FALSE,TRUE,79-431-4979,Arman,10/4/2018,annually,oral
+74-842-8627,Sheelah,F,14,TRUE,Colombian,TRUE,TRUE,30-142-2100,Polle,6/9/2021,unknown,collar
+95-563-7900,Tobi,F,13,FALSE,,FALSE,FALSE,75-458-7827,Brownsword,5/3/2020,monthly,topical powder
+94-545-3873,Rickard,M,18,TRUE,,FALSE,FALSE,40-177-9369,Trimble,9/5/2021,monthly,shampoo
+74-365-4066,Lacey,F,14,TRUE,Puget Sound Salish,FALSE,TRUE,13-798-9235,Reeks,2/11/2019,unknown,shampoo
+82-366-0819,Merilyn,F,2,FALSE,Blackfeet,FALSE,FALSE,49-008-3580,Carruthers,10/22/2018,monthly,oral
+14-069-4493,Dael,F,2,TRUE,Eskimo,TRUE,FALSE,80-080-3712,Fradson,3/26/2018,monthly,unknown
+46-143-9982,Cynthea,F,13,FALSE,,FALSE,FALSE,07-736-3474,Ickeringill,2/13/2020,unknown,unknown
+54-808-2926,Derby,M,20,FALSE,,TRUE,TRUE,47-416-4570,Clingan,7/9/2021,annually,shampoo
+22-470-4558,Hildagarde,F,9,FALSE,,TRUE,TRUE,77-368-7922,Quig,8/27/2020,annually,oral
+73-411-4458,Wiley,M,10,TRUE,,TRUE,TRUE,03-135-5871,Heindrick,1/29/2018,unknown,topical drops
+24-756-2172,Cassondra,F,3,TRUE,,TRUE,FALSE,88-686-0046,Westoff,1/12/2020,annually,topical powder
+02-191-9232,Milton,M,14,FALSE,Dominican (Dominican Republic),FALSE,TRUE,68-446-8323,Becket,7/3/2018,annually,shampoo
+17-012-8346,Nanni,F,7,FALSE,Chickasaw,FALSE,FALSE,93-249-2719,Halsho,5/4/2018,unknown,topical drops
+47-207-5763,Melba,F,17,TRUE,,FALSE,FALSE,69-166-5662,Pinare,11/17/2022,monthly,topical drops
+78-385-0858,Turner,M,20,TRUE,,FALSE,TRUE,65-830-8711,Ruxton,10/31/2022,annually,shampoo
+92-513-8264,Janet,F,14,FALSE,Nicaraguan,TRUE,FALSE,15-373-6030,Marden,3/25/2019,unknown,shampoo
+55-891-5601,Melonie,F,2,FALSE,Guatemalan,FALSE,TRUE,98-885-0799,Brightman,9/26/2020,annually,collar
+32-743-4028,Iolande,F,17,FALSE,Mexican,TRUE,TRUE,54-566-6398,Ahmed,4/12/2020,annually,collar
+83-691-7972,Tarah,F,13,TRUE,Malaysian,FALSE,FALSE,33-954-8632,Jones,9/2/2020,unknown,topical powder
+03-180-5840,Luce,F,8,TRUE,,FALSE,TRUE,66-362-5806,Coggin,12/22/2021,monthly,shampoo
+91-909-7378,Zack,M,14,TRUE,Tongan,TRUE,FALSE,67-605-6466,Itzakovitz,2/6/2018,annually,collar
+57-892-9092,Ly,M,19,TRUE,Thai,FALSE,FALSE,93-493-9197,Weblin,8/10/2021,monthly,shampoo
+94-727-0201,Webb,M,1,FALSE,,FALSE,TRUE,61-980-4597,Baudinot,8/14/2018,monthly,topical drops
+31-756-7083,Matias,M,7,FALSE,,FALSE,TRUE,18-147-0494,Ottiwill,9/12/2020,unknown,shampoo
+39-282-1934,Christoffer,M,4,TRUE,,TRUE,TRUE,12-259-9387,Vibert,2/13/2020,monthly,topical powder
+48-389-4881,Kathie,F,17,FALSE,Apache,FALSE,FALSE,09-208-4007,Weakley,4/26/2021,annually,shampoo
+20-864-1370,Bernadina,F,6,FALSE,,TRUE,TRUE,09-414-3580,Curro,6/8/2018,monthly,shampoo
+65-004-4825,Nicolai,M,11,TRUE,Nicaraguan,TRUE,FALSE,55-753-2383,Passby,2/21/2018,monthly,collar
+24-657-0605,Wallis,F,3,FALSE,,TRUE,FALSE,53-060-1899,Cockley,12/31/2020,annually,topical drops
+56-676-9477,Coraline,F,3,FALSE,,TRUE,TRUE,68-306-5696,Piesing,5/23/2021,unknown,collar
+66-164-1076,Caril,F,17,TRUE,Vietnamese,FALSE,TRUE,89-945-2499,Sergeant,8/31/2021,unknown,collar
+38-580-2927,Archibold,M,15,FALSE,,TRUE,FALSE,45-109-6861,Peregrine,9/21/2021,monthly,collar
+39-153-7905,Nehemiah,M,3,FALSE,Bolivian,FALSE,FALSE,29-709-3413,Spurdens,1/30/2021,monthly,collar
+67-531-0611,Bren,M,5,TRUE,,FALSE,FALSE,99-510-7609,Lampke,4/13/2020,annually,topical drops
+05-564-3583,Dyan,F,9,FALSE,,FALSE,TRUE,72-205-9046,Linkleter,5/3/2019,annually,collar
+80-421-1357,Aksel,M,9,FALSE,Peruvian,TRUE,TRUE,70-674-0098,Hutchinson,2/25/2022,unknown,topical drops
+02-037-1587,Bucky,M,4,FALSE,,FALSE,TRUE,35-477-8633,Sharples,5/22/2020,monthly,topical drops
+80-942-8202,Marcus,M,9,TRUE,Yakama,TRUE,FALSE,38-754-6400,Fownes,12/19/2018,monthly,collar
+50-155-3000,Torie,F,4,FALSE,Korean,TRUE,FALSE,27-833-3572,Kennady,1/16/2019,unknown,topical drops
+31-495-4975,Tiena,F,19,FALSE,Tongan,FALSE,FALSE,75-795-0442,Spriddle,10/11/2021,annually,unknown
+09-617-7033,Eddie,M,17,TRUE,Honduran,FALSE,FALSE,49-959-0685,Hackwell,2/13/2021,unknown,oral
+46-900-8051,Zackariah,M,17,FALSE,Eskimo,TRUE,TRUE,01-717-1723,Coom,5/13/2018,monthly,collar
+95-509-3634,Marina,F,20,FALSE,,TRUE,TRUE,74-329-7231,Crame,5/19/2020,annually,shampoo
+86-063-7421,Brockie,M,12,TRUE,,TRUE,TRUE,85-734-6979,Garaway,4/8/2018,unknown,topical powder
+02-308-4673,Marve,M,14,FALSE,,TRUE,FALSE,34-281-5572,Matousek,11/13/2018,unknown,topical drops
+12-264-4891,Elene,F,19,TRUE,,FALSE,TRUE,86-319-5122,Cranmer,10/24/2021,unknown,topical drops
+92-201-8314,Aurlie,F,13,FALSE,,TRUE,FALSE,80-752-1886,Noquet,12/26/2020,annually,collar
+01-627-4680,Rabi,M,18,FALSE,Guamanian,FALSE,TRUE,31-800-6124,Banisch,5/19/2018,annually,shampoo
+18-444-7257,Holmes,M,9,FALSE,,TRUE,FALSE,58-275-3119,Bonson,10/27/2021,monthly,topical powder
+98-759-1358,Celestia,F,6,FALSE,Puerto Rican,FALSE,FALSE,65-267-8584,Langsbury,2/22/2022,annually,topical drops
+39-771-6610,Maegan,F,5,TRUE,,TRUE,FALSE,04-718-2295,MacNelly,8/28/2019,annually,unknown
+75-056-6156,Jeanette,F,4,TRUE,Alaska Native,TRUE,TRUE,06-143-0241,Camp,4/11/2019,unknown,topical drops
+03-894-7280,Kelci,F,7,TRUE,Sri Lankan,TRUE,FALSE,84-280-4736,Orwell,2/10/2021,monthly,oral
+55-030-2789,Deerdre,F,1,TRUE,,FALSE,TRUE,74-843-2395,Airey,6/18/2022,monthly,collar
+42-094-4637,Merrill,F,9,FALSE,,FALSE,FALSE,84-402-0730,Hilldrop,12/29/2020,annually,topical drops
+84-256-6874,Raynor,M,15,TRUE,,TRUE,TRUE,11-020-2791,Goodfield,7/10/2022,unknown,collar
+90-985-3386,Faulkner,M,2,FALSE,Cree,FALSE,FALSE,99-955-7966,Milsap,4/21/2020,unknown,unknown
+60-131-1193,Cyb,F,12,FALSE,Mexican,FALSE,FALSE,48-026-3507,Sponer,2/12/2021,unknown,collar
+60-586-8492,Juieta,F,1,TRUE,Yaqui,FALSE,TRUE,45-149-4300,Fear,12/26/2019,unknown,shampoo
+29-984-2297,Garrard,M,4,FALSE,,TRUE,FALSE,86-449-0311,Truelock,4/28/2021,unknown,topical powder
+45-449-8232,Alick,M,17,FALSE,,TRUE,TRUE,51-169-1252,Diboll,12/26/2019,monthly,topical drops
+71-643-2433,Jefferson,M,18,FALSE,Honduran,FALSE,FALSE,52-974-5883,McGuiness,3/19/2022,monthly,topical powder
+95-954-6604,Olvan,M,13,TRUE,,TRUE,TRUE,93-776-5116,Clulee,2/13/2019,monthly,topical drops
+50-974-3661,Vergil,M,15,FALSE,Aleut,FALSE,TRUE,79-088-7147,Gillet,7/19/2019,monthly,shampoo
+56-966-0632,Seward,M,5,TRUE,White,TRUE,FALSE,61-335-7015,Burburough,3/24/2018,monthly,topical drops
+71-430-9832,Casey,F,11,TRUE,,TRUE,FALSE,57-371-0063,Yuill,4/19/2018,unknown,topical drops
+32-843-0511,Marcelline,F,16,FALSE,Shoshone,TRUE,FALSE,93-724-5987,Warrington,7/1/2020,monthly,topical powder
+16-445-6054,Freda,F,16,TRUE,,FALSE,TRUE,16-570-1747,Watkins,1/15/2022,annually,topical powder
+75-872-3941,Aldric,M,17,TRUE,Panamanian,TRUE,TRUE,13-611-2315,Clutterham,4/19/2019,monthly,shampoo
+13-685-5791,Michaelina,F,18,TRUE,,FALSE,FALSE,89-821-5582,Grossman,5/13/2021,monthly,topical drops
+46-706-4745,Raina,F,9,FALSE,Costa Rican,FALSE,FALSE,59-346-5288,Kemery,10/2/2021,monthly,shampoo
+10-280-3589,Caryn,F,20,FALSE,,FALSE,TRUE,63-174-6152,Bulluck,7/27/2020,unknown,topical drops
+94-441-9445,Faye,F,16,FALSE,Vietnamese,FALSE,FALSE,09-149-5026,Leander,3/15/2018,annually,unknown
+19-738-9847,Chane,M,1,FALSE,,FALSE,TRUE,43-258-3326,Godbold,6/28/2021,monthly,oral
+18-550-8864,Geoffrey,M,9,FALSE,South American,TRUE,TRUE,58-966-2029,Light,10/13/2020,unknown,shampoo
+44-922-6133,Quint,M,16,TRUE,,TRUE,TRUE,26-579-2712,Callingham,6/22/2020,annually,topical drops
+90-041-2454,Cookie,F,17,FALSE,Yaqui,TRUE,TRUE,05-496-2134,Welbrock,11/19/2018,annually,topical drops
+24-301-3911,Sanford,M,16,FALSE,Pueblo,TRUE,FALSE,99-343-9258,Bompas,2/18/2019,monthly,topical drops
+26-022-8964,Cati,F,9,FALSE,,FALSE,TRUE,90-475-2737,Molder,4/8/2021,annually,oral
+94-071-7915,Storm,F,5,TRUE,Tlingit-Haida,TRUE,TRUE,57-647-2668,Ashbee,4/1/2020,monthly,oral
+15-203-0155,Bessie,F,7,FALSE,,FALSE,FALSE,29-410-4251,Jado,8/3/2020,unknown,topical drops
+80-637-3657,Max,F,11,FALSE,Argentinian,FALSE,FALSE,02-789-1601,Inkster,9/6/2020,unknown,topical drops
+89-423-0323,Marjie,F,18,FALSE,Asian Indian,FALSE,TRUE,98-348-3220,Jeannenet,12/8/2021,annually,collar
+40-705-9854,Kelwin,M,13,FALSE,Paraguayan,TRUE,FALSE,76-645-2880,Carnilian,4/16/2022,annually,topical drops
+70-694-6447,Keeley,F,11,TRUE,Micronesian,TRUE,FALSE,07-970-2270,Gallaher,9/4/2022,annually,shampoo
+85-944-1493,Win,M,13,TRUE,,TRUE,TRUE,63-456-3978,Polleye,11/18/2020,unknown,topical powder
+57-564-9850,Paulie,M,10,FALSE,,FALSE,FALSE,67-987-5803,Dewick,2/1/2019,monthly,unknown
+34-404-4362,Burg,M,11,FALSE,,FALSE,TRUE,16-318-9151,Hollyar,5/26/2021,monthly,collar
+80-521-4773,Findley,M,2,TRUE,,FALSE,TRUE,95-547-5669,Lippard,10/5/2018,unknown,topical powder
+64-423-0318,Hazlett,M,20,FALSE,Houma,TRUE,TRUE,11-023-9643,Spear,12/6/2022,monthly,collar
+91-923-3152,Luciano,M,20,FALSE,,TRUE,FALSE,63-409-8957,Nother,4/19/2021,monthly,topical drops
+04-256-1115,Aviva,F,4,FALSE,,FALSE,TRUE,45-592-6990,Danes,10/28/2021,unknown,collar
+68-832-4440,Bekki,F,2,TRUE,,TRUE,TRUE,17-711-8489,Buckthought,7/14/2021,unknown,oral
+24-684-5575,Nataline,F,3,TRUE,Kiowa,TRUE,FALSE,87-856-6989,Davidsson,8/3/2022,annually,collar
+53-745-8036,Natty,M,20,FALSE,Cheyenne,TRUE,FALSE,95-526-0506,Boodle,12/15/2021,monthly,unknown
+23-028-2104,Dyanna,F,13,FALSE,,FALSE,FALSE,10-597-1305,Santen,8/22/2020,annually,topical drops
+96-676-8581,Franny,F,13,TRUE,Menominee,FALSE,FALSE,66-691-3248,Osban,8/8/2018,annually,shampoo
+88-976-7439,Sherill,F,18,FALSE,,FALSE,TRUE,87-855-2845,Rowledge,11/7/2019,unknown,topical drops
+78-359-5466,Gerald,M,8,FALSE,Costa Rican,TRUE,FALSE,61-947-5237,Gotmann,11/15/2019,monthly,unknown
+43-284-1264,Maurine,F,5,TRUE,Paraguayan,FALSE,FALSE,71-997-4321,Jeens,6/3/2021,annually,oral
+63-842-7285,Franny,F,19,FALSE,Bolivian,FALSE,FALSE,63-938-1108,Soles,12/10/2018,unknown,topical drops
+33-663-2510,Ali,M,19,FALSE,,FALSE,FALSE,74-011-3254,Grisdale,9/15/2019,annually,unknown
+46-462-9066,Yorgos,M,6,TRUE,,FALSE,TRUE,44-118-6985,Timmes,5/20/2018,unknown,unknown
+26-857-9903,Alys,F,6,TRUE,,TRUE,TRUE,87-550-4566,Berthelmot,9/22/2021,unknown,topical powder
+38-713-3507,Jazmin,F,12,TRUE,Pakistani,FALSE,TRUE,25-627-5188,Ponton,11/16/2022,annually,collar
+33-162-3879,Teena,F,11,TRUE,Uruguayan,FALSE,FALSE,58-218-4221,Bernardon,8/18/2019,unknown,shampoo
+46-641-6072,Pru,F,10,FALSE,Chinese,FALSE,FALSE,77-772-2984,Leamon,9/22/2018,monthly,topical drops
+23-774-7667,Quill,M,18,FALSE,,TRUE,FALSE,49-768-4464,Brompton,11/4/2018,monthly,unknown
+00-754-4872,Grove,M,7,TRUE,Puget Sound Salish,FALSE,TRUE,50-934-5281,Gallamore,4/8/2022,unknown,oral
+67-091-2390,Willy,M,3,TRUE,Ecuadorian,FALSE,TRUE,87-514-5162,Christene,11/4/2021,monthly,unknown
+36-672-3998,Corrine,F,8,FALSE,Mexican,FALSE,TRUE,86-998-3676,Goldsbrough,11/19/2021,unknown,topical drops
+39-615-9143,Bette,F,10,TRUE,,FALSE,FALSE,37-364-0810,Butler,2/9/2022,unknown,unknown
+87-622-3967,Rouvin,M,12,FALSE,,TRUE,TRUE,19-191-7696,Sproston,4/5/2018,monthly,topical drops
+19-990-3374,Von,M,14,TRUE,,TRUE,TRUE,97-225-6355,Zorn,4/21/2021,unknown,unknown
+71-075-1304,Nancee,F,12,TRUE,,FALSE,TRUE,19-160-1232,Bowdon,2/3/2022,annually,topical drops
+64-001-8109,Lincoln,M,20,FALSE,,FALSE,FALSE,76-804-2703,Bratten,10/15/2022,unknown,collar
+08-406-7480,Leigh,M,16,FALSE,,FALSE,FALSE,73-757-5048,Peasee,5/19/2021,annually,unknown
+04-048-9378,Felicle,F,4,FALSE,,TRUE,FALSE,20-453-3736,Linscott,5/9/2019,annually,collar
+48-222-8959,Leodora,F,6,TRUE,,FALSE,TRUE,43-486-1616,Cowan,9/13/2022,annually,collar
+55-665-5924,Melony,F,7,FALSE,Blackfeet,FALSE,TRUE,64-824-4049,McTurk,5/29/2021,unknown,oral
+18-858-7850,Karly,F,11,FALSE,Creek,TRUE,FALSE,33-128-7642,McReynold,8/24/2021,unknown,unknown
+51-574-9724,Vilhelmina,F,4,TRUE,,TRUE,TRUE,25-810-2555,Tothe,1/5/2020,unknown,topical powder
+07-803-9137,Leupold,M,17,FALSE,,FALSE,FALSE,40-737-3903,Cockle,2/16/2021,unknown,oral
+38-484-5169,Carita,F,5,FALSE,,FALSE,TRUE,33-848-4897,Lower,10/8/2018,annually,unknown
+00-559-9830,Theadora,F,12,TRUE,Eskimo,TRUE,TRUE,46-548-8252,McNeice,5/26/2019,monthly,shampoo
+30-728-6307,Herbert,M,20,FALSE,,TRUE,TRUE,07-056-7413,Johantges,12/13/2020,unknown,oral
+30-395-2361,Ricoriki,M,1,FALSE,Guatemalan,TRUE,TRUE,25-070-9829,Billiard,9/27/2019,annually,collar
+79-453-5595,Thurstan,M,14,TRUE,,TRUE,FALSE,56-876-7910,Ambrosi,4/3/2021,unknown,topical drops
+53-933-4431,Kurtis,M,8,TRUE,Osage,TRUE,FALSE,56-491-9001,McSpirron,12/22/2020,unknown,topical powder
+35-359-9087,Andrea,M,19,TRUE,American Indian,FALSE,FALSE,50-633-0519,McCumskay,10/16/2019,annually,collar
+76-777-6328,Jolie,F,10,TRUE,Panamanian,TRUE,FALSE,33-270-3584,Fallows,6/28/2021,unknown,topical powder
+18-561-9371,Kile,M,20,FALSE,,FALSE,FALSE,44-050-4544,Amey,10/31/2021,monthly,shampoo
+61-768-3442,Mayer,M,1,TRUE,Chickasaw,FALSE,TRUE,44-560-8357,Cressingham,10/23/2021,monthly,topical drops
+50-756-7921,Hobie,M,1,FALSE,,FALSE,FALSE,43-208-5911,Dumbarton,8/23/2019,unknown,unknown
+50-865-9232,Francis,M,13,FALSE,,TRUE,FALSE,20-050-6586,Cripps,7/28/2022,unknown,topical drops
+51-240-0763,Lawrence,M,19,FALSE,,FALSE,TRUE,43-061-7933,Buttwell,8/12/2019,monthly,shampoo
+91-788-1713,Hercule,M,9,FALSE,Cheyenne,FALSE,TRUE,66-274-1128,Attyeo,11/24/2021,annually,collar
+47-833-9848,Alfred,M,8,FALSE,,FALSE,TRUE,86-427-8988,Tomczykiewicz,10/14/2019,monthly,shampoo
+14-570-4665,Irving,M,15,TRUE,Creek,FALSE,TRUE,29-015-8008,Sauvain,9/18/2020,annually,topical drops
+74-045-6839,Maud,F,15,TRUE,,TRUE,FALSE,19-987-6716,Mayfield,10/13/2022,monthly,shampoo
+49-655-3404,Jaynell,F,14,TRUE,,TRUE,TRUE,19-730-3360,Malitrott,9/20/2018,unknown,topical powder
+47-435-8716,Rae,F,11,FALSE,,FALSE,TRUE,09-508-7983,Cicchitello,9/19/2018,monthly,unknown
+88-432-2168,Brynna,F,13,FALSE,,TRUE,TRUE,98-198-3405,Boswood,12/12/2018,monthly,oral
+98-750-0586,Arte,M,13,FALSE,,TRUE,TRUE,52-685-5591,Backwell,11/21/2022,monthly,topical powder
+73-593-4745,Judd,M,5,FALSE,Native Hawaiian and Other Pacific Islander (NHPI),TRUE,FALSE,74-502-1682,Nelligan,2/21/2019,annually,collar
+88-716-8169,Connie,M,20,FALSE,,FALSE,FALSE,80-713-5876,Clemenza,7/22/2022,monthly,topical powder
+27-060-3198,Kiele,F,18,FALSE,Cree,TRUE,TRUE,80-988-1650,La Rosa,4/28/2020,annually,collar
+45-931-7059,Sheela,F,7,FALSE,Bangladeshi,FALSE,FALSE,66-351-6944,Ferrant,7/20/2019,monthly,shampoo
+76-456-3303,Hort,M,8,TRUE,,TRUE,TRUE,63-565-8799,Blaisdale,9/23/2020,monthly,topical drops
+97-325-2145,Erskine,M,12,TRUE,Vietnamese,FALSE,FALSE,48-472-3847,Coughan,10/24/2020,monthly,shampoo
+08-805-4642,Rosemary,F,9,TRUE,,TRUE,FALSE,77-524-4588,Goathrop,7/23/2018,unknown,shampoo
+15-443-8820,Cristi,F,10,TRUE,Seminole,FALSE,TRUE,72-665-8019,Kears,2/21/2021,annually,collar
+55-132-9634,Morgan,F,4,FALSE,Honduran,FALSE,FALSE,93-629-1888,McLeman,7/28/2022,unknown,shampoo
+75-645-6515,Nicolai,M,3,TRUE,,TRUE,FALSE,96-984-5173,Clohessy,9/16/2019,monthly,topical drops
+52-750-0185,Saudra,F,3,TRUE,,TRUE,TRUE,95-098-7249,Jossum,12/6/2021,monthly,oral
+72-976-1088,Tedd,M,11,FALSE,Paiute,TRUE,FALSE,11-488-5034,Maypother,9/29/2018,unknown,shampoo
+80-695-7932,Darrell,M,7,TRUE,Bangladeshi,FALSE,TRUE,89-918-9732,Goodswen,4/18/2020,monthly,unknown
+14-961-0327,Annelise,F,14,FALSE,,TRUE,TRUE,87-792-0230,Niessen,1/27/2022,annually,oral
+80-804-9789,Chelsae,F,16,TRUE,,TRUE,TRUE,38-927-9811,Burtonwood,8/5/2022,monthly,shampoo
+44-585-7291,Douglas,M,16,FALSE,,FALSE,TRUE,90-144-7592,Jarrette,9/24/2021,annually,collar
+96-720-8514,Miner,M,17,FALSE,,TRUE,FALSE,54-036-2989,Fleet,2/14/2022,unknown,topical powder
+47-131-7736,Lise,F,17,FALSE,Crow,TRUE,TRUE,14-223-0445,Marie,7/14/2021,annually,unknown
+93-383-2197,Aylmar,M,17,FALSE,Native Hawaiian,FALSE,TRUE,36-917-0659,Scroxton,2/3/2019,monthly,topical powder
+13-139-4216,Aime,F,13,FALSE,,TRUE,FALSE,37-969-4063,Martinez,7/10/2018,unknown,unknown
+59-553-0332,Curry,M,8,TRUE,,FALSE,TRUE,72-119-8615,Quoit,11/2/2018,annually,oral
+18-606-3378,Alejandra,F,17,TRUE,,TRUE,TRUE,70-186-2770,McAusland,7/22/2018,annually,collar
+95-187-9881,Jamison,M,11,TRUE,Delaware,TRUE,FALSE,03-243-4654,Downton,1/11/2022,unknown,oral
+09-230-0213,Randy,M,17,FALSE,Asian Indian,FALSE,FALSE,33-947-0738,Newiss,3/1/2022,unknown,topical powder
+32-457-1352,Francisca,F,1,FALSE,,FALSE,TRUE,99-990-8792,Glazzard,9/6/2021,annually,collar
+74-886-7359,Daren,M,2,TRUE,,FALSE,TRUE,10-810-7747,Hylands,8/10/2022,unknown,shampoo
+10-382-1354,Harriot,F,17,TRUE,,TRUE,TRUE,98-378-1053,Vannacci,4/20/2022,unknown,shampoo
+32-269-5952,Kara-lynn,F,15,FALSE,,TRUE,TRUE,46-319-7563,Chaperling,8/17/2022,unknown,topical drops
+79-451-7678,Hurleigh,M,9,FALSE,,FALSE,FALSE,21-122-0868,Pendergast,3/1/2019,monthly,unknown
+77-704-8712,Thorndike,M,10,FALSE,,FALSE,TRUE,48-303-2185,Lowton,12/8/2022,unknown,oral
+36-888-1030,Henrieta,F,3,FALSE,Guamanian,TRUE,FALSE,55-651-4007,Wickwar,8/18/2018,annually,shampoo
+79-591-0977,Michal,F,17,TRUE,Yuman,FALSE,FALSE,45-120-5600,Gibby,11/2/2022,monthly,unknown
+28-403-0273,Elmore,M,10,TRUE,,TRUE,FALSE,35-361-2288,Ryton,9/28/2021,unknown,shampoo
+72-435-6442,Alexio,M,2,FALSE,,FALSE,TRUE,91-787-5402,Whitlock,7/28/2019,annually,topical drops
+77-960-1718,Holly,F,10,TRUE,,FALSE,TRUE,32-955-4030,MacMenamy,12/5/2018,unknown,collar
+27-225-2225,Nico,M,10,FALSE,,FALSE,TRUE,52-169-5678,Dellow,9/26/2020,unknown,topical powder
+88-949-0965,Winifield,M,16,FALSE,Eskimo,TRUE,TRUE,35-043-7069,Laise,8/10/2021,annually,unknown
+12-892-7127,Bruno,M,14,TRUE,Chilean,TRUE,TRUE,70-524-7721,Lapwood,10/13/2021,monthly,shampoo
+96-036-1971,Effie,F,17,TRUE,,FALSE,TRUE,02-240-2548,Deny,3/22/2021,unknown,topical drops
+85-188-7949,Marlene,F,5,TRUE,Lumbee,FALSE,TRUE,23-224-0811,Asbrey,12/21/2020,unknown,shampoo
+80-050-7345,Jefferey,M,11,TRUE,Nicaraguan,FALSE,FALSE,88-431-6259,Dahlgren,2/23/2019,monthly,topical powder
+52-679-4825,Rosana,F,3,TRUE,,TRUE,FALSE,38-968-7447,Dutch,1/27/2019,unknown,oral
+67-778-1404,Darla,F,9,TRUE,Ecuadorian,TRUE,TRUE,67-720-6541,Lear,7/17/2021,unknown,topical drops
+74-569-5039,Viole,F,19,TRUE,Pakistani,FALSE,TRUE,64-993-6036,Scully,2/6/2021,monthly,shampoo
+20-050-8687,Marne,F,15,FALSE,,TRUE,TRUE,86-061-7211,Weepers,7/23/2019,unknown,topical powder
+72-056-7889,Obie,M,15,FALSE,Choctaw,FALSE,TRUE,07-540-3735,Pothergill,8/27/2020,monthly,collar
+02-986-5589,Worthington,M,15,FALSE,Latin American Indian,FALSE,FALSE,04-833-3775,Corbyn,3/16/2020,unknown,topical drops
+19-469-5824,Bobbee,F,3,TRUE,,FALSE,FALSE,76-403-7279,Furphy,12/22/2021,annually,unknown
+59-302-7366,Bat,M,5,FALSE,,FALSE,FALSE,62-990-0588,Ketchen,12/28/2020,annually,collar
+56-765-3420,Jodi,M,5,TRUE,,FALSE,TRUE,59-241-0823,Grogan,12/11/2021,annually,topical drops
+50-410-3929,Teddie,M,10,TRUE,Puerto Rican,TRUE,TRUE,69-480-3010,Laffin,9/2/2020,monthly,topical drops
+12-124-9385,Peder,M,13,TRUE,Choctaw,TRUE,TRUE,53-572-4483,Labden,12/16/2019,monthly,oral
+57-331-2594,Georgena,F,4,FALSE,,TRUE,TRUE,72-108-0175,Haberjam,6/22/2021,unknown,topical drops
+50-304-1579,Dominica,F,15,FALSE,,TRUE,FALSE,00-159-5854,Tims,1/30/2021,annually,topical drops
+16-446-9263,Thaine,M,8,TRUE,,FALSE,FALSE,75-129-6702,Fasset,7/1/2019,unknown,collar
+80-804-7030,Kati,F,5,TRUE,,TRUE,TRUE,51-171-1810,Bartholomaus,12/2/2022,unknown,oral
+13-598-1601,Alexandra,F,8,TRUE,Puerto Rican,TRUE,TRUE,22-225-1585,Bartens,7/21/2018,monthly,unknown
+97-354-7804,Prent,M,4,FALSE,,FALSE,TRUE,46-632-2667,Whyteman,5/30/2018,unknown,collar
+11-860-4824,Mufinella,F,12,FALSE,,FALSE,FALSE,64-467-6980,Trounce,1/29/2022,unknown,shampoo
+13-585-2445,Jamal,M,8,FALSE,,FALSE,TRUE,47-794-0273,Burcher,11/5/2018,monthly,topical drops
+11-061-0818,Fred,M,16,TRUE,Cheyenne,TRUE,FALSE,55-115-9279,Ferenc,10/24/2022,annually,collar
+70-963-3895,Constantine,F,2,FALSE,,FALSE,FALSE,26-742-0325,McKibbin,1/31/2018,unknown,oral
+84-796-6706,Olenolin,M,7,FALSE,,TRUE,FALSE,04-774-4837,Benyan,4/11/2018,annually,collar
+05-862-0174,Ranique,F,20,TRUE,Bangladeshi,FALSE,FALSE,80-363-5500,Tarbett,9/22/2022,annually,topical powder
+69-781-7642,Dore,M,18,TRUE,,FALSE,FALSE,42-773-9158,Mellonby,8/17/2019,unknown,shampoo
+65-604-8827,Ronny,M,8,TRUE,,TRUE,TRUE,88-622-1066,Nisco,5/28/2018,annually,shampoo
+39-631-7869,Roy,M,4,FALSE,,TRUE,FALSE,17-958-5961,Beautyman,1/28/2019,monthly,collar
+32-693-7080,Simonne,F,2,FALSE,,TRUE,TRUE,26-186-8337,Jarvie,9/5/2018,monthly,unknown
+96-575-3156,Ebba,F,16,TRUE,Alaska Native,TRUE,FALSE,31-336-3571,Wabb,10/22/2020,unknown,topical powder
+88-945-0552,Flint,M,8,FALSE,,TRUE,FALSE,86-247-4849,Elacoate,2/19/2019,monthly,shampoo
+99-333-4205,Erhart,M,18,FALSE,,TRUE,TRUE,71-882-8450,Hirjak,2/7/2022,monthly,unknown
+54-426-4886,Peg,F,4,TRUE,,TRUE,FALSE,83-175-1918,Dureden,7/30/2019,unknown,unknown
+65-472-1050,Wiley,M,15,FALSE,Latin American Indian,TRUE,FALSE,61-791-5267,Seak,1/12/2021,unknown,shampoo
+77-297-6785,Benni,F,12,FALSE,Yaqui,FALSE,FALSE,93-282-0695,Curgenuer,1/1/2020,unknown,collar
+98-016-9918,Major,M,2,FALSE,,FALSE,FALSE,33-628-0288,Borham,12/19/2022,annually,unknown
+70-519-8366,Maire,F,7,FALSE,Malaysian,FALSE,TRUE,24-203-7884,Dimeloe,3/3/2021,monthly,collar
+17-889-2531,Riki,F,9,FALSE,,FALSE,TRUE,68-815-7214,Batrop,11/5/2019,unknown,topical powder
+38-586-5162,Joelly,F,11,FALSE,Vietnamese,TRUE,FALSE,76-903-4299,Giddins,5/17/2019,annually,oral
+67-098-4073,Letta,F,13,FALSE,,FALSE,FALSE,89-375-0627,Parramore,1/17/2019,monthly,unknown
+23-238-9654,Rey,M,3,FALSE,,TRUE,FALSE,29-676-2291,Ferne,10/3/2021,annually,topical powder
+90-033-4280,Sofie,F,7,TRUE,,TRUE,FALSE,58-562-9084,Sealeaf,12/6/2021,unknown,topical powder
+19-367-0078,Randal,M,13,FALSE,,TRUE,TRUE,74-521-1660,Dyte,3/21/2020,annually,shampoo
+64-769-0054,Dylan,M,3,FALSE,Central American,TRUE,TRUE,69-726-3584,Gresch,2/18/2022,annually,oral
+61-319-7063,Burr,M,5,FALSE,,TRUE,TRUE,39-896-0258,Ragsdale,2/21/2018,annually,topical powder
+15-306-1376,Leigh,M,19,FALSE,,TRUE,FALSE,82-248-9168,Armour,6/28/2019,unknown,topical drops
+96-423-0303,Lucretia,F,8,TRUE,Crow,TRUE,TRUE,32-042-1131,De Lisle,6/19/2022,monthly,topical drops
+68-164-3437,Ardelia,F,14,TRUE,,FALSE,FALSE,79-472-7906,Tanton,10/4/2018,monthly,oral
+80-910-4793,Jdavie,M,13,TRUE,Costa Rican,TRUE,FALSE,06-159-1454,Othen,8/28/2020,unknown,collar
+83-697-7678,Vale,F,18,FALSE,Chamorro,FALSE,FALSE,41-282-5906,Kabos,3/26/2018,unknown,unknown
+04-814-8239,Brade,M,13,FALSE,Crow,FALSE,TRUE,38-000-7281,Caldron,10/4/2022,unknown,unknown
+50-420-8875,Tine,F,7,FALSE,Cheyenne,FALSE,FALSE,14-646-1379,Hunnawill,8/6/2019,unknown,oral
+78-488-0355,Daffy,F,6,TRUE,,TRUE,FALSE,93-558-9309,Espin,8/18/2020,monthly,unknown
+82-209-9766,Alick,M,16,FALSE,Choctaw,FALSE,TRUE,59-147-3534,Wynter,9/26/2021,monthly,topical drops
+60-635-3099,Mayor,M,2,FALSE,,FALSE,FALSE,65-583-1185,Crang,10/9/2019,unknown,topical powder
+97-198-1954,Erl,M,8,TRUE,,TRUE,TRUE,15-047-0553,Le Claire,8/13/2021,annually,collar
+42-155-3035,Bertina,F,15,TRUE,Polynesian,TRUE,TRUE,06-777-4754,Niccols,6/14/2022,monthly,topical powder
+65-701-2651,Ammamaria,F,1,TRUE,Eskimo,FALSE,FALSE,11-174-9858,Phillput,5/17/2019,unknown,topical drops
+88-632-7409,Chandra,F,18,TRUE,,TRUE,TRUE,36-173-9693,Kimbrough,2/22/2022,monthly,oral
+49-250-6805,Virgie,M,14,FALSE,,FALSE,TRUE,08-574-1813,Emptage,6/25/2018,annually,topical powder
+46-176-1527,Merridie,F,15,FALSE,,FALSE,TRUE,97-743-8384,Beedom,12/2/2018,monthly,collar
+81-431-5122,Haley,M,9,TRUE,Latin American Indian,FALSE,FALSE,70-757-5075,Stickland,1/23/2022,monthly,topical drops
+26-220-8895,Kassie,F,15,TRUE,Samoan,FALSE,FALSE,19-358-6849,McDell,7/6/2018,unknown,topical drops
+91-064-4990,Clair,F,13,TRUE,,TRUE,FALSE,76-123-6505,Rillstone,10/7/2021,monthly,unknown
+34-270-4778,Clarinda,F,2,TRUE,Filipino,TRUE,FALSE,78-600-0552,Kasparski,11/17/2019,unknown,shampoo
+02-836-6114,Gerta,F,11,TRUE,Lumbee,TRUE,TRUE,37-086-4048,Lishmund,4/2/2022,annually,collar
+56-174-8821,Linnea,F,4,TRUE,Mexican,TRUE,FALSE,21-236-7750,Givens,7/12/2022,unknown,topical powder
+60-522-7068,Pernell,M,1,TRUE,Venezuelan,FALSE,TRUE,34-896-9612,Beining,1/10/2019,annually,topical drops
+74-540-8858,Dare,M,15,TRUE,,FALSE,TRUE,08-801-1962,Ricardon,5/22/2019,unknown,unknown
+91-505-0512,Casey,M,13,FALSE,,TRUE,FALSE,16-046-9651,Asplen,6/23/2019,unknown,collar
+58-677-0696,Hamlin,M,2,FALSE,Colville,TRUE,TRUE,32-450-6406,Gaynor,3/27/2018,annually,oral
+97-969-0043,Dosi,F,14,TRUE,Micronesian,FALSE,FALSE,35-501-3630,Tolcharde,10/15/2020,annually,topical powder
+22-080-8911,Gav,M,17,TRUE,Mexican,TRUE,FALSE,08-605-8365,Widdop,2/12/2021,unknown,topical powder
+48-389-4402,Eveleen,F,7,FALSE,,TRUE,TRUE,71-657-7076,Wray,12/10/2018,annually,collar
+61-411-4822,Jilleen,F,13,FALSE,Peruvian,TRUE,FALSE,24-298-3354,Raithmill,1/14/2021,unknown,shampoo
+40-555-3634,Augusto,M,16,TRUE,Iroquois,FALSE,FALSE,18-265-1173,Shury,8/7/2019,annually,shampoo
+98-155-5674,Cristen,F,9,FALSE,Colville,TRUE,FALSE,18-584-1395,Rusling,4/20/2018,monthly,collar
+49-374-5480,Brandice,F,13,FALSE,,FALSE,FALSE,46-888-8619,Hall,9/12/2018,annually,shampoo
+99-478-4633,Fannie,F,14,TRUE,,FALSE,TRUE,71-510-8536,Mitchley,3/21/2022,unknown,collar
+57-178-4064,Davine,F,1,TRUE,,TRUE,FALSE,53-912-3765,Buckler,6/18/2020,unknown,collar
+98-394-0736,Crista,F,12,FALSE,,FALSE,FALSE,88-181-0692,Fleming,7/29/2019,annually,shampoo
+65-567-9279,Meryl,F,18,TRUE,,FALSE,FALSE,71-239-6369,Gogan,7/6/2020,annually,collar
+36-193-3043,Free,M,17,TRUE,Pakistani,TRUE,FALSE,28-224-6689,St. Queintain,11/21/2022,unknown,oral
+10-501-5866,Basia,F,5,FALSE,,FALSE,FALSE,44-219-3382,Duddridge,11/27/2018,unknown,topical powder
+65-637-5921,Martino,M,7,FALSE,White,FALSE,TRUE,04-354-8152,Drinkale,1/1/2019,annually,collar
+19-648-5315,Dianne,F,11,TRUE,,FALSE,TRUE,44-362-6360,Antonchik,1/29/2018,monthly,unknown
+63-403-8664,Bruce,M,11,TRUE,,FALSE,FALSE,92-076-5981,Verrico,10/26/2022,monthly,shampoo
+57-858-3081,Clementius,M,1,TRUE,,TRUE,FALSE,09-419-7156,Lacoste,5/4/2021,unknown,oral
+98-754-0725,Malina,F,13,TRUE,Yakama,FALSE,TRUE,55-372-4257,Laville,11/24/2019,annually,collar
+39-506-3229,Rahel,F,17,FALSE,Delaware,FALSE,TRUE,23-582-7514,Clubbe,5/16/2020,annually,unknown
+21-100-7884,Joete,F,1,FALSE,Costa Rican,FALSE,FALSE,28-705-8303,Crammy,7/10/2020,unknown,collar
+68-269-7360,Linn,F,8,TRUE,,TRUE,FALSE,89-795-5341,Gabitis,8/30/2022,monthly,shampoo
+08-672-3702,Josselyn,F,9,FALSE,,FALSE,TRUE,54-458-0360,Amorts,10/9/2021,annually,topical drops
+83-052-3051,Skell,M,16,TRUE,,TRUE,TRUE,25-247-5498,Debow,3/20/2020,annually,topical drops
+82-893-3740,Hardy,M,20,FALSE,,FALSE,TRUE,60-739-0420,Eva,11/5/2020,annually,topical drops
+58-364-3180,Bobinette,F,19,FALSE,Spaniard,TRUE,TRUE,37-211-6793,Fiennes,2/8/2019,monthly,topical drops
+69-139-3922,Antoni,M,3,TRUE,Asian Indian,FALSE,FALSE,91-321-6914,Gwynn,3/23/2018,monthly,collar
+72-932-4753,Aleta,F,14,TRUE,,FALSE,TRUE,79-158-9603,Cheston,10/26/2021,annually,oral
+69-414-7314,Gayleen,F,13,FALSE,Central American,FALSE,FALSE,73-514-6709,Bambridge,9/7/2018,annually,oral
+83-922-2319,Mehetabel,F,14,FALSE,Cambodian,FALSE,TRUE,64-410-8142,Cripps,1/5/2020,annually,unknown
+91-036-1100,Paloma,F,16,TRUE,Choctaw,TRUE,TRUE,49-737-6653,Leyzell,2/28/2022,unknown,topical drops
+57-863-4324,Araldo,M,6,TRUE,American Indian,FALSE,TRUE,14-624-1581,Kilbourn,5/31/2021,annually,unknown
+11-026-2619,Zak,M,15,FALSE,Apache,TRUE,TRUE,93-081-9002,Vigrass,8/25/2019,unknown,topical powder
+73-763-2737,Renault,M,8,TRUE,Pueblo,TRUE,TRUE,16-414-6231,Lanceley,11/7/2018,unknown,oral
+98-655-8576,Horatius,M,16,FALSE,Tlingit-Haida,FALSE,TRUE,73-034-8552,Mottershead,1/24/2022,annually,oral
+41-685-3833,Myron,M,3,FALSE,,TRUE,FALSE,94-604-9485,Izkoveski,2/10/2021,monthly,topical drops
+22-778-7188,Issy,F,18,FALSE,,TRUE,TRUE,34-700-9846,Canaan,5/29/2019,unknown,collar
+13-665-4599,Gabbie,M,11,FALSE,,TRUE,FALSE,56-315-3732,Jennrich,3/30/2020,monthly,shampoo
+79-499-7900,Caressa,F,4,TRUE,,TRUE,TRUE,84-916-2837,Botger,12/14/2020,unknown,topical powder
+92-420-5279,Enrique,M,20,TRUE,Black or African American,TRUE,TRUE,87-205-8477,Ditchett,10/3/2021,monthly,unknown
+92-999-5211,Bernhard,M,15,FALSE,,TRUE,TRUE,76-914-6444,Sabathe,9/10/2021,unknown,topical drops
+13-888-3759,Carita,F,12,FALSE,Creek,FALSE,TRUE,55-639-6624,Parrish,9/9/2020,annually,topical powder
+64-177-3161,Dominique,M,2,TRUE,,TRUE,TRUE,81-941-0396,Phonix,3/26/2019,annually,collar
+43-383-8354,Tomlin,M,17,FALSE,,FALSE,FALSE,62-409-8620,Kornilyev,1/30/2022,annually,oral
+48-242-1396,Tybie,F,1,TRUE,,TRUE,FALSE,31-420-7710,Dymoke,4/25/2020,monthly,shampoo
+49-648-3648,Abigael,F,12,TRUE,Puget Sound Salish,TRUE,TRUE,47-328-3261,Cresser,6/12/2018,unknown,unknown
+40-040-4509,Noelani,F,8,FALSE,,TRUE,TRUE,71-476-4138,Shankle,2/24/2018,annually,shampoo
+83-513-0052,Estrellita,F,14,TRUE,Guamanian,TRUE,FALSE,99-271-3455,Powdrell,9/13/2021,annually,collar
+50-596-3273,Consalve,M,17,TRUE,Paiute,FALSE,FALSE,80-262-9680,Hankey,5/10/2020,monthly,unknown
+82-229-5580,Tully,M,20,FALSE,,TRUE,FALSE,22-323-0704,Bog,9/1/2018,monthly,topical powder
+15-194-3716,Georgy,M,4,FALSE,,TRUE,FALSE,36-801-0853,Youens,11/7/2019,annually,collar
+05-164-6130,Edee,F,2,FALSE,Navajo,TRUE,TRUE,61-818-6939,Brogioni,11/11/2020,annually,topical drops
+57-705-7937,Fae,F,15,TRUE,,FALSE,FALSE,21-624-7686,Levee,4/9/2020,monthly,shampoo
+56-366-3176,Lesya,F,5,TRUE,Chilean,FALSE,TRUE,38-978-8407,Beeston,8/30/2020,annually,oral
+85-393-4193,Aaron,M,11,FALSE,,TRUE,TRUE,20-685-3007,Waterhowse,7/15/2022,unknown,shampoo
+70-596-7840,Amity,F,6,TRUE,,TRUE,FALSE,75-465-1070,Brunon,12/8/2022,monthly,topical drops
+35-159-8147,Betti,F,13,TRUE,Tlingit-Haida,TRUE,FALSE,17-414-2536,Gauden,7/21/2020,monthly,collar
+29-505-7697,Stacee,F,3,TRUE,Kiowa,TRUE,FALSE,36-194-0470,Kalinsky,11/6/2021,annually,topical powder
+23-040-8021,Johnath,F,4,TRUE,Colombian,FALSE,TRUE,07-648-3441,Boyer,1/24/2022,monthly,shampoo
+39-735-6649,Monte,M,13,FALSE,,FALSE,FALSE,22-763-3640,Vedenyapin,9/3/2022,monthly,collar
+52-264-0551,Donavon,M,7,FALSE,Yuman,TRUE,TRUE,71-513-8936,Gligori,2/21/2021,monthly,collar
+48-488-7387,Faith,F,14,TRUE,,TRUE,FALSE,13-200-6649,Dadd,3/25/2020,monthly,shampoo
+59-648-7418,Mufinella,F,13,TRUE,,FALSE,TRUE,29-922-9914,Choat,2/8/2021,monthly,shampoo
+33-759-4855,Haley,M,15,TRUE,Native Hawaiian and Other Pacific Islander (NHPI),FALSE,FALSE,40-705-4026,Sinkings,12/1/2022,annually,unknown
+16-346-5705,Loralie,F,7,TRUE,,TRUE,FALSE,33-125-9346,Nalder,5/10/2022,monthly,topical powder
+49-095-5767,Donovan,M,12,TRUE,Filipino,TRUE,FALSE,93-443-4896,Huller,9/25/2021,annually,unknown
+18-866-9074,Nettle,F,15,FALSE,,TRUE,TRUE,77-521-1808,Doswell,12/22/2020,annually,shampoo
+18-713-4013,Crawford,M,2,TRUE,,FALSE,FALSE,49-225-8843,Pym,4/20/2022,monthly,oral
+55-167-6651,Merry,M,1,FALSE,,TRUE,FALSE,29-278-1944,Oliva,1/21/2021,annually,shampoo
+71-364-3225,Ignaz,M,7,TRUE,Costa Rican,TRUE,TRUE,85-826-0823,Huson,9/17/2019,annually,unknown
+55-792-8147,Barr,M,18,TRUE,,TRUE,FALSE,71-492-3740,Pibsworth,8/10/2019,unknown,collar
+75-543-2292,Cullan,M,3,TRUE,Native Hawaiian,TRUE,FALSE,87-274-3239,Hounsom,1/26/2021,annually,unknown
+94-894-3899,Ethelyn,F,20,FALSE,Chickasaw,FALSE,FALSE,60-239-0137,Semken,5/20/2020,monthly,collar
+71-912-4441,Bianka,F,14,FALSE,,TRUE,TRUE,17-728-4594,Novello,10/16/2019,monthly,unknown
+12-207-8451,Cassandra,F,16,FALSE,,TRUE,TRUE,49-173-5685,Lillgard,8/1/2020,unknown,shampoo
+12-078-3438,Veda,F,7,TRUE,Taiwanese,FALSE,TRUE,96-300-9803,Josham,9/17/2022,unknown,topical drops
+35-327-7129,Aksel,M,9,FALSE,,FALSE,TRUE,11-260-2498,Hannis,9/20/2018,annually,unknown
+61-722-7272,Klarrisa,F,3,FALSE,Colombian,FALSE,TRUE,75-001-0397,Silby,6/21/2019,monthly,shampoo
+19-590-2695,Othilia,F,7,FALSE,Comanche,FALSE,FALSE,38-744-3194,Farnaby,11/24/2020,monthly,collar
+95-772-4873,Janette,F,3,TRUE,Sri Lankan,FALSE,FALSE,61-712-0354,Kieff,4/26/2019,annually,topical drops
+04-743-8356,Suzette,F,20,FALSE,,FALSE,TRUE,32-155-7102,Ibotson,9/11/2022,annually,unknown
+68-782-5073,Maxy,M,18,FALSE,Tohono O'Odham,FALSE,TRUE,80-662-8199,Ricioppo,6/30/2020,monthly,oral
+93-546-5166,Gunar,M,20,TRUE,,FALSE,TRUE,41-407-0988,Spittal,11/6/2021,unknown,collar
+80-095-8818,Lorilee,F,10,TRUE,Indonesian,FALSE,FALSE,73-750-1817,Genty,8/14/2018,annually,oral
+70-290-6917,Rolf,M,14,TRUE,,TRUE,FALSE,99-640-7294,Braisted,9/21/2018,annually,topical powder
+72-624-2046,Janaye,F,11,FALSE,Yakama,TRUE,TRUE,81-639-4471,Darrington,11/16/2018,annually,oral
+63-414-1459,Barron,M,20,TRUE,Ecuadorian,TRUE,TRUE,39-948-7589,Grier,10/10/2019,unknown,shampoo
+87-427-4283,Ilaire,M,2,TRUE,Japanese,TRUE,FALSE,80-662-4467,Larrad,5/28/2021,annually,unknown
+89-925-2982,Jeff,M,1,FALSE,Apache,TRUE,FALSE,58-656-6808,Sandilands,9/28/2020,unknown,shampoo
+15-738-5306,Norton,M,5,FALSE,Argentinian,FALSE,TRUE,24-783-5234,Riatt,9/22/2022,annually,unknown
+83-614-9814,Alessandra,F,14,TRUE,Yaqui,TRUE,TRUE,96-590-8023,Noddles,1/24/2019,monthly,oral
+57-344-3086,Sibley,F,17,TRUE,,FALSE,TRUE,75-010-8074,Reddick,1/24/2019,unknown,oral
+81-087-2510,Nanci,F,13,TRUE,Spaniard,FALSE,TRUE,24-807-3287,Jenkinson,7/14/2022,unknown,oral
+68-855-7059,Jesselyn,F,17,FALSE,,TRUE,FALSE,90-388-7230,Wheildon,8/26/2020,unknown,shampoo
+51-391-5496,Nana,F,5,TRUE,Asian,FALSE,TRUE,11-294-1063,Holson,2/6/2019,unknown,oral
+69-151-6045,Margareta,F,14,TRUE,South American,FALSE,TRUE,83-430-8048,Lightman,8/11/2022,annually,topical powder
+40-896-0262,Bianca,F,18,TRUE,Vietnamese,FALSE,FALSE,46-010-2593,Gillett,1/30/2019,annually,topical drops
+05-771-6011,Isabel,F,15,TRUE,,TRUE,FALSE,90-675-4537,Avesque,4/20/2018,annually,collar
+92-878-7489,Webster,M,7,TRUE,Native Hawaiian,TRUE,FALSE,82-767-7116,Thiem,11/1/2018,monthly,unknown
+48-335-5881,Debbi,F,16,FALSE,Eskimo,TRUE,FALSE,39-855-4520,Franiak,7/13/2018,monthly,collar
+71-110-4282,Porty,M,12,TRUE,,TRUE,FALSE,88-038-5057,Instock,1/2/2022,monthly,collar
+21-560-6995,Aubine,F,14,FALSE,,TRUE,FALSE,56-281-6281,Wainwright,12/8/2021,annually,oral
+91-590-6010,Welch,M,17,FALSE,Sioux,FALSE,FALSE,13-372-5583,Manifold,1/21/2020,unknown,topical drops
+52-621-4351,Elspeth,F,18,FALSE,,FALSE,TRUE,44-166-7642,Knights,11/10/2018,unknown,topical drops
+20-781-0127,Whitney,F,8,FALSE,Paraguayan,TRUE,FALSE,48-282-2275,Mathen,5/11/2020,monthly,collar
+22-289-6582,Galvin,M,18,FALSE,Uruguayan,TRUE,FALSE,43-933-8369,Silberschatz,12/18/2021,annually,oral
+97-279-9639,Johnathan,M,13,FALSE,,FALSE,FALSE,00-636-1199,Gradly,7/28/2019,monthly,topical drops
+06-442-7315,Gerardo,M,4,FALSE,Ute,TRUE,FALSE,67-600-5307,Godmer,7/14/2018,monthly,topical powder
+03-108-9103,Genvieve,F,8,TRUE,,FALSE,FALSE,98-317-2023,Cheesworth,1/26/2022,unknown,topical powder
+23-423-9036,Nevin,M,7,FALSE,Lumbee,TRUE,FALSE,81-932-1247,Dreossi,8/14/2021,unknown,oral
+41-171-1423,Mason,M,13,FALSE,Yuman,FALSE,TRUE,94-213-1191,Gherardini,5/16/2018,annually,unknown
+36-790-1167,Matthus,M,2,TRUE,Apache,FALSE,FALSE,47-676-1881,Argile,8/11/2020,unknown,topical drops
+40-889-6877,Lucy,F,6,TRUE,,FALSE,FALSE,05-960-0927,Feavyour,8/19/2021,annually,oral
+98-573-0651,Shepperd,M,15,FALSE,,FALSE,FALSE,97-886-7010,Linnett,3/10/2020,monthly,collar
+57-435-6429,Jamaal,M,16,FALSE,,FALSE,FALSE,41-136-4979,Claye,3/2/2021,annually,shampoo
+08-830-0547,Netty,F,6,TRUE,Spaniard,TRUE,TRUE,26-801-2198,Owttrim,9/16/2021,unknown,shampoo
+09-884-8547,Sarajane,F,8,TRUE,Shoshone,FALSE,TRUE,12-246-4155,Gabriel,7/31/2021,monthly,unknown
+25-770-0029,Briggs,M,13,FALSE,Pueblo,FALSE,FALSE,42-946-6518,Brazener,3/30/2022,annually,collar
+53-020-3084,Englebert,M,10,TRUE,Cambodian,FALSE,FALSE,31-494-7672,Spurgeon,12/25/2021,annually,collar
+47-376-0567,Clementine,F,19,TRUE,,FALSE,TRUE,32-216-9231,Curry,4/17/2022,unknown,shampoo
+83-564-8191,Rog,M,1,FALSE,Venezuelan,TRUE,TRUE,99-040-7985,Kordas,3/18/2021,monthly,unknown
+62-368-6703,Nolana,F,3,FALSE,,FALSE,TRUE,66-639-4465,Garrold,3/30/2022,annually,shampoo
+85-531-5523,Norris,M,11,TRUE,Korean,FALSE,TRUE,63-745-7330,Heinrici,12/28/2018,monthly,unknown
+94-694-8043,Blair,M,20,FALSE,,FALSE,TRUE,13-753-4834,Carlett,4/24/2022,annually,shampoo
+69-630-5012,Elayne,F,16,TRUE,Shoshone,TRUE,FALSE,81-088-9641,Aust,3/1/2018,annually,shampoo
+10-677-0374,Elora,F,15,TRUE,Indonesian,FALSE,FALSE,33-483-5923,Tellwright,10/21/2018,unknown,shampoo
+92-167-9015,Hort,M,17,FALSE,,TRUE,TRUE,51-590-4098,Netley,7/5/2020,monthly,topical powder
+26-749-5792,Sibella,F,14,FALSE,,FALSE,TRUE,17-816-6933,Robinette,7/10/2018,unknown,unknown
+83-168-5713,Kendall,M,4,FALSE,Native Hawaiian and Other Pacific Islander (NHPI),FALSE,TRUE,83-695-7330,Fissenden,9/3/2018,unknown,oral
+49-057-9514,Clarence,M,14,TRUE,Delaware,TRUE,FALSE,13-530-9377,Duckering,5/1/2022,annually,shampoo
+56-481-5221,Kelcy,F,14,FALSE,American Indian,TRUE,TRUE,02-287-8205,Scole,6/30/2019,unknown,topical powder
+38-941-0662,Nady,F,17,TRUE,Tongan,TRUE,TRUE,14-543-3368,Sabati,12/21/2020,annually,collar
+56-172-3889,Clevie,M,13,FALSE,Costa Rican,TRUE,FALSE,04-847-8928,McLugaish,3/3/2019,annually,topical drops
+59-662-2320,Cherlyn,F,19,TRUE,,FALSE,FALSE,27-546-5118,Zettoi,9/12/2018,unknown,shampoo
+67-379-5964,Lorens,M,17,FALSE,Taiwanese,FALSE,FALSE,04-578-7907,Wyllcocks,10/17/2018,annually,oral
+25-796-1409,Field,M,9,FALSE,,FALSE,TRUE,03-265-3214,Besnardeau,9/16/2021,unknown,shampoo
+52-746-8483,Hally,F,7,TRUE,,FALSE,FALSE,90-437-9201,Yoskowitz,5/15/2021,unknown,shampoo
+55-907-3309,Sandor,M,8,FALSE,,FALSE,TRUE,03-308-2252,Skocroft,6/23/2021,annually,unknown
+63-680-8340,Zacharie,M,16,TRUE,Guatemalan,TRUE,TRUE,27-574-9844,Kinahan,11/22/2018,annually,shampoo
+49-084-0141,Olav,M,1,TRUE,,TRUE,TRUE,28-891-2061,Debell,6/28/2018,unknown,shampoo
+21-752-0910,Ursola,F,20,FALSE,,FALSE,TRUE,73-345-7459,Grishin,6/30/2022,unknown,topical powder
+24-195-3067,Caron,F,8,FALSE,,FALSE,FALSE,72-907-9574,Drever,2/6/2018,monthly,topical powder
+39-072-4786,Ray,F,19,TRUE,,TRUE,TRUE,47-637-7398,Hillum,7/25/2018,monthly,collar
+39-459-9025,Lorry,M,19,TRUE,Salvadoran,TRUE,FALSE,63-138-6034,Lennarde,5/29/2018,unknown,topical powder
+41-712-2598,Evangelin,F,5,TRUE,American Indian and Alaska Native (AIAN),TRUE,FALSE,98-477-1991,Marzelli,12/17/2018,annually,topical drops
+24-233-3417,Lindon,M,6,FALSE,Puget Sound Salish,FALSE,TRUE,32-531-0216,Grimwad,9/11/2019,annually,topical powder
+04-014-6024,Erl,M,7,FALSE,,TRUE,FALSE,54-384-7955,Hincks,3/8/2022,unknown,topical drops
+89-789-5603,Malorie,F,10,TRUE,Ute,TRUE,FALSE,76-091-8501,Wasylkiewicz,10/29/2022,unknown,topical powder
+99-435-8846,Augy,M,19,FALSE,,FALSE,FALSE,61-781-0778,Cavozzi,2/7/2020,unknown,topical drops
+39-990-2196,Celia,F,12,TRUE,Costa Rican,FALSE,FALSE,44-742-7097,Alessandone,8/26/2018,annually,shampoo
+53-869-5156,Coleen,F,2,TRUE,,FALSE,FALSE,04-704-4467,Josilowski,12/4/2022,annually,collar
+19-580-4119,Katleen,F,13,FALSE,Pueblo,TRUE,TRUE,15-933-3729,Height,3/16/2022,monthly,oral
+23-489-3360,Toiboid,M,18,FALSE,Chickasaw,TRUE,FALSE,95-252-0399,Vyvyan,4/25/2020,monthly,collar
+05-728-0509,Nicko,M,6,FALSE,Samoan,FALSE,FALSE,86-940-6331,Haward,10/13/2022,annually,unknown
+16-619-2265,Marin,F,19,FALSE,Laotian,FALSE,TRUE,63-209-3967,Hazell,2/13/2019,monthly,shampoo
+85-806-2671,Kelby,M,9,TRUE,,FALSE,TRUE,67-985-8810,Klimecki,3/5/2021,monthly,collar
+59-802-7482,Loy,M,6,FALSE,Melanesian,TRUE,TRUE,74-438-5191,Landes,10/25/2021,unknown,shampoo
+19-295-5043,Sergent,M,12,FALSE,,FALSE,FALSE,90-215-3383,Topp,10/17/2018,monthly,collar
+53-186-1319,Annora,F,6,TRUE,Guatemalan,FALSE,FALSE,69-217-2200,Terrazzo,10/5/2022,monthly,collar
+84-477-6920,Helli,F,3,FALSE,Aleut,TRUE,TRUE,54-089-8167,Seeks,7/20/2018,monthly,oral
+38-061-2232,Audy,F,15,FALSE,,TRUE,FALSE,89-009-6005,Jakubovitch,10/1/2020,annually,unknown
+34-682-9264,Delmor,M,6,FALSE,,TRUE,FALSE,04-020-2027,Balfour,6/1/2021,unknown,collar
+75-094-0170,Arabela,F,14,FALSE,Filipino,FALSE,FALSE,96-901-6957,Larne,9/5/2019,unknown,unknown
+59-467-6649,Devi,F,16,TRUE,,FALSE,TRUE,80-899-2097,Wesley,1/14/2019,unknown,unknown
+53-420-6501,Talya,F,13,FALSE,,FALSE,FALSE,32-703-1750,Tommasetti,1/27/2021,unknown,shampoo
+04-517-7430,Jordan,F,12,FALSE,,FALSE,TRUE,69-843-0418,Shale,3/8/2021,unknown,topical powder
+07-086-6060,Megen,F,13,FALSE,Paiute,TRUE,TRUE,48-997-3611,Spring,5/6/2020,unknown,topical powder
+01-413-7867,Angele,F,4,FALSE,,TRUE,TRUE,93-814-3986,Gong,10/25/2022,monthly,topical drops
+74-352-9286,Delores,F,1,TRUE,,TRUE,FALSE,62-444-3556,Paull,1/9/2019,unknown,topical powder
+55-795-8811,Bertie,M,9,FALSE,Vietnamese,TRUE,FALSE,25-004-9292,Duffree,7/15/2021,annually,topical powder
+15-261-6568,Devora,F,14,FALSE,,TRUE,FALSE,37-020-3439,Fearn,7/18/2018,monthly,collar
+20-902-4055,Benjy,M,1,FALSE,,TRUE,FALSE,24-157-5678,Langstone,4/11/2018,annually,collar
+15-747-7566,Van,M,15,FALSE,,FALSE,FALSE,60-613-2516,Bateson,9/18/2018,unknown,collar
+05-422-7578,Marnie,F,14,TRUE,,TRUE,FALSE,56-296-2200,Gyppes,1/16/2022,unknown,topical drops
+56-245-3872,Angelica,F,14,TRUE,Central American,FALSE,TRUE,09-860-4591,Lancashire,12/25/2020,unknown,topical powder
+69-208-4423,Fredi,F,14,TRUE,Crow,TRUE,TRUE,92-925-5602,Boone,5/15/2018,monthly,topical powder
+86-643-3536,Cordey,F,10,TRUE,Paiute,TRUE,FALSE,73-973-2185,Laguerre,5/20/2020,monthly,unknown
+88-036-7267,Ashli,F,1,TRUE,Uruguayan,TRUE,TRUE,91-872-6136,Beidebeke,12/22/2020,annually,topical drops
+71-482-4410,Carleen,F,5,TRUE,Indonesian,TRUE,TRUE,16-343-3791,Dunnett,5/13/2019,annually,topical drops
+06-167-9127,Base,M,6,FALSE,Melanesian,FALSE,FALSE,44-435-3697,Cumberbatch,1/17/2020,monthly,shampoo
+24-344-4265,Sigrid,F,11,FALSE,,TRUE,FALSE,63-183-2510,Pawelke,12/20/2019,annually,unknown
+38-943-7265,Lynelle,F,3,FALSE,Puerto Rican,FALSE,FALSE,27-332-5532,Dunsmuir,9/1/2020,annually,unknown
+95-567-0393,Hubert,M,19,FALSE,,TRUE,FALSE,74-307-2981,Shayler,2/8/2019,monthly,shampoo
+16-463-7420,Freddie,F,9,TRUE,Navajo,TRUE,FALSE,13-002-8892,Blampied,8/6/2018,monthly,oral
+87-444-2706,Luther,M,7,TRUE,,TRUE,TRUE,17-160-6247,Eddisford,2/7/2019,annually,oral
+03-369-9574,Brynne,F,16,TRUE,Chamorro,TRUE,TRUE,00-504-6889,McIlwraith,6/17/2020,annually,oral
+14-648-5746,Leandra,F,2,FALSE,Pima,FALSE,FALSE,71-016-5066,Letertre,7/5/2018,annually,unknown
+22-536-5177,Silvanus,M,4,TRUE,Panamanian,TRUE,FALSE,68-590-7096,Guidera,10/18/2018,monthly,topical drops
+81-405-1566,Jonas,M,11,FALSE,Seminole,TRUE,FALSE,87-048-7384,Bittlestone,5/17/2021,unknown,shampoo
+74-129-3261,Courtenay,F,20,FALSE,,FALSE,TRUE,20-271-1590,Folli,3/31/2021,unknown,topical powder
+23-674-1576,Melony,F,19,FALSE,,TRUE,FALSE,37-748-7632,Stanhope,4/28/2019,monthly,topical drops
+88-801-9657,Darcy,F,5,TRUE,Choctaw,TRUE,TRUE,66-762-6593,Roussell,6/10/2022,annually,unknown
+46-940-3037,Avis,F,5,TRUE,Iroquois,TRUE,TRUE,08-827-7318,Bruffell,1/10/2020,monthly,collar
+83-873-8054,Steven,M,12,FALSE,,FALSE,FALSE,53-387-1751,Shackelton,10/6/2018,unknown,collar
+83-434-0578,Seana,F,2,TRUE,Central American,FALSE,FALSE,17-316-5868,Havock,7/22/2021,monthly,topical powder
+73-229-8449,Anabella,F,19,FALSE,,TRUE,TRUE,82-365-7209,McIlreavy,5/13/2022,annually,collar
+63-925-7674,Rainer,M,20,FALSE,Venezuelan,TRUE,TRUE,37-504-8359,Milburne,8/9/2020,unknown,unknown
+58-818-2183,Buddy,M,9,FALSE,Menominee,TRUE,TRUE,07-806-3388,Kinrade,5/11/2018,annually,topical drops
+68-165-3079,Nonie,F,2,TRUE,,TRUE,FALSE,86-124-6558,Jeppensen,3/9/2022,unknown,oral
+66-067-7447,Wenda,F,3,FALSE,Pakistani,FALSE,FALSE,24-979-2966,Starford,6/6/2020,annually,oral
+43-867-7133,Legra,F,10,FALSE,Micronesian,FALSE,TRUE,23-383-4992,Reuben,1/22/2022,unknown,unknown
+14-306-9653,Kirsten,F,6,FALSE,Aleut,FALSE,TRUE,40-980-9963,Ovendon,3/3/2018,unknown,collar
+99-711-1174,Eduardo,M,16,TRUE,Venezuelan,TRUE,TRUE,88-039-5159,MacNucator,4/27/2021,annually,topical drops
+99-911-8418,Sula,F,18,FALSE,,FALSE,TRUE,78-258-5978,Mansbridge,6/25/2018,unknown,collar
+12-098-3311,Ellissa,F,3,FALSE,Guamanian,TRUE,TRUE,00-331-7149,Hellewell,3/30/2020,unknown,topical powder
+81-236-7414,Klarrisa,F,16,FALSE,Tongan,TRUE,FALSE,47-761-9864,Gammet,12/6/2019,monthly,collar
+26-884-5124,Edgar,M,12,TRUE,,FALSE,TRUE,24-723-6161,Fanton,7/30/2020,unknown,topical powder
+78-862-6381,Smith,M,17,TRUE,Cree,TRUE,FALSE,23-168-3986,Corrao,11/12/2018,annually,unknown
+40-888-0797,Marga,F,5,TRUE,,TRUE,FALSE,24-459-9763,Rookes,3/17/2022,monthly,shampoo
+70-638-3622,Bethanne,F,4,FALSE,Potawatomi,FALSE,TRUE,57-295-2582,Mungham,5/31/2022,unknown,unknown
+55-441-9938,Berty,M,7,FALSE,Central American,TRUE,FALSE,42-652-7847,Trenfield,6/24/2019,unknown,unknown
+24-962-0431,Brandon,M,15,TRUE,,TRUE,FALSE,07-730-6729,Sutton,5/22/2020,annually,unknown
+80-505-5959,Wernher,M,4,TRUE,,FALSE,FALSE,29-177-8643,Crocombe,7/20/2022,unknown,shampoo
+50-286-5355,Kimberli,F,7,FALSE,,FALSE,TRUE,85-418-8477,Grelka,1/8/2019,unknown,shampoo
+29-935-0726,Quintina,F,12,FALSE,,FALSE,TRUE,19-364-6555,Holtham,8/26/2020,unknown,topical powder
+19-348-0396,Deirdre,F,13,FALSE,,FALSE,FALSE,02-366-2346,Howton,10/3/2021,annually,collar
+27-397-6481,Halli,F,3,FALSE,,FALSE,TRUE,07-917-3690,Tacey,5/16/2019,monthly,oral
+08-425-9078,Janela,F,5,FALSE,,TRUE,TRUE,09-456-9138,Hatchard,8/21/2018,monthly,shampoo
+68-916-4983,Edwin,M,12,TRUE,,FALSE,FALSE,01-930-5787,Jobbins,6/30/2021,annually,oral
+96-228-1387,Catina,F,2,FALSE,,TRUE,TRUE,97-193-1388,Eskrick,3/23/2019,monthly,shampoo
+28-194-0186,Hildagarde,F,4,FALSE,,FALSE,TRUE,49-060-7116,Emblem,7/29/2018,annually,shampoo
+31-534-9117,Carlos,M,10,FALSE,Blackfeet,FALSE,TRUE,51-771-8932,Grier,6/6/2019,annually,oral
+58-705-8256,Nils,M,3,FALSE,,FALSE,TRUE,33-563-4794,Chilver,4/14/2020,annually,topical powder
+23-282-3331,Marion,F,7,FALSE,Ute,TRUE,FALSE,43-054-8171,Shannon,6/28/2020,annually,unknown
+28-437-2139,Celisse,F,3,FALSE,,TRUE,TRUE,27-014-5092,Rymer,4/21/2020,monthly,oral
+97-952-9317,Chilton,M,9,FALSE,Yaqui,FALSE,TRUE,83-762-9706,Roumier,8/9/2022,annually,topical drops
+83-286-9836,Saloma,F,1,TRUE,,TRUE,TRUE,67-397-1270,Dwire,11/7/2022,annually,shampoo
+00-879-5777,Shaw,M,5,TRUE,,TRUE,FALSE,41-107-9170,Veall,1/24/2021,annually,shampoo
+98-821-2773,Jamil,M,9,TRUE,Ottawa,FALSE,TRUE,19-262-2130,Shurlock,6/30/2018,monthly,topical powder
+51-697-7119,Tynan,M,10,TRUE,Navajo,TRUE,TRUE,50-141-0692,Bidder,1/23/2019,monthly,unknown
+68-920-3723,Reba,F,8,FALSE,,FALSE,TRUE,44-777-9228,Jowitt,1/5/2020,annually,topical drops
+43-988-3438,Aurthur,M,4,FALSE,Colville,TRUE,FALSE,70-052-5967,Crapper,3/24/2020,annually,topical drops
+20-114-3948,Harriett,F,18,FALSE,,FALSE,FALSE,60-305-8473,Elan,2/25/2018,annually,topical powder
+54-601-1504,Filide,F,11,FALSE,,TRUE,TRUE,74-580-3532,Gianasi,10/23/2022,annually,topical powder
+75-856-9650,Malia,F,3,FALSE,,FALSE,TRUE,06-539-0043,Capponer,7/22/2021,monthly,collar
+86-125-3034,Clemmy,F,19,TRUE,,FALSE,FALSE,08-509-4301,Janowski,8/24/2021,unknown,unknown
+79-555-3177,Dudley,M,3,FALSE,Potawatomi,FALSE,TRUE,44-371-3173,Weymont,10/21/2018,unknown,topical powder
+27-684-5213,Corly,F,2,FALSE,Yaqui,FALSE,TRUE,09-671-8202,Pencot,6/22/2020,monthly,shampoo
+42-715-9014,Neilla,F,9,FALSE,,TRUE,FALSE,95-963-4015,Lorraway,7/21/2021,unknown,topical drops
+72-615-0810,Octavius,M,12,TRUE,Filipino,TRUE,TRUE,17-205-5458,Yegorev,2/11/2020,annually,unknown
+70-777-1204,Bonni,F,2,FALSE,,TRUE,FALSE,18-286-3990,Quakley,10/4/2021,annually,shampoo
+35-330-8311,Alvinia,F,11,FALSE,,FALSE,FALSE,23-927-1128,Rickaert,7/28/2019,monthly,topical powder
+91-856-1773,Mahmud,M,13,TRUE,Comanche,TRUE,TRUE,07-105-4343,Force,2/10/2021,annually,unknown
+86-051-7412,Reynard,M,1,TRUE,,FALSE,TRUE,03-907-5133,Canario,4/28/2021,annually,shampoo
+40-474-8892,Shannah,F,15,FALSE,,FALSE,FALSE,30-929-2325,Lunge,11/29/2021,annually,unknown
+42-290-4242,Lanie,M,15,TRUE,Salvadoran,TRUE,FALSE,07-549-3790,Rubury,10/10/2020,unknown,collar
+81-553-0336,Ringo,M,14,FALSE,,TRUE,FALSE,04-297-5965,Pyner,7/2/2018,annually,topical powder
+28-366-2463,Neill,M,11,TRUE,,FALSE,FALSE,70-963-6972,Adnett,4/26/2019,monthly,topical powder
+92-547-7571,Juliann,F,4,TRUE,,FALSE,FALSE,63-290-1933,Hardey,5/22/2020,annually,collar
+57-688-4300,Fernando,M,1,TRUE,Menominee,TRUE,FALSE,85-046-4719,Tavener,2/28/2020,unknown,collar
+97-599-8114,Worden,M,13,TRUE,,FALSE,FALSE,04-788-5193,Mirando,7/7/2019,monthly,topical drops
+26-673-8794,Christan,F,18,FALSE,Tlingit-Haida,TRUE,TRUE,64-561-4675,Beckerleg,10/18/2021,annually,unknown
+97-535-7664,Dev,M,16,TRUE,,FALSE,TRUE,23-908-0987,Goldstraw,10/25/2022,unknown,shampoo
+90-861-8303,Rosco,M,14,FALSE,,FALSE,TRUE,28-056-6096,Spring,1/30/2022,monthly,topical drops
+15-827-7190,Justina,F,9,FALSE,,TRUE,TRUE,61-684-1275,Wadmore,3/14/2022,unknown,shampoo
+60-351-2722,Zachary,M,13,FALSE,,TRUE,TRUE,66-393-1791,Wyre,4/10/2022,monthly,topical powder
+84-724-1300,Holmes,M,8,FALSE,Taiwanese,TRUE,TRUE,31-753-1436,Boss,1/25/2020,annually,unknown
+84-465-7986,Odilia,F,12,FALSE,Panamanian,TRUE,FALSE,64-395-8932,Matitiaho,4/5/2020,unknown,oral
+70-332-7522,Danit,F,20,TRUE,Cuban,FALSE,TRUE,97-293-8500,Hodges,10/28/2021,annually,oral
+02-878-6354,Rickard,M,14,TRUE,American Indian and Alaska Native (AIAN),FALSE,TRUE,00-912-7339,Heinish,7/11/2021,annually,shampoo
+53-420-4222,Verge,M,18,FALSE,Cree,TRUE,FALSE,65-996-9484,Yorkston,9/23/2019,unknown,topical powder
+86-000-6129,Jolyn,F,11,FALSE,,FALSE,FALSE,41-189-2645,McIleen,2/13/2021,unknown,topical drops
+53-166-0707,Scarlet,F,12,FALSE,Puget Sound Salish,TRUE,TRUE,70-854-6011,Jude,2/1/2022,monthly,topical drops
+08-397-0090,Kendell,M,2,FALSE,,TRUE,FALSE,79-816-4545,Kinnerk,5/22/2019,unknown,oral
+75-744-1632,Zacharias,M,2,TRUE,Uruguayan,TRUE,FALSE,69-074-3614,Smalecombe,3/4/2018,monthly,shampoo
+08-853-0162,Lorianna,F,7,FALSE,,FALSE,FALSE,29-586-3286,Mikalski,7/2/2022,monthly,unknown
+82-120-9237,Odille,F,20,FALSE,Salvadoran,TRUE,TRUE,46-201-8105,Cunney,3/6/2021,unknown,topical drops
+78-691-8849,Ina,F,13,FALSE,Panamanian,TRUE,FALSE,41-674-1532,Devitt,10/31/2020,unknown,unknown
+63-231-5902,Mahmud,M,4,FALSE,,FALSE,FALSE,36-319-4589,Aimeric,6/6/2022,monthly,topical powder
+96-942-6193,Cynthie,F,17,TRUE,,TRUE,TRUE,24-102-6746,Albers,1/6/2020,annually,unknown
+59-361-7265,Grantley,M,2,FALSE,,FALSE,FALSE,24-326-6172,Myford,4/15/2021,monthly,shampoo
+86-237-7090,Corrianne,F,10,FALSE,Taiwanese,TRUE,FALSE,60-330-7897,Geeson,6/4/2022,unknown,shampoo
+02-885-9272,Burlie,M,13,TRUE,Spaniard,TRUE,FALSE,64-401-4133,Chotty,10/17/2018,unknown,oral
+01-443-1855,Kiri,F,8,TRUE,Choctaw,FALSE,TRUE,39-874-5842,Walklott,12/30/2020,monthly,topical drops
+14-798-1408,Mora,F,6,TRUE,Laotian,FALSE,TRUE,95-882-5045,Lerhinan,11/17/2021,unknown,shampoo
+44-486-1694,Lewes,M,20,TRUE,Seminole,FALSE,FALSE,32-412-5230,Knott,1/20/2019,unknown,unknown
+75-543-9716,Rhett,M,9,TRUE,Sri Lankan,FALSE,FALSE,36-431-4886,Kunath,3/21/2021,unknown,unknown
+27-167-4359,Vilma,F,13,FALSE,,FALSE,FALSE,76-378-8715,Skelbeck,8/2/2021,annually,oral
+59-154-4323,Yolanthe,F,20,FALSE,,FALSE,FALSE,58-784-5549,Shevlin,5/25/2020,unknown,topical powder
+38-865-3528,Abey,M,15,FALSE,Polynesian,FALSE,FALSE,78-341-5034,Yeowell,7/2/2018,monthly,collar
+79-172-7806,Fons,M,20,FALSE,Thai,TRUE,FALSE,57-092-4224,Fairbridge,10/25/2019,unknown,shampoo
+17-862-3752,Michaelina,F,9,TRUE,Cree,FALSE,TRUE,92-368-1458,Slimings,1/31/2020,unknown,oral
+35-241-4738,Jacynth,F,10,FALSE,,FALSE,TRUE,36-500-8031,Dyde,2/21/2018,unknown,shampoo
+19-534-7673,Lia,F,1,TRUE,,TRUE,TRUE,71-515-3077,Cotgrove,4/11/2018,unknown,topical drops
+05-649-2715,Cassie,M,10,TRUE,,TRUE,FALSE,84-563-7282,Chasle,7/8/2018,monthly,unknown
+43-082-6156,Farly,M,9,TRUE,,TRUE,TRUE,93-734-7129,Mursell,10/1/2021,unknown,topical drops
+77-729-6702,Leon,M,14,FALSE,Colombian,FALSE,FALSE,38-831-6019,Pattlel,2/5/2020,annually,topical drops
+98-169-4995,Pate,M,20,TRUE,Shoshone,TRUE,FALSE,81-573-3761,Smullin,8/1/2019,annually,topical powder
+58-879-9970,Guendolen,F,2,FALSE,,FALSE,FALSE,79-241-0921,Bruff,4/5/2022,annually,collar
+73-227-7179,Gherardo,M,4,TRUE,,TRUE,TRUE,22-866-0693,Moubray,9/8/2019,unknown,unknown
+23-509-3969,Ulrica,F,9,TRUE,Chippewa,TRUE,FALSE,56-232-5093,Easeman,3/31/2020,unknown,collar
+78-939-6545,Cairistiona,F,16,TRUE,,FALSE,TRUE,57-444-1562,Pattison,6/4/2022,annually,unknown
+54-895-1235,Damian,M,15,TRUE,,FALSE,FALSE,04-241-7497,Orchard,6/20/2018,monthly,unknown
+22-929-8385,Darda,F,18,TRUE,,FALSE,FALSE,10-009-2648,Calven,6/6/2020,unknown,oral
+87-378-7581,Kelvin,M,5,TRUE,Puget Sound Salish,FALSE,TRUE,27-639-2114,Slamaker,8/13/2019,unknown,topical drops
+65-032-7178,Culley,M,2,FALSE,,TRUE,TRUE,37-759-0545,Polack,10/21/2022,monthly,topical drops
+47-533-8843,Thia,F,7,TRUE,Black or African American,TRUE,TRUE,11-325-8804,Schollick,4/26/2022,annually,collar
+44-778-3137,Kellsie,F,4,TRUE,Pima,FALSE,TRUE,84-228-2376,Kirkup,9/10/2020,unknown,shampoo
+07-847-5381,Hillie,M,20,TRUE,,TRUE,TRUE,45-049-9709,Vern,2/12/2019,unknown,topical powder
+81-980-1187,Lynnelle,F,15,FALSE,Vietnamese,FALSE,TRUE,73-413-2474,Beaty,10/22/2022,unknown,shampoo
+10-527-0868,Martie,F,8,TRUE,,FALSE,TRUE,15-796-7798,Marion,5/14/2018,monthly,topical powder
+68-621-3328,Devlin,M,12,TRUE,,FALSE,FALSE,25-606-3615,Carle,12/3/2021,monthly,oral
+97-059-8509,Leroy,M,4,FALSE,Cambodian,TRUE,TRUE,92-091-2029,Warlock,12/28/2018,annually,collar
+16-776-4975,Matilde,F,16,FALSE,,TRUE,FALSE,55-047-8291,Bedwell,9/28/2020,annually,unknown
+38-812-5019,George,F,3,FALSE,Alaska Native,FALSE,FALSE,12-112-8427,Sparke,4/28/2022,unknown,topical powder
+28-521-7041,Monte,M,19,FALSE,,TRUE,TRUE,61-817-7825,Jills,4/20/2019,monthly,oral
+53-103-4703,Beltran,M,10,FALSE,,FALSE,FALSE,14-242-4306,Hatliff,2/27/2019,unknown,topical drops
+22-509-7033,Mike,M,13,FALSE,Sri Lankan,TRUE,TRUE,08-560-3628,Gilbertson,5/7/2019,monthly,unknown
+67-016-1170,Ronnie,M,16,FALSE,Yaqui,FALSE,TRUE,25-948-7068,Baszniak,8/16/2021,monthly,collar
+23-025-7535,Goldi,F,4,TRUE,,FALSE,FALSE,55-390-6961,Libermore,12/2/2022,annually,topical drops
+48-477-3455,Wilfrid,M,4,TRUE,Navajo,FALSE,FALSE,54-832-7993,Dorkin,3/1/2021,unknown,collar
+81-549-1827,Edik,M,6,FALSE,,FALSE,TRUE,52-525-2590,Ilbert,8/5/2020,unknown,collar
+84-999-2962,Maisie,F,15,FALSE,,FALSE,TRUE,74-507-6437,Blenkharn,8/25/2018,monthly,shampoo
+17-155-1670,Benji,M,5,FALSE,Ecuadorian,TRUE,TRUE,87-981-0320,Durran,2/27/2019,monthly,oral
+53-699-3627,Cris,M,3,FALSE,Dominican (Dominican Republic),FALSE,FALSE,31-152-8518,Shelf,6/26/2018,unknown,oral
+24-745-6883,Ned,M,13,FALSE,Bolivian,FALSE,FALSE,80-887-4553,Sarver,8/2/2021,monthly,oral
+05-948-7711,Gonzales,M,15,FALSE,Menominee,FALSE,FALSE,98-818-6308,Waller-Bridge,5/5/2020,annually,oral
+44-819-7044,Bartholomeus,M,17,FALSE,Honduran,FALSE,FALSE,20-961-4721,Wethey,4/7/2021,monthly,oral
+33-272-9261,Harald,M,14,TRUE,Menominee,FALSE,TRUE,39-224-0253,Gladman,12/13/2021,monthly,topical powder
+86-320-7489,Iona,F,14,TRUE,,TRUE,FALSE,87-435-6487,Huws,7/7/2018,monthly,topical drops
+19-538-3316,Katharyn,F,16,FALSE,,TRUE,TRUE,08-947-2968,Marling,8/30/2018,unknown,oral
+78-021-7018,Anastassia,F,11,FALSE,,FALSE,TRUE,01-805-3411,Pryell,11/30/2022,unknown,shampoo
+10-727-3802,Annmaria,F,9,FALSE,Pakistani,FALSE,FALSE,75-946-8603,Garrard,9/19/2018,annually,oral
+92-652-7962,Conn,M,8,TRUE,Paiute,TRUE,TRUE,45-970-9947,Wrack,5/24/2020,annually,unknown
+82-368-9452,Lucila,F,14,FALSE,Colombian,TRUE,TRUE,05-872-0508,Mattsson,12/9/2019,monthly,unknown
+27-607-3976,Tobi,F,20,TRUE,Latin American Indian,FALSE,FALSE,92-608-1391,Tudbald,5/25/2021,unknown,topical drops
+92-541-4956,Gayle,M,13,FALSE,,FALSE,TRUE,59-760-3149,Hart,4/9/2020,monthly,topical powder
+05-585-1837,Mathe,M,1,FALSE,,FALSE,FALSE,52-087-0189,Romer,2/18/2021,monthly,shampoo
+05-118-8638,Sharl,F,10,TRUE,Uruguayan,TRUE,FALSE,43-973-9369,Loveard,8/4/2019,annually,topical powder
+87-648-8418,Findley,M,13,FALSE,,TRUE,TRUE,44-309-4619,Broady,10/31/2021,annually,topical powder
+96-819-3640,Chan,M,13,TRUE,Sioux,TRUE,FALSE,70-590-6693,Heining,2/15/2021,unknown,topical drops
+26-393-0422,Benjamen,M,16,TRUE,,TRUE,TRUE,18-365-9206,Biaggelli,10/16/2020,annually,topical drops
+98-897-6064,Cy,M,12,FALSE,,TRUE,FALSE,68-148-8774,Sterricker,8/29/2018,unknown,shampoo
+94-461-5218,Donalt,M,9,TRUE,Malaysian,TRUE,FALSE,11-442-4818,Otter,1/6/2022,unknown,shampoo
+92-446-2362,Jade,F,4,TRUE,Seminole,TRUE,FALSE,58-408-8906,Jumeau,11/9/2019,annually,unknown
+54-122-7165,Kane,M,17,TRUE,Chamorro,FALSE,TRUE,72-056-1255,Kennelly,9/7/2018,unknown,topical drops
+50-450-7565,Fifi,F,17,FALSE,,FALSE,FALSE,56-022-7960,Bockh,5/12/2021,monthly,collar
+40-541-0176,Charles,M,9,FALSE,Sioux,FALSE,FALSE,46-553-2589,Morewood,5/19/2018,annually,collar
+90-738-9831,Jarrett,M,9,TRUE,Delaware,FALSE,TRUE,26-207-3798,Patifield,3/23/2020,monthly,topical powder
+23-746-2955,Alleyn,M,1,TRUE,Japanese,FALSE,TRUE,86-910-8007,Westhoff,4/10/2021,annually,shampoo
+23-582-2876,Ulises,M,1,FALSE,Choctaw,TRUE,TRUE,19-352-6295,Roche,4/29/2019,monthly,oral
+96-673-6463,Deane,F,6,FALSE,,TRUE,TRUE,72-939-0685,Shelborne,5/30/2018,unknown,oral
+26-607-4470,Dugald,M,13,TRUE,Korean,FALSE,FALSE,22-705-3809,Sieve,8/30/2022,annually,shampoo
+13-288-2009,Terry,M,13,TRUE,Hmong,FALSE,FALSE,83-860-2931,Surcombe,4/25/2020,monthly,topical drops
+11-033-4811,Halsy,M,18,FALSE,Eskimo,FALSE,FALSE,91-796-6347,Dymocke,2/26/2018,unknown,collar
+16-123-2214,Tobe,M,12,TRUE,Sioux,FALSE,FALSE,47-226-6222,Knowles,7/8/2019,monthly,shampoo
+98-786-0807,Delmor,M,7,TRUE,Taiwanese,FALSE,FALSE,95-456-5946,Aizikovitch,2/24/2018,monthly,shampoo
+05-108-5886,Gilbertine,F,19,TRUE,,FALSE,FALSE,21-416-0620,Capell,5/10/2019,annually,collar
+77-720-4114,Bearnard,M,10,FALSE,Guamanian,TRUE,FALSE,20-147-1961,McFade,6/29/2019,annually,oral
+65-203-3406,Berthe,F,17,FALSE,,TRUE,FALSE,70-290-7525,Devorill,5/9/2022,monthly,collar
+37-617-0341,Stesha,F,10,FALSE,Malaysian,FALSE,FALSE,42-846-9774,Whittier,5/8/2019,monthly,shampoo
+64-577-3195,Lauren,F,3,TRUE,,FALSE,TRUE,04-538-7727,Leal,7/21/2019,annually,topical powder
+17-084-7232,Daryl,F,20,FALSE,,TRUE,TRUE,54-181-4677,Klemmt,12/8/2019,monthly,shampoo
+06-267-1317,Inglis,M,5,FALSE,,TRUE,FALSE,63-060-5788,Shelborne,7/22/2018,monthly,collar
+54-424-2653,Liva,F,12,TRUE,Eskimo,TRUE,FALSE,49-169-5430,Kinchley,1/31/2019,unknown,unknown
+56-530-7633,Rebecka,F,13,FALSE,Mexican,TRUE,TRUE,92-047-1834,Delleschi,8/5/2022,monthly,collar
+29-431-4669,Harriett,F,8,FALSE,,FALSE,FALSE,07-992-2424,Maldin,2/3/2020,annually,collar
+36-634-6156,Lorrie,F,18,FALSE,Chilean,FALSE,TRUE,91-919-8068,Iddens,3/26/2020,unknown,topical drops
+64-025-4417,Gray,F,12,TRUE,,TRUE,TRUE,95-828-2647,Davidovsky,12/1/2018,unknown,topical powder
+99-525-7518,Curry,M,12,FALSE,Paraguayan,FALSE,FALSE,23-133-2673,Bartolic,9/27/2018,monthly,oral
+25-629-2178,Merry,M,16,TRUE,Ecuadorian,TRUE,FALSE,24-425-2059,Iskov,12/18/2020,monthly,topical drops
+54-955-3212,Allie,M,12,TRUE,,FALSE,TRUE,58-825-1599,Dreng,12/18/2020,annually,topical drops
+32-722-9255,Joye,F,5,FALSE,Osage,TRUE,FALSE,43-648-5079,Foxon,6/20/2020,unknown,topical powder
+60-192-6135,Maynord,M,9,FALSE,,FALSE,TRUE,35-631-2579,Hutchin,1/12/2019,unknown,topical powder
+71-882-4690,Tommi,F,15,TRUE,,FALSE,FALSE,87-388-5691,McKinlay,11/17/2018,monthly,topical powder
+84-437-9282,Bernard,M,8,FALSE,,TRUE,FALSE,18-769-4136,Frawley,11/30/2022,monthly,topical drops
+48-875-4720,Rosina,F,6,FALSE,Crow,FALSE,FALSE,16-902-7008,Cooley,4/18/2019,monthly,shampoo
+12-234-7015,Elfrida,F,10,TRUE,,TRUE,TRUE,21-279-5405,Arlett,2/12/2022,unknown,unknown
+87-105-1398,Dionisio,M,3,FALSE,,TRUE,TRUE,52-214-3116,Woollhead,2/12/2018,monthly,unknown
+31-641-7898,Laurella,F,18,TRUE,,TRUE,TRUE,60-332-3814,Sighart,4/28/2021,annually,topical powder
+07-062-0930,Ugo,M,6,FALSE,Creek,TRUE,TRUE,37-338-6663,Enevoldsen,10/26/2022,unknown,oral
+99-925-9087,Samuele,M,4,FALSE,Cheyenne,FALSE,TRUE,62-445-2624,Baud,12/22/2021,annually,shampoo
+26-519-9054,Giovanna,F,19,FALSE,Honduran,FALSE,TRUE,91-735-8889,Kolczynski,1/3/2019,monthly,collar
+53-907-9079,Tommie,F,16,TRUE,,FALSE,FALSE,72-452-6395,Buist,4/6/2020,unknown,topical powder
+89-311-7814,Ninon,F,11,FALSE,,FALSE,FALSE,66-824-6656,Coldbreath,6/18/2019,monthly,unknown
+69-296-5944,Dewie,M,2,TRUE,,FALSE,FALSE,08-786-1012,MacGregor,2/18/2021,unknown,topical powder
+60-957-3981,Colline,F,2,TRUE,,FALSE,FALSE,30-551-8888,Ovendon,7/26/2020,annually,collar
+67-814-1915,Cozmo,M,20,TRUE,Yakama,FALSE,FALSE,96-398-8331,Keaton,2/21/2020,annually,unknown
+70-703-2695,Corny,M,20,TRUE,,FALSE,FALSE,20-303-2186,Poone,9/24/2018,annually,shampoo
+06-028-9725,Jo-ann,F,19,FALSE,Argentinian,FALSE,TRUE,27-775-4533,Lemmens,12/26/2021,annually,oral
+26-286-4372,Georgetta,F,7,TRUE,,TRUE,TRUE,67-506-7324,Bareham,7/13/2021,monthly,topical powder
+06-536-0759,Anton,M,6,FALSE,,FALSE,TRUE,09-166-5978,Jantet,7/26/2021,monthly,topical drops
+93-570-1844,Hilliard,M,17,TRUE,,FALSE,TRUE,64-384-8656,Grevatt,8/14/2019,annually,unknown
+21-355-3195,Carlene,F,20,FALSE,,FALSE,TRUE,09-594-7663,Deadman,9/6/2018,unknown,topical drops
+63-046-5083,Merrily,F,9,FALSE,,FALSE,TRUE,84-322-8048,McCleary,5/1/2020,annually,unknown
+35-453-3141,Phillipe,M,15,FALSE,,FALSE,FALSE,34-443-6658,Shildrick,4/18/2022,annually,shampoo
+97-213-9919,Melita,F,17,TRUE,,FALSE,FALSE,95-593-3771,Pedgrift,5/25/2018,annually,unknown
+85-538-7411,Carri,F,3,FALSE,South American,TRUE,TRUE,18-604-8491,Reimers,6/29/2020,unknown,shampoo
+88-175-3785,Emmott,M,2,FALSE,Houma,FALSE,FALSE,21-304-5423,Catto,1/22/2022,monthly,topical powder
+32-236-2288,Raphael,M,20,TRUE,,TRUE,TRUE,48-058-2635,Selliman,8/31/2021,annually,shampoo
+54-412-2835,Paco,M,6,TRUE,Dominican (Dominican Republic),TRUE,FALSE,85-305-0543,Sturgeon,10/19/2021,annually,oral
+14-066-6325,Ramonda,F,12,TRUE,,TRUE,FALSE,70-590-4798,Dahlback,11/27/2021,monthly,oral
+35-198-6160,Kimbell,M,8,FALSE,,FALSE,FALSE,88-139-3286,Bendelow,4/21/2022,unknown,shampoo
+11-902-9771,Jeanelle,F,9,FALSE,Panamanian,TRUE,TRUE,50-253-6324,MacCartair,6/28/2019,annually,topical powder
+53-518-3007,Avictor,M,15,TRUE,,TRUE,TRUE,54-119-0858,Bevington,2/6/2022,unknown,topical drops
+46-292-1608,Griselda,F,4,TRUE,,TRUE,FALSE,80-366-9906,Snipe,6/26/2019,monthly,topical drops
+65-172-5118,Fee,M,4,FALSE,,TRUE,TRUE,75-668-2361,Baskeyfied,4/8/2022,annually,topical powder
+99-023-2320,Jesselyn,F,19,FALSE,,TRUE,TRUE,66-878-4015,Hylton,5/8/2020,monthly,oral
+02-837-5216,Letta,F,3,FALSE,,TRUE,TRUE,58-072-6787,MacAdam,7/26/2020,annually,unknown
+17-495-5642,Marie-ann,F,14,TRUE,,FALSE,TRUE,52-674-3754,Dunley,5/4/2019,unknown,collar
+12-431-7195,Cullin,M,7,TRUE,,TRUE,TRUE,18-031-1815,Mathevet,5/10/2022,monthly,oral
+12-632-9842,Thea,F,6,TRUE,Comanche,TRUE,FALSE,44-211-7483,Oliveti,3/19/2019,unknown,unknown
+82-962-2506,Cordi,F,1,FALSE,,TRUE,FALSE,79-693-3983,Brookzie,2/22/2022,annually,collar
+37-344-1435,Twila,F,18,FALSE,,FALSE,TRUE,22-230-4771,Bruneau,7/31/2020,annually,shampoo
+14-486-2755,Morgen,F,8,FALSE,Creek,FALSE,FALSE,04-234-3354,Fero,3/17/2021,unknown,topical powder
+05-626-6043,Clim,M,3,TRUE,,TRUE,TRUE,03-817-8469,Broek,1/14/2020,monthly,unknown
+53-631-2893,Waite,M,1,FALSE,,FALSE,FALSE,88-875-2333,Tibalt,7/14/2020,annually,shampoo
+04-808-9434,Tressa,F,11,FALSE,,TRUE,TRUE,14-149-1234,O'Sheeryne,6/19/2021,monthly,topical drops
+22-102-2660,Barb,F,2,FALSE,,FALSE,TRUE,28-356-9560,Sholem,11/7/2022,unknown,shampoo
+27-992-0647,Andrus,M,3,FALSE,Costa Rican,TRUE,TRUE,79-024-7403,Myott,10/12/2022,unknown,unknown
+44-165-4668,Enoch,M,19,FALSE,,TRUE,TRUE,32-523-2366,Bisco,2/8/2020,unknown,unknown
+92-726-0475,Anderson,M,7,TRUE,,FALSE,FALSE,77-015-4278,Hofton,1/4/2020,annually,collar
+14-945-4171,Brigit,F,9,FALSE,,TRUE,TRUE,67-809-3642,Hutley,8/30/2021,monthly,unknown
+84-692-9589,Alford,M,10,TRUE,,FALSE,TRUE,73-958-3829,Grayston,7/21/2020,annually,topical powder
+13-323-7783,Neila,F,7,TRUE,Paiute,FALSE,TRUE,37-285-9653,Hintzer,9/2/2022,unknown,topical drops
+78-995-8191,Cordell,M,10,TRUE,Venezuelan,FALSE,FALSE,21-177-8164,Taylor,2/18/2020,annually,shampoo
+26-179-3512,Myrlene,F,20,FALSE,,FALSE,FALSE,50-578-4995,Matuszynski,10/4/2021,annually,topical powder
+46-563-1792,Pietra,F,16,TRUE,Cambodian,FALSE,TRUE,25-601-4952,Brewitt,7/30/2021,monthly,collar
+15-647-6715,Josh,M,13,TRUE,,FALSE,FALSE,03-806-3563,Streather,9/29/2022,unknown,shampoo
+06-206-9972,Gerladina,F,16,TRUE,White,TRUE,TRUE,96-783-3360,Cannop,10/21/2021,unknown,oral
+07-064-5337,Patrizia,F,13,FALSE,Thai,TRUE,FALSE,49-677-6183,Brookson,7/30/2018,unknown,unknown
+79-143-5586,Tersina,F,4,FALSE,Colombian,TRUE,TRUE,89-720-1031,Perview,4/5/2018,annually,topical drops
+72-876-1489,Fleming,M,20,FALSE,Asian Indian,TRUE,FALSE,26-384-8526,McElane,3/18/2019,monthly,oral
+01-919-2373,Quinta,F,18,TRUE,Native Hawaiian and Other Pacific Islander (NHPI),FALSE,FALSE,67-142-4510,Grigor,3/26/2022,monthly,unknown
+10-723-9902,Ailene,F,19,TRUE,,TRUE,TRUE,02-221-5929,Hainey`,8/9/2020,monthly,topical powder
+23-310-4920,Darwin,M,10,FALSE,,FALSE,TRUE,35-115-8006,Corradeschi,6/9/2018,monthly,unknown
+97-252-2636,Gareth,M,10,FALSE,Black or African American,TRUE,FALSE,20-027-3814,Huntly,11/10/2022,monthly,unknown
+76-705-4906,Christy,F,7,TRUE,,FALSE,FALSE,71-499-8852,Orts,7/9/2020,unknown,unknown
+56-243-1838,Gavan,M,15,TRUE,,FALSE,FALSE,97-906-6950,Castlake,6/20/2018,annually,unknown
+24-831-1589,Shep,M,16,TRUE,,TRUE,FALSE,37-714-0275,Wale,6/23/2018,monthly,topical powder
+68-760-2443,Verne,M,7,TRUE,,TRUE,FALSE,65-851-6594,Dumini,1/5/2019,annually,collar
+11-765-0535,Alexa,F,3,TRUE,Chickasaw,FALSE,FALSE,00-295-0580,Janota,2/20/2020,monthly,collar
+20-480-1538,Phedra,F,5,TRUE,Guatemalan,TRUE,TRUE,70-490-4489,Bullivent,10/24/2020,unknown,unknown
+23-650-7398,Aubrey,M,12,FALSE,Panamanian,TRUE,TRUE,53-037-8025,Measor,10/3/2022,unknown,shampoo
+74-301-8778,Brandy,M,20,TRUE,Laotian,FALSE,FALSE,99-712-1318,Conaghy,1/19/2020,monthly,topical powder
+63-087-4813,Zarla,F,16,FALSE,Tongan,FALSE,FALSE,33-440-3304,Willis,11/28/2021,unknown,collar
+11-793-0694,Kinny,M,15,FALSE,,TRUE,TRUE,59-143-8090,Writer,7/30/2020,unknown,oral
+45-356-5572,Cari,F,20,TRUE,Nicaraguan,TRUE,TRUE,83-476-1636,Bontein,3/20/2022,annually,shampoo
+93-745-8184,Dorris,F,4,TRUE,,FALSE,TRUE,94-124-7189,Gavozzi,3/7/2019,monthly,unknown
+02-157-1665,Bryn,F,20,TRUE,Cree,FALSE,TRUE,71-332-0659,Itzik,9/28/2019,unknown,shampoo
+34-649-2198,Jeno,M,20,TRUE,,FALSE,TRUE,39-986-6940,Browning,10/3/2022,annually,topical drops
+07-301-5291,Ky,M,15,FALSE,Peruvian,FALSE,TRUE,70-101-7427,Dumpleton,11/28/2021,annually,shampoo
+68-299-7031,Haroun,M,1,TRUE,Hmong,TRUE,FALSE,90-841-8363,Spikeings,1/23/2020,unknown,topical drops
+14-303-1148,Ethelda,F,20,TRUE,Fijian,TRUE,FALSE,81-719-4897,Lince,2/28/2020,monthly,shampoo
+44-111-2789,Nye,M,11,FALSE,Creek,FALSE,FALSE,14-752-2335,Schollick,2/3/2022,annually,unknown
+31-984-6573,Florette,F,3,TRUE,,TRUE,TRUE,33-939-5120,Buxsy,4/15/2021,annually,topical powder
+49-451-8359,Ricard,M,5,TRUE,,TRUE,TRUE,83-172-5981,Jimpson,5/28/2020,annually,collar
+74-641-3974,Aldric,M,19,TRUE,Chilean,TRUE,TRUE,85-634-6044,Honywill,5/10/2021,annually,oral
+82-061-5473,Orsa,F,1,FALSE,,FALSE,FALSE,06-492-5157,Terrill,3/3/2020,monthly,collar
+80-065-8576,Tony,M,20,FALSE,Japanese,FALSE,TRUE,31-122-4355,Poultney,11/25/2019,unknown,shampoo
+13-958-2178,Aldous,M,11,FALSE,Costa Rican,FALSE,FALSE,76-233-2963,Keiley,10/18/2021,annually,topical drops
+03-616-3895,Cherry,F,6,TRUE,,TRUE,FALSE,83-381-9657,Rankmore,3/16/2021,unknown,topical drops
+48-181-8252,Carson,M,4,TRUE,,FALSE,TRUE,56-606-2950,Dible,2/7/2022,unknown,topical drops

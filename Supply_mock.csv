@@ -1,0 +1,1001 @@
+item_id,label,item_type,under_contract,vendor,unit_cost,budget_line,approving_employee,department_use
+168812817-4,lorem ipsum dolor,Often,TRUE,,$528.94 ,29817,44-382-2499,Facilities
+881052811-5,id mauris vulputate,Daily,TRUE,,$989.59 ,64851,91-471-6377,Maint
+056245242-7,orci nullam molestie,Seldom,TRUE,,$500.92 ,28748,35-550-0099,Caretaker
+591230628-3,montes,Once,TRUE,India Juliett Zulu Echo Delta Hotel Sierra Kilo Yankee Bravo Papa November Foxtrot Tango,$658.86 ,51241,58-185-2572,Caretaker
+896539067-2,justo eu massa,Weekly,TRUE,,$359.06 ,59897,60-786-3941,Accounting
+684869121-6,neque aenean,Monthly,TRUE,Whiskey Yankee Golf Uniform Charlie Alfa Oscar Sierra India Juliett Echo Papa Zulu November,$740.53 ,50462,08-638-4671,Facilities
+234344164-2,volutpat,Weekly,TRUE,Echo Whiskey Foxtrot Uniform Papa Charlie Delta Hotel November Sierra,$232.59 ,68406,38-190-6696,Maint
+971912850-X,eros,Seldom,FALSE,Victor Charlie Lima Golf Mike Papa Whiskey Hotel Yankee Tango India Zulu Foxtrot Bravo,$643.95 ,4137,68-509-2449,Custodial
+241054402-9,neque duis bibendum,Often,TRUE,Charlie Uniform Alfa Papa Tango Oscar Golf Juliett November Romeo Mike Quebec,$228.00 ,84694,18-137-1335,Maint
+854361287-X,sociis natoque penatibus,Seldom,TRUE,Bravo Whiskey Golf Kilo Uniform India November Yankee Tango Juliett Sierra Alfa Mike Oscar Charlie,$543.45 ,73920,11-244-8705,Patient_services
+069675349-9,ultricies eu,Seldom,TRUE,Papa Whiskey Zulu Hotel Oscar Quebec Alfa Sierra Golf X-ray November Charlie,$490.59 ,31431,03-991-7178,Maint
+928827373-5,risus semper porta,Monthly,TRUE,Quebec Whiskey Bravo Lima Kilo Charlie Zulu Papa Delta Echo Victor,$104.71 ,90909,09-692-5438,Custodial
+856761324-8,sapien ut nunc,Yearly,FALSE,Mike Uniform Charlie Hotel Lima Delta Quebec Victor Foxtrot Oscar X-ray November Sierra Kilo Golf Bravo Yankee Alfa Papa,$574.83 ,90682,12-253-9361,Accounting
+297885633-5,elit ac,Once,TRUE,Yankee Victor Oscar Golf Papa Juliett Lima November Delta Romeo Hotel India Uniform Zulu,$556.84 ,71524,67-908-8782,Maint
+866100676-7,neque,Weekly,FALSE,,$658.64 ,47149,48-770-5994,Custodial
+218533188-4,est,Yearly,FALSE,Zulu Papa Bravo Juliett Oscar Romeo Mike Foxtrot Delta Lima Hotel,$20.78 ,11275,85-746-9133,Caretaker
+055101405-9,mauris laoreet,Yearly,TRUE,Whiskey Sierra Bravo Echo Uniform Hotel Delta Kilo India Mike Tango Yankee Foxtrot Papa X-ray Zulu Charlie Golf Juliett Oscar,$277.33 ,34442,39-337-8036,Patient_care
+591349039-8,praesent blandit,Never,TRUE,Hotel Juliett Papa Golf Quebec Oscar X-ray Sierra Alfa Charlie Tango,$186.56 ,31350,95-293-7179,Patient_care
+328517508-7,duis,Never,FALSE,Delta Hotel Lima Foxtrot Papa Tango Bravo X-ray India Echo Yankee November Romeo Juliett Whiskey Zulu,$746.19 ,99200,54-233-5901,Custodial
+100223068-3,vestibulum aliquet,Never,TRUE,,$205.91 ,10872,17-689-8167,Admin
+421081997-2,lacus morbi quis,Weekly,FALSE,,$591.68 ,59148,23-835-5396,Patient_services
+852609990-6,enim sit amet,Weekly,TRUE,Hotel X-ray Oscar Lima Romeo Victor Tango Foxtrot Charlie Alfa Whiskey Delta Sierra,$194.79 ,51352,56-095-5394,Maint
+102729439-1,vestibulum ante ipsum,Daily,FALSE,Romeo Alfa Oscar Tango Sierra Echo Whiskey November Victor Foxtrot Bravo,$911.02 ,67532,34-560-4013,Caretaker
+707569684-X,nunc,Seldom,TRUE,,$111.27 ,46097,96-237-6163,Patient_care
+695689883-7,arcu libero rutrum,Daily,TRUE,Uniform November Tango Echo Juliett Alfa Kilo Lima Whiskey X-ray Yankee Papa India Zulu Victor Mike Sierra,$369.12 ,33526,63-947-1285,Custodial
+132431937-2,adipiscing molestie hendrerit,Once,FALSE,Uniform Lima Foxtrot Yankee Tango Charlie Golf Mike Alfa India,$458.84 ,97164,74-110-6014,Facilities
+462740354-2,congue elementum in,Often,TRUE,Bravo Romeo Papa Quebec Tango November Yankee Whiskey Charlie Echo Alfa X-ray Kilo Golf Lima India Hotel,$309.70 ,9523,01-439-0017,Patient_services
+488946600-2,vel,Seldom,FALSE,Papa November Victor Golf Charlie X-ray Yankee Lima Oscar Alfa Mike Kilo Uniform Juliett Romeo Tango India Hotel,$545.41 ,32478,10-780-3587,Maint
+567269978-2,phasellus id,Daily,FALSE,,$750.81 ,47548,98-693-8484,Accounting
+739747620-1,tincidunt nulla,Often,FALSE,,$636.14 ,46799,11-074-4751,Patient_services
+337238803-8,turpis elementum ligula,Often,TRUE,Golf Kilo Whiskey Yankee Tango Uniform Bravo India X-ray Mike Alfa Delta Lima Hotel Charlie Sierra Quebec Oscar,$853.47 ,18998,22-270-9875,Patient_care
+032653218-8,odio odio elementum,Weekly,FALSE,Hotel Papa India Alfa Bravo November Mike Charlie X-ray Foxtrot Romeo,$545.05 ,16903,62-675-4192,Caretaker
+935073983-6,ipsum,Weekly,TRUE,,$120.76 ,42160,44-508-4442,Accounting
+278037069-6,potenti,Seldom,FALSE,Tango Hotel Charlie Lima Romeo November Whiskey India Quebec Echo Foxtrot Mike Delta Alfa Uniform Yankee Kilo Zulu,$182.33 ,57703,25-235-1996,Facilities
+403254857-9,tempus,Weekly,FALSE,Kilo Alfa Hotel Papa Juliett Bravo Echo November Tango Delta Romeo Golf,$986.13 ,28238,76-717-7835,Custodial
+814861013-4,velit donec,Often,TRUE,Kilo Quebec Uniform Charlie India Romeo Yankee Juliett X-ray Papa Whiskey November Mike Lima Bravo Hotel Victor,$209.51 ,36842,24-199-4271,Admin
+203156345-9,ante,Weekly,FALSE,Whiskey Romeo Oscar Echo Kilo Hotel Quebec Charlie India Delta Papa Juliett Victor Mike Lima,$227.96 ,8387,06-568-6125,Patient_services
+109397840-6,bibendum felis,Seldom,FALSE,,$450.90 ,28354,08-522-9448,Admin
+854061250-X,hac,Daily,TRUE,,$813.77 ,36809,44-514-5362,Patient_care
+011149116-9,vivamus,Often,TRUE,X-ray Foxtrot Mike Kilo Bravo November Alfa Charlie Whiskey Juliett Oscar Tango Golf Zulu Sierra India Yankee Victor Delta Romeo,$211.12 ,73470,86-042-2258,Custodial
+082303274-4,augue,Seldom,FALSE,Victor Golf Echo Tango Charlie Mike Quebec Uniform Kilo Sierra Oscar Romeo Alfa X-ray Foxtrot Whiskey Bravo Zulu,$147.50 ,36244,03-716-4593,Patient_care
+185717523-9,maecenas tincidunt lacus,Yearly,TRUE,,$221.32 ,32263,72-906-6662,Custodial
+156318559-8,ligula sit amet,Seldom,TRUE,Bravo India Golf Echo Papa Victor Zulu Charlie November Lima Sierra Whiskey Yankee X-ray,$832.68 ,53901,92-467-1126,Maint
+669981321-8,tincidunt eget,Often,FALSE,Golf Quebec Hotel Zulu Victor Tango Alfa Echo India X-ray,$298.45 ,90638,00-723-7601,Accounting
+030883017-2,primis,Never,FALSE,Zulu Victor Golf Bravo Foxtrot Hotel Oscar Tango Lima Whiskey Charlie Alfa X-ray Quebec Uniform,$587.04 ,65635,39-287-3368,Caretaker
+065715416-4,curae donec,Seldom,TRUE,,$518.14 ,77569,99-046-3501,Caretaker
+868342790-0,ac enim,Never,TRUE,,$733.58 ,91347,24-561-8491,Custodial
+733701372-8,molestie lorem quisque,Never,TRUE,Alfa X-ray Charlie Quebec Kilo Sierra Papa Lima Juliett Victor November Hotel Romeo Delta,$537.44 ,83954,94-926-6869,Patient_services
+980545170-4,in sapien iaculis,Never,FALSE,Whiskey Romeo Sierra Bravo Golf Tango Delta India Foxtrot Mike Hotel November Echo Yankee Charlie Papa,$216.64 ,45199,19-242-7520,Facilities
+126878061-8,justo aliquam,Daily,FALSE,Oscar Whiskey Uniform India Delta Echo X-ray Hotel Victor Golf Yankee Kilo Lima,$392.05 ,9326,23-036-3562,Patient_care
+378483012-9,aliquet at feugiat,Never,FALSE,,$92.61 ,39566,10-023-2885,Patient_care
+215374185-8,aliquet maecenas leo,Never,TRUE,Juliett Yankee Alfa Charlie Lima Bravo Hotel November Golf Romeo Sierra Oscar Delta Papa Uniform,$896.90 ,73787,70-566-1578,Custodial
+335073244-5,lobortis convallis,Yearly,FALSE,,$752.22 ,53492,61-007-2259,Accounting
+666332390-3,quam nec,Often,TRUE,Golf November Juliett India Uniform Papa Hotel Foxtrot Lima Mike Quebec Bravo Tango Oscar Romeo Kilo,$219.78 ,61919,53-582-7281,Custodial
+668366912-0,natoque penatibus et,Daily,FALSE,Oscar Uniform Mike Delta Hotel Zulu Yankee Kilo Victor Bravo November Papa Juliett Charlie,$894.49 ,10997,94-162-2519,Maint
+814619141-X,morbi odio odio,Often,TRUE,,$488.92 ,18900,76-789-2197,Maint
+690997252-X,elementum in,Monthly,FALSE,,$238.47 ,10956,74-216-3334,Patient_care
+162040133-9,neque libero convallis,Daily,TRUE,Whiskey Golf X-ray India Hotel Uniform Sierra Foxtrot Echo Bravo Kilo,$50.98 ,91766,10-582-6096,Caretaker
+945861125-3,volutpat dui maecenas,Once,TRUE,Zulu Lima Bravo Sierra Golf Uniform Kilo Juliett Mike Romeo Charlie November Tango Oscar Victor Yankee X-ray Whiskey,$921.36 ,88365,51-939-2618,Patient_services
+718860401-0,pellentesque,Daily,FALSE,,$791.66 ,11777,29-238-0206,Maint
+249881319-5,eu,Yearly,TRUE,Lima Tango Charlie Quebec Victor India Alfa Foxtrot Kilo Hotel November Zulu Yankee Oscar Sierra Papa Whiskey Delta Romeo Juliett,$610.83 ,48401,49-090-2826,Patient_services
+557052343-X,ut,Daily,TRUE,,$575.05 ,22404,07-333-9022,Maint
+602893676-6,faucibus cursus,Weekly,TRUE,,$343.69 ,28951,83-880-8231,Admin
+317112820-9,in hac habitasse,Daily,FALSE,,$596.50 ,79038,75-096-1664,Facilities
+634033605-1,integer,Daily,FALSE,,$804.25 ,43050,42-642-5952,Custodial
+286349893-2,vitae mattis,Daily,TRUE,Hotel Delta Bravo Papa Tango Zulu Foxtrot Oscar Alfa Echo Kilo Victor,$483.14 ,54306,41-309-1203,Admin
+039596647-7,placerat praesent blandit,Weekly,FALSE,Lima Hotel India Yankee Charlie Oscar Golf Foxtrot Delta Bravo Kilo Alfa Sierra Mike November Papa Quebec,$674.68 ,82930,88-567-0407,Patient_care
+486892435-4,sed interdum venenatis,Monthly,FALSE,Kilo Foxtrot Papa Tango Oscar Sierra November Zulu Golf Bravo Hotel Whiskey Mike India X-ray Charlie Victor Yankee Uniform Juliett,$374.23 ,71575,00-192-3152,Caretaker
+008717145-7,blandit,Often,TRUE,,$724.68 ,7697,67-566-0829,Maint
+744181695-5,imperdiet,Seldom,FALSE,Zulu Mike Charlie X-ray Kilo Victor Delta India Foxtrot Yankee Hotel Quebec Lima Uniform Oscar Romeo Tango November Sierra,$111.70 ,47950,14-401-6569,Caretaker
+240861186-5,pharetra magna vestibulum,Weekly,TRUE,,$631.89 ,61496,82-083-3116,Patient_care
+915814209-6,elit sodales scelerisque,Never,FALSE,Echo Whiskey Golf Lima Tango Foxtrot India Hotel Kilo Mike Oscar Sierra Victor Bravo Papa Quebec Alfa,$898.96 ,41654,66-917-7973,Custodial
+894521814-9,tristique tortor eu,Often,TRUE,Tango Juliett Echo Zulu Kilo Lima Romeo Mike Papa Whiskey Alfa Oscar Golf X-ray India November Victor Uniform Quebec Hotel,$786.32 ,71133,67-836-4097,Facilities
+034460953-7,nascetur,Monthly,FALSE,Zulu November Lima Juliett Hotel Kilo India Mike Uniform Golf Oscar Charlie Foxtrot Bravo Quebec Sierra,$230.74 ,82754,96-956-6240,Patient_care
+532818219-7,morbi porttitor,Monthly,FALSE,India X-ray Romeo Mike Alfa Yankee Lima Zulu Golf November Quebec Juliett Foxtrot Hotel Echo Papa Delta,$298.85 ,51453,98-576-2396,Facilities
+357942835-7,condimentum,Weekly,FALSE,November Uniform Alfa Zulu Sierra Victor Quebec Golf Whiskey Bravo Hotel Echo Delta Yankee Lima Juliett Charlie Romeo India Kilo,$351.48 ,66946,46-420-6080,Patient_services
+272100701-7,dictumst,Monthly,FALSE,,$979.89 ,62552,76-751-8421,Maint
+851967354-6,non,Often,TRUE,X-ray Uniform Charlie Romeo Delta Whiskey Sierra Victor India Oscar Tango,$662.69 ,44970,32-160-4423,Patient_care
+901458497-0,velit id pretium,Daily,FALSE,,$491.89 ,6205,24-708-0472,Admin
+410584543-8,natoque penatibus et,Once,TRUE,Juliett Alfa Sierra Mike Tango X-ray Quebec Zulu Yankee Echo Oscar Delta Uniform Papa Hotel Romeo,$608.89 ,84842,77-169-0813,Admin
+643782173-6,dapibus augue vel,Once,TRUE,Lima Yankee Zulu Oscar India Romeo Delta Kilo Quebec Tango Whiskey Charlie Alfa Golf,$155.64 ,47247,49-240-1489,Patient_services
+253039168-8,pulvinar sed,Daily,TRUE,,$807.29 ,2202,13-935-2104,Patient_care
+794326114-3,in imperdiet et,Yearly,TRUE,Oscar Kilo Papa Zulu Golf Charlie Echo Juliett X-ray November Victor,$553.69 ,59856,68-957-9606,Custodial
+963938546-8,integer,Yearly,TRUE,,$16.12 ,88622,38-873-8893,Maint
+342678436-X,vestibulum,Daily,TRUE,Sierra Golf Alfa Kilo Zulu India Lima Quebec Foxtrot Juliett,$840.08 ,85143,84-777-8040,Facilities
+329432229-1,faucibus,Seldom,FALSE,,$423.26 ,31521,34-875-8991,Admin
+596626563-1,velit nec,Once,TRUE,,$258.03 ,16328,34-892-0156,Caretaker
+055964161-3,molestie hendrerit at,Seldom,FALSE,,$694.47 ,70273,42-265-7709,Admin
+084000333-1,mi sit,Weekly,TRUE,Lima Yankee India Kilo Bravo Juliett Tango November Golf Papa Sierra Uniform Whiskey Charlie Foxtrot Quebec Alfa X-ray Zulu Hotel,$573.04 ,36749,22-190-3053,Facilities
+843051969-6,eros suspendisse accumsan,Never,FALSE,Lima Charlie Sierra X-ray Yankee Quebec Kilo Uniform Juliett November Echo,$742.37 ,99631,52-662-9407,Caretaker
+866554216-7,erat fermentum,Yearly,FALSE,Hotel Juliett Echo Tango Zulu Sierra Victor Mike Foxtrot Delta Lima Romeo Kilo Uniform X-ray Oscar Quebec Bravo,$432.58 ,26460,33-580-0886,Facilities
+360381728-1,imperdiet sapien,Monthly,FALSE,Lima Kilo Foxtrot Tango Golf Alfa Echo Zulu Hotel Papa Delta,$39.31 ,88368,33-521-5289,Patient_care
+958030225-1,suscipit a,Often,FALSE,Charlie X-ray Bravo Uniform Echo Tango Papa Juliett November Oscar Sierra Golf India,$702.75 ,99899,45-763-5712,Accounting
+039159396-X,pretium nisl,Never,TRUE,Yankee Echo Juliett Mike Lima Kilo Golf Victor Alfa Zulu X-ray Tango Charlie November Quebec India Hotel Romeo,$205.44 ,85825,01-133-4110,Facilities
+047326130-8,sapien sapien non,Seldom,TRUE,,$428.59 ,89279,13-269-0572,Patient_services
+027647072-9,ultrices erat,Once,FALSE,,$44.95 ,61684,46-914-5154,Facilities
+571655275-7,orci luctus et,Daily,TRUE,,$856.47 ,39311,62-116-4914,Patient_services
+536530345-8,lacinia eget tincidunt,Once,TRUE,India Foxtrot Echo Zulu Hotel Quebec November Victor Golf Kilo Mike Yankee Oscar Whiskey,$440.90 ,36811,24-254-4216,Patient_care
+024223701-0,imperdiet et commodo,Weekly,TRUE,Yankee Tango Juliett Hotel Bravo Alfa Charlie Kilo Golf Foxtrot Oscar Victor Sierra India Echo,$189.69 ,89513,61-802-8478,Maint
+309286195-7,etiam justo,Often,TRUE,Lima Papa Kilo Alfa Whiskey Delta Mike Juliett India Bravo Zulu Foxtrot,$949.83 ,80516,48-274-7058,Admin
+765804183-1,turpis,Often,TRUE,Romeo X-ray Foxtrot Victor India Uniform Alfa November Golf Lima Charlie Delta Bravo Juliett Quebec Mike Zulu Kilo Whiskey,$109.80 ,47616,61-302-3678,Patient_care
+672713889-3,in faucibus orci,Monthly,FALSE,Charlie November Yankee Delta Victor X-ray Zulu India Sierra Lima Uniform Foxtrot Romeo Oscar Tango Echo Hotel Alfa Whiskey Papa,$976.67 ,41126,03-081-1149,Patient_services
+312300759-6,lorem,Once,TRUE,Charlie Alfa Lima Kilo Romeo Juliett Papa X-ray Bravo Delta Hotel Echo Victor Zulu Sierra Foxtrot Mike Whiskey Yankee,$559.49 ,71233,67-515-7459,Admin
+322357898-6,pede,Weekly,TRUE,Zulu Tango Oscar Echo Sierra Quebec Alfa India November Uniform Charlie,$840.61 ,85507,58-542-8952,Patient_care
+770688064-8,et,Never,TRUE,Whiskey India Foxtrot Papa Alfa Lima Mike Quebec Delta Victor,$564.28 ,86676,70-711-4000,Caretaker
+330577117-8,nullam,Once,FALSE,,$454.17 ,39512,21-729-7281,Patient_care
+965971335-5,feugiat non pretium,Never,FALSE,,$635.64 ,47195,18-412-6111,Caretaker
+195078606-4,in,Weekly,FALSE,Romeo Whiskey Lima Delta Tango Mike Echo Zulu X-ray November,$187.15 ,54096,74-011-5827,Maint
+094757197-3,amet turpis elementum,Weekly,TRUE,Alfa Lima Victor Charlie Uniform Quebec Tango Oscar Foxtrot Kilo,$953.60 ,15699,59-893-7304,Facilities
+024838389-2,bibendum,Yearly,TRUE,,$139.57 ,45599,11-154-4056,Custodial
+316684156-3,in est,Monthly,FALSE,India Lima Juliett Zulu Quebec Foxtrot Tango Delta Yankee November Whiskey Victor Mike Hotel X-ray Romeo Alfa Golf Charlie,$146.29 ,62697,85-780-7490,Facilities
+994769530-1,hac habitasse,Once,FALSE,,$250.36 ,41288,69-450-2178,Patient_care
+902663757-8,primis,Seldom,TRUE,India Victor Whiskey Lima Foxtrot Alfa Charlie Oscar Quebec Hotel November Tango X-ray Kilo Mike Echo Bravo Romeo,$832.04 ,70202,84-888-5567,Admin
+290164942-4,mus vivamus,Weekly,FALSE,Whiskey Echo Oscar Foxtrot Victor Juliett X-ray Mike Hotel Lima November Romeo Bravo Alfa Delta,$916.41 ,73180,01-850-7765,Patient_care
+300138623-1,orci,Weekly,TRUE,Yankee Oscar India Alfa Delta Romeo Papa Victor Echo Kilo November Juliett X-ray Golf,$346.57 ,44768,61-649-8056,Accounting
+478690720-0,tortor duis mattis,Often,FALSE,Hotel Golf Mike Bravo Oscar Charlie Victor Uniform November Whiskey India,$330.73 ,88547,42-293-5254,Caretaker
+196505665-2,elit ac,Often,TRUE,November Echo India Whiskey Golf Bravo Sierra Delta Mike Lima Zulu Kilo,$730.31 ,62838,72-302-1450,Caretaker
+268204010-1,egestas,Weekly,TRUE,,$290.95 ,77735,63-094-8903,Custodial
+070709836-X,vitae nisl,Weekly,FALSE,,$180.01 ,30572,77-431-6362,Caretaker
+839022306-6,nam tristique,Often,FALSE,,$931.74 ,13141,32-354-9768,Facilities
+137907194-1,ut odio,Seldom,TRUE,Mike Tango X-ray Zulu Uniform Victor Charlie Whiskey Kilo Echo Sierra,$399.17 ,76791,65-281-2982,Facilities
+451904217-8,vestibulum eget,Often,TRUE,Mike Foxtrot Romeo Uniform Lima Tango Hotel X-ray Delta Bravo November Kilo Juliett,$65.15 ,38351,27-469-2536,Facilities
+517513321-7,mi pede,Seldom,TRUE,Romeo Hotel X-ray Mike Charlie Victor Quebec Sierra Uniform Juliett Bravo Papa Golf Foxtrot Alfa Tango India Lima Yankee,$193.23 ,58256,23-565-6409,Custodial
+072469725-X,rutrum ac,Monthly,FALSE,,$861.41 ,5157,89-772-2057,Facilities
+794564126-1,cursus id,Never,FALSE,Kilo Yankee Delta X-ray Echo India Lima November Sierra Whiskey Mike Alfa Uniform Victor Romeo Tango Papa Juliett Charlie,$72.12 ,78633,57-437-6837,Caretaker
+919425913-5,duis consequat,Often,FALSE,,$20.52 ,23383,60-780-6877,Maint
+141182364-8,iaculis,Often,FALSE,Bravo Uniform Golf Whiskey November Lima Delta Oscar Victor Quebec India Sierra Foxtrot Mike Zulu,$504.90 ,23871,89-949-1503,Facilities
+716998710-4,justo sollicitudin ut,Weekly,FALSE,Tango Zulu Hotel Kilo Victor Bravo Juliett Sierra X-ray Mike Charlie November Quebec Golf Delta Romeo,$77.13 ,84027,54-273-8471,Accounting
+791703161-6,vivamus,Yearly,TRUE,Echo X-ray November Foxtrot Sierra Delta Lima Whiskey Romeo Kilo,$849.30 ,34948,75-812-5524,Accounting
+466509298-2,purus,Once,FALSE,Sierra Tango Kilo Uniform Bravo Lima Mike Echo Quebec Delta Victor Whiskey Foxtrot Charlie,$269.04 ,84780,04-211-3710,Facilities
+108355860-9,donec semper,Yearly,TRUE,Hotel Bravo Papa Echo Quebec Charlie Yankee Victor Mike Alfa Romeo November Whiskey Oscar Uniform India Lima Golf Foxtrot,$20.78 ,14727,05-528-6205,Patient_care
+671472120-X,at vulputate vitae,Yearly,TRUE,Kilo Charlie Alfa Victor Golf Tango Yankee Lima Sierra Delta India Hotel,$927.14 ,88110,72-270-9705,Facilities
+800546968-3,nisl duis ac,Once,FALSE,Alfa Hotel Foxtrot Oscar Golf Charlie Romeo Kilo Echo Tango Delta,$435.29 ,17822,21-843-4619,Patient_services
+301365837-1,posuere cubilia curae,Often,TRUE,India Yankee Zulu Sierra Papa Romeo Juliett Hotel Foxtrot Quebec Victor Uniform Mike,$381.27 ,35128,27-292-7433,Accounting
+506940529-2,nibh,Monthly,FALSE,,$737.49 ,68992,85-419-8724,Custodial
+781261036-5,amet,Once,FALSE,Delta Lima Victor Sierra Whiskey Kilo November Yankee Zulu Alfa Uniform,$289.55 ,58769,37-776-7494,Admin
+662835116-5,ac diam cras,Seldom,FALSE,,$981.77 ,87637,04-339-9406,Maint
+704580319-2,fusce lacus,Seldom,FALSE,,$861.20 ,65936,44-045-2155,Admin
+219331579-5,pede ullamcorper,Yearly,TRUE,,$76.54 ,83128,84-246-3978,Facilities
+438744768-0,sodales scelerisque,Often,FALSE,,$874.05 ,51118,31-387-1364,Accounting
+322121981-4,vel augue,Often,TRUE,November Golf Alfa Sierra Lima Quebec Kilo Juliett Tango Hotel Bravo Uniform Charlie,$704.95 ,55681,54-449-2172,Accounting
+145333442-4,augue,Never,FALSE,,$387.80 ,87678,54-875-7521,Maint
+902071453-8,rutrum,Seldom,TRUE,Oscar Lima Papa Uniform Tango Zulu Romeo Bravo Yankee Foxtrot Kilo Charlie Whiskey Golf Alfa Juliett Sierra India,$183.60 ,84661,58-027-0337,Maint
+969303304-3,dictumst etiam faucibus,Never,FALSE,,$386.23 ,13978,46-853-5572,Accounting
+196485736-8,augue a,Weekly,TRUE,,$421.33 ,43117,39-254-1200,Custodial
+296456550-3,at nibh,Monthly,FALSE,India Kilo Lima Sierra Uniform Delta Victor Charlie Alfa Mike Tango X-ray Bravo,$420.47 ,20486,41-074-1500,Caretaker
+668362579-4,convallis duis consequat,Never,TRUE,,$192.50 ,18755,89-278-8446,Maint
+583180655-3,praesent blandit,Seldom,TRUE,Golf Yankee Zulu Alfa Uniform Romeo Victor Tango Whiskey Papa Quebec Juliett Oscar Bravo X-ray India Kilo November,$488.78 ,86043,05-650-9908,Patient_services
+945416085-0,nec molestie,Monthly,TRUE,Echo Quebec Juliett Whiskey Sierra Golf Yankee Alfa Papa Hotel Zulu Mike Delta,$747.13 ,75593,85-150-8652,Patient_services
+695955457-8,at diam,Seldom,TRUE,Tango Zulu Lima Charlie India Hotel Whiskey Sierra X-ray Echo Victor Alfa November Quebec Uniform Kilo Juliett,$273.77 ,11501,26-240-4897,Facilities
+436535332-2,sapien in sapien,Weekly,FALSE,Oscar Bravo Foxtrot Yankee Papa Whiskey Sierra Tango Golf Zulu November Kilo Victor Romeo Hotel X-ray India,$392.25 ,41681,20-083-1131,Maint
+457381822-7,rutrum,Once,TRUE,Foxtrot Bravo India Zulu Delta Quebec Victor November Tango Whiskey Juliett Uniform Mike Oscar Hotel Echo Alfa Romeo Sierra,$567.88 ,35579,55-432-6931,Facilities
+196270184-0,nullam,Daily,TRUE,Tango Victor November Delta Juliett Lima Sierra Uniform Whiskey Charlie,$826.47 ,550,57-372-4091,Accounting
+445674026-4,mauris laoreet,Seldom,TRUE,,$563.14 ,44219,16-015-4002,Caretaker
+039576347-9,ultrices posuere cubilia,Seldom,FALSE,Mike Hotel Bravo India Yankee Echo Juliett Alfa Lima Quebec,$909.29 ,19899,84-206-0052,Admin
+339232485-X,convallis eget,Seldom,FALSE,,$839.98 ,68340,71-691-9040,Patient_care
+180802586-5,nulla nunc,Often,TRUE,Zulu Papa Golf Delta Bravo Charlie Mike Foxtrot Uniform Tango India Kilo Oscar Romeo Yankee,$376.45 ,84413,39-398-7609,Maint
+396752727-1,mauris laoreet,Once,FALSE,Zulu Juliett Sierra Romeo Papa Whiskey Mike Alfa Uniform Foxtrot Charlie Quebec India Oscar,$490.24 ,71107,81-953-7440,Admin
+583288870-7,dolor,Daily,FALSE,Echo Mike Papa Zulu November Delta Kilo Oscar Whiskey Romeo Juliett Bravo Charlie,$519.73 ,67526,38-104-6820,Custodial
+329317855-3,ipsum,Weekly,TRUE,Whiskey Bravo Papa Juliett Quebec Mike Victor Uniform Hotel Sierra Lima Foxtrot,$279.64 ,92675,32-582-4960,Admin
+603239836-6,diam neque,Yearly,TRUE,Delta Kilo Echo Quebec Juliett Zulu Alfa November Oscar Charlie Mike,$768.47 ,4596,47-342-9110,Patient_care
+803999651-1,tellus semper interdum,Often,TRUE,,$526.45 ,74361,44-969-8162,Admin
+434561516-X,feugiat non pretium,Often,TRUE,Yankee Charlie Hotel Tango Zulu Golf Mike November X-ray Kilo,$721.61 ,88161,14-191-7645,Facilities
+951279041-6,porttitor id,Never,FALSE,,$412.40 ,31315,36-861-0493,Admin
+736978908-X,duis,Often,FALSE,Papa Zulu Mike Bravo Juliett Lima Golf India November Whiskey Foxtrot X-ray Delta Yankee,$477.86 ,45106,27-104-1237,Patient_care
+815174087-6,id consequat,Once,FALSE,Yankee X-ray November Sierra Hotel Oscar Foxtrot Zulu Charlie Papa Uniform Whiskey Victor India Bravo Mike Alfa Juliett,$280.19 ,22151,60-275-2860,Custodial
+875149437-X,in,Weekly,TRUE,Whiskey November Alfa Romeo Uniform Zulu Charlie Kilo Papa Lima India Victor,$620.61 ,72812,37-400-7796,Accounting
+620028631-0,pede posuere,Seldom,TRUE,Victor Papa India Mike Delta Echo Foxtrot Lima Charlie Tango Golf X-ray Hotel Quebec Romeo Oscar,$707.84 ,90023,37-709-8974,Custodial
+151663131-5,cras in purus,Often,TRUE,,$791.80 ,4276,17-512-7387,Maint
+827918719-7,rhoncus dui,Daily,FALSE,Papa Sierra Foxtrot November Yankee Bravo Lima Alfa Romeo Whiskey Zulu Oscar Tango Hotel India,$614.71 ,60102,47-162-4701,Maint
+166553939-9,lacus,Often,TRUE,,$806.02 ,89206,79-568-4771,Maint
+800082624-0,nibh in hac,Once,TRUE,Uniform Whiskey Hotel Juliett Yankee X-ray Alfa November Sierra Quebec Tango Zulu Mike Delta India Romeo Victor,$579.58 ,5798,15-252-6838,Accounting
+130414949-8,leo,Often,TRUE,Charlie Alfa Hotel Golf Foxtrot Sierra Whiskey Uniform Victor Yankee Delta Juliett Oscar Echo Papa Romeo,$690.40 ,39704,57-963-4465,Patient_services
+960199106-9,consequat nulla,Never,FALSE,Alfa Romeo November India Yankee Hotel Zulu Sierra Papa Uniform X-ray Delta Whiskey Lima,$864.62 ,60355,33-464-2271,Patient_services
+632872655-4,tempor convallis,Often,FALSE,India Bravo Sierra Hotel Juliett X-ray Quebec Echo Kilo Lima Oscar Zulu Victor Foxtrot Mike Delta Golf Papa Charlie,$105.41 ,25964,62-567-3796,Patient_care
+663032141-3,viverra eget,Daily,TRUE,Alfa India Kilo Charlie Foxtrot Juliett Victor Tango Whiskey Yankee Quebec Mike Oscar Lima Hotel Delta,$22.11 ,84323,96-112-7208,Facilities
+788937136-5,maecenas ut massa,Monthly,TRUE,Delta Uniform Victor Charlie Romeo X-ray Zulu Kilo Alfa Foxtrot Juliett Yankee Oscar Bravo Quebec Mike India,$249.02 ,43709,31-594-2596,Patient_care
+107197240-5,semper,Yearly,TRUE,Bravo Papa Echo Mike X-ray Tango Golf Foxtrot Whiskey Yankee Charlie Uniform Juliett Delta Sierra Romeo Alfa November,$972.22 ,32625,02-744-1389,Maint
+988650388-2,neque sapien,Daily,TRUE,Uniform Alfa Charlie Romeo Yankee Victor Mike Hotel Oscar Golf Kilo Tango Sierra Bravo Zulu Lima,$733.43 ,6229,26-207-1008,Admin
+761835577-0,et magnis,Seldom,FALSE,Sierra November Oscar Golf Delta Tango Uniform Charlie Juliett Lima Papa India Victor Echo Romeo Hotel,$749.13 ,31239,27-508-8692,Patient_care
+834517098-6,viverra,Daily,TRUE,,$178.85 ,77194,09-215-1693,Caretaker
+864235147-0,eu,Seldom,TRUE,,$915.97 ,66517,72-000-7821,Caretaker
+259616398-5,potenti in,Once,TRUE,Bravo Romeo Whiskey Sierra Victor India Tango Yankee Hotel Papa Zulu Foxtrot Golf Delta X-ray Oscar Alfa,$855.25 ,51492,73-112-8681,Facilities
+586125782-5,est lacinia nisi,Once,FALSE,Oscar India Yankee Charlie Victor Echo Alfa November Kilo Golf Lima,$416.75 ,72229,79-738-1260,Patient_care
+055827926-0,ultricies,Yearly,TRUE,,$731.12 ,49696,95-409-5169,Maint
+267687798-4,massa id,Never,FALSE,Alfa Victor Sierra Bravo Zulu Mike Papa Quebec Charlie Kilo Uniform Echo Romeo Oscar Delta,$336.65 ,95783,72-272-0276,Facilities
+931352613-1,praesent blandit,Weekly,FALSE,Oscar Charlie Juliett Mike Papa X-ray Alfa Lima Romeo Echo Uniform,$164.29 ,70955,08-722-3190,Patient_care
+713836218-8,leo maecenas pulvinar,Never,FALSE,Quebec November Echo Victor Sierra Juliett Kilo Mike Zulu Alfa X-ray India Tango Oscar Yankee Golf Papa Foxtrot Bravo Uniform,$192.32 ,10599,45-089-1962,Patient_care
+448210526-0,etiam faucibus cursus,Once,FALSE,Whiskey Uniform Papa Echo Yankee Oscar Quebec Sierra Juliett Delta Tango Zulu Golf November Romeo Kilo,$314.00 ,73943,97-809-4312,Patient_services
+545600285-X,hac,Weekly,FALSE,Uniform Tango Hotel Juliett Sierra Charlie Oscar Papa Foxtrot Bravo November Mike Alfa Golf India Delta X-ray Victor,$758.46 ,90644,46-753-4890,Accounting
+923437154-2,curae donec,Once,FALSE,Charlie Golf Tango Delta Mike Yankee Sierra Uniform Hotel Whiskey Bravo,$19.96 ,51141,65-452-3073,Facilities
+641420613-X,suscipit ligula,Once,TRUE,Yankee November Bravo Echo Juliett Alfa Delta Uniform Tango Victor Zulu Mike Romeo Quebec Oscar X-ray India Foxtrot Sierra Charlie,$240.39 ,74124,47-128-3318,Accounting
+182499882-1,luctus cum,Monthly,FALSE,Charlie Bravo Whiskey Quebec November Delta Mike Sierra Papa Tango Yankee Lima India Foxtrot Romeo Zulu Golf Hotel Alfa Juliett,$5.71 ,58124,54-718-1650,Patient_services
+240245207-2,dolor,Weekly,TRUE,Victor Tango November Bravo Lima Papa India Echo Mike Sierra Alfa Golf,$583.09 ,69226,45-251-0057,Admin
+264817667-5,praesent,Often,FALSE,,$721.54 ,56877,76-157-0729,Patient_services
+708804219-3,eu,Monthly,FALSE,,$40.55 ,56836,74-364-3015,Facilities
+057086878-5,consequat ut,Weekly,FALSE,Sierra Whiskey India Zulu Tango Foxtrot Victor Juliett X-ray Quebec Kilo Papa Oscar Yankee Mike Alfa Hotel Charlie Golf,$718.58 ,55676,82-783-9133,Admin
+081765485-2,volutpat sapien arcu,Weekly,FALSE,Victor Bravo Juliett Papa Delta Charlie Whiskey Oscar Sierra Hotel Romeo Alfa Yankee X-ray Kilo Echo India,$22.12 ,95738,05-026-0587,Caretaker
+896593964-X,eu felis,Weekly,TRUE,November Sierra Tango Whiskey Romeo Juliett Mike Uniform Alfa Foxtrot Echo Lima Yankee Victor Kilo Hotel India Golf Charlie,$598.86 ,99090,90-845-3834,Custodial
+263885149-3,mattis,Weekly,TRUE,,$594.87 ,22975,33-302-2416,Facilities
+599269160-X,nisl aenean lectus,Never,TRUE,,$215.74 ,4716,77-508-1539,Facilities
+489490925-1,venenatis lacinia aenean,Daily,TRUE,Uniform Whiskey India November Romeo Victor Foxtrot Delta Charlie Oscar Alfa Sierra Zulu,$36.38 ,33803,82-451-3360,Maint
+191395651-2,vitae,Never,TRUE,Tango Papa Delta November India Zulu Sierra Bravo Victor Echo Kilo,$989.61 ,32455,88-228-2101,Admin
+354314837-0,ut,Yearly,TRUE,Kilo Papa Alfa Tango Sierra Whiskey Juliett Bravo Oscar X-ray Uniform Victor Zulu Echo November Mike Golf Charlie Quebec Lima,$557.38 ,7737,01-589-7089,Maint
+065878317-3,tellus,Seldom,FALSE,Alfa X-ray Foxtrot Bravo Kilo Romeo Tango Oscar Sierra Quebec Victor Charlie Papa,$6.14 ,60856,67-117-9088,Patient_services
+650519742-7,maecenas,Yearly,TRUE,Sierra Yankee Hotel Lima India Delta Kilo Tango Charlie Quebec Mike Whiskey Papa November Victor Zulu,$211.85 ,39610,11-783-8738,Accounting
+921112848-X,consequat,Weekly,TRUE,Delta Echo Tango Hotel November Romeo X-ray Alfa Juliett Yankee Uniform,$876.35 ,258,63-788-5698,Custodial
+188010312-5,in est risus,Weekly,FALSE,,$849.18 ,95731,34-113-3235,Patient_care
+353435916-X,curae mauris,Once,FALSE,,$796.11 ,43286,18-644-7348,Maint
+493731093-3,sapien varius ut,Monthly,TRUE,Delta Juliett Sierra Oscar Papa Lima November Charlie Uniform India Zulu Tango Alfa,$171.74 ,45047,99-103-0196,Caretaker
+826079535-3,aliquet,Daily,TRUE,,$47.74 ,9718,44-717-1372,Patient_care
+206452404-5,sed justo,Weekly,TRUE,Uniform Juliett X-ray Echo Tango Charlie Hotel Romeo Mike Alfa Papa Yankee Whiskey November Bravo India Sierra Zulu,$545.46 ,7037,98-207-9347,Patient_care
+611325634-0,rhoncus,Yearly,TRUE,Kilo Alfa Delta Charlie November Lima Yankee Uniform X-ray Tango Oscar Quebec Victor Bravo Whiskey,$343.31 ,46658,78-886-2063,Maint
+050449622-0,interdum in,Seldom,FALSE,Uniform Delta November X-ray India Foxtrot Zulu Echo Yankee Oscar Golf Kilo Whiskey Juliett Charlie Quebec Bravo,$441.81 ,94098,15-953-3475,Accounting
+161085034-3,tellus,Once,FALSE,,$362.76 ,70753,78-383-5228,Patient_services
+608502419-3,vivamus in,Weekly,TRUE,Sierra Delta X-ray Whiskey Yankee Charlie Echo Uniform Kilo Papa Hotel Mike Juliett Zulu Romeo Golf Lima November,$191.86 ,48999,65-007-3236,Admin
+405879156-X,vel accumsan,Never,FALSE,Charlie Lima Oscar Uniform Whiskey November Delta Hotel Papa Zulu Sierra Kilo Juliett X-ray Echo Mike Quebec India,$59.31 ,77796,35-037-7417,Custodial
+355411805-2,orci,Never,TRUE,Papa Alfa Yankee Kilo November Juliett X-ray Echo Zulu Golf Delta Quebec Romeo Foxtrot Hotel Lima,$719.07 ,34725,25-700-2710,Patient_services
+578846732-2,tellus nisi eu,Often,FALSE,Golf Lima November Yankee Tango Oscar Charlie Kilo Zulu Juliett Quebec Foxtrot,$485.43 ,55202,37-270-4420,Admin
+537746938-0,aenean,Once,FALSE,,$59.07 ,13405,10-255-6344,Maint
+594306757-4,ac neque,Daily,TRUE,,$637.73 ,25940,37-817-4815,Facilities
+336826125-8,molestie,Once,TRUE,Uniform Foxtrot Sierra Tango X-ray Juliett Victor Zulu November Kilo Papa,$951.50 ,92203,35-251-7070,Facilities
+572728655-7,blandit ultrices enim,Often,TRUE,Golf Romeo Hotel Tango November Papa Kilo Juliett Echo Oscar Charlie Yankee,$239.48 ,50875,92-073-1689,Patient_services
+644807566-6,ultrices aliquet maecenas,Never,TRUE,Kilo November Whiskey Golf Tango Delta Uniform Foxtrot Hotel Echo Bravo Sierra Yankee Alfa Mike Juliett Romeo Victor Charlie,$337.79 ,34140,98-817-3389,Accounting
+455721839-3,habitasse,Never,TRUE,,$42.94 ,67449,99-469-9532,Maint
+505008596-9,maecenas ut,Yearly,FALSE,,$367.56 ,20764,19-242-8203,Accounting
+672531943-2,nec condimentum neque,Daily,TRUE,,$116.51 ,84762,69-067-4360,Patient_care
+399540679-3,nullam varius nulla,Never,TRUE,Lima Tango Romeo Uniform Hotel Golf Foxtrot Whiskey Delta Oscar Yankee Bravo Kilo Echo November India Zulu,$665.42 ,4986,80-641-3090,Patient_services
+434531371-6,aliquet maecenas leo,Weekly,FALSE,,$174.19 ,91368,05-733-4550,Patient_services
+934981109-X,blandit ultrices,Weekly,FALSE,Juliett Zulu Golf Papa Hotel November Romeo Kilo Yankee Alfa,$564.97 ,83745,25-626-0124,Admin
+713647768-9,venenatis turpis,Daily,FALSE,,$174.97 ,83627,09-765-3174,Caretaker
+480701857-4,congue etiam,Often,TRUE,,$396.67 ,91115,72-273-3457,Accounting
+018962593-7,sollicitudin mi,Seldom,FALSE,,$153.65 ,78407,03-855-0755,Patient_services
+146845965-1,non quam,Seldom,TRUE,Hotel Echo Whiskey Quebec X-ray Alfa Golf Papa Romeo Bravo,$899.75 ,7057,31-584-3462,Patient_services
+725026630-6,sapien in sapien,Weekly,TRUE,,$319.61 ,5226,88-961-2059,Admin
+174551173-3,libero nullam sit,Daily,FALSE,,$901.16 ,81415,83-254-8388,Custodial
+059141333-7,curae donec,Seldom,TRUE,,$454.53 ,53584,42-958-8898,Admin
+288833190-X,risus dapibus,Yearly,FALSE,,$605.01 ,92544,22-820-4610,Caretaker
+857508322-8,id lobortis convallis,Daily,FALSE,,$689.30 ,64967,70-463-1397,Facilities
+317545948-X,nec euismod scelerisque,Once,TRUE,,$866.19 ,6382,26-606-1404,Caretaker
+072435682-7,sagittis nam congue,Daily,TRUE,,$249.56 ,11881,81-352-3955,Admin
+645057789-4,nec,Daily,TRUE,,$892.40 ,11001,66-480-1617,Admin
+671086801-X,sapien urna,Once,TRUE,India Golf Quebec Lima Delta Yankee Juliett Zulu Mike November Tango Uniform Sierra Foxtrot Hotel X-ray Bravo Papa,$982.78 ,45149,40-594-4818,Patient_services
+157774342-3,ac nulla,Once,TRUE,Yankee Papa Echo Tango Sierra Oscar Quebec Juliett Hotel Foxtrot Bravo Alfa Romeo Uniform,$487.09 ,36468,54-127-1888,Admin
+177904848-3,ullamcorper purus sit,Seldom,FALSE,Uniform Tango X-ray Yankee Romeo Golf Bravo Kilo November Foxtrot Quebec,$918.52 ,34501,68-511-1763,Caretaker
+170450962-9,hac habitasse,Never,FALSE,Golf Juliett Echo Uniform Bravo Charlie Quebec Hotel Lima Papa Zulu Kilo Oscar Delta,$827.29 ,29199,20-635-5371,Accounting
+474180827-0,pretium iaculis,Weekly,TRUE,Alfa Foxtrot Golf Oscar Quebec Uniform X-ray Zulu Papa Kilo Hotel Whiskey India,$911.47 ,57234,18-549-2461,Patient_care
+477364747-7,quisque ut erat,Often,FALSE,Whiskey Hotel Papa Alfa Sierra Golf Foxtrot Zulu Echo Oscar,$553.23 ,3945,42-339-4563,Accounting
+507131176-3,lacinia sapien,Weekly,FALSE,India Hotel Uniform Whiskey Charlie November Foxtrot Juliett Papa Lima Echo Yankee Bravo Romeo Victor Kilo,$424.11 ,85690,33-849-6186,Maint
+874343573-4,aliquam,Weekly,TRUE,Delta Yankee Sierra Whiskey Lima Foxtrot Romeo X-ray Golf Echo Bravo Tango Quebec November Oscar,$201.38 ,33844,08-253-5817,Patient_care
+599946309-2,lorem integer tincidunt,Seldom,FALSE,Mike Oscar Delta November Foxtrot Uniform Bravo Hotel Tango Lima,$768.28 ,53459,42-491-8148,Maint
+998435801-1,blandit nam nulla,Often,FALSE,,$390.30 ,97347,39-643-4879,Admin
+631882387-5,fermentum,Daily,FALSE,Romeo Lima Charlie Foxtrot Delta Uniform November Alfa Juliett Victor Kilo,$862.75 ,72135,30-817-4089,Patient_care
+223354480-3,tempus vivamus in,Monthly,FALSE,Kilo Bravo Tango Yankee Papa Lima X-ray Uniform Alfa Victor India Romeo,$552.07 ,16399,27-166-1317,Maint
+085121323-5,at turpis,Monthly,FALSE,,$780.08 ,56495,48-391-4136,Maint
+049497755-8,interdum venenatis turpis,Often,FALSE,Tango Echo Mike Whiskey Oscar Hotel Victor Charlie Alfa Golf Zulu November Uniform Romeo India X-ray Delta Lima,$452.62 ,63755,07-905-3060,Facilities
+561662848-4,eget,Monthly,FALSE,Uniform India Delta Tango Foxtrot Charlie Mike Golf Juliett Kilo X-ray Quebec Romeo Zulu Yankee Papa Bravo Lima,$279.95 ,56709,82-906-3231,Admin
+376046568-4,neque,Weekly,FALSE,,$778.02 ,24583,13-483-2424,Maint
+382374683-9,vulputate ut ultrices,Once,FALSE,,$501.90 ,54919,50-154-2555,Custodial
+134258161-X,feugiat non pretium,Often,TRUE,Sierra India Uniform Romeo Bravo X-ray Charlie Lima Echo Tango Yankee Alfa Mike Golf Hotel Victor Whiskey Papa,$565.53 ,46951,53-903-9731,Caretaker
+335299820-5,commodo placerat,Monthly,TRUE,,$902.55 ,98644,77-444-9930,Patient_care
+904174961-6,ac,Often,FALSE,Whiskey Yankee Kilo November Charlie Quebec Hotel Golf Lima India,$15.70 ,39056,41-816-4248,Facilities
+230896303-4,justo,Once,FALSE,Kilo Sierra Romeo Papa Alfa Charlie Juliett Bravo X-ray India Oscar November Victor Delta Hotel Whiskey Yankee Uniform Foxtrot,$792.70 ,20986,40-135-2022,Patient_care
+233849850-X,dui,Monthly,TRUE,Uniform Kilo Quebec Oscar Charlie Alfa Delta India Echo X-ray Tango Zulu Foxtrot Yankee Romeo Victor Juliett Golf,$830.70 ,39261,12-650-9906,Admin
+660443584-9,elit,Once,TRUE,Alfa Echo Charlie Foxtrot Whiskey Golf Mike Yankee November Lima Papa Zulu Quebec Delta,$733.30 ,45099,78-034-1250,Caretaker
+054497587-1,nec euismod,Seldom,TRUE,Kilo Victor Tango Romeo Golf India Zulu Alfa Uniform Quebec Yankee Sierra November Bravo Echo Juliett Delta Whiskey Charlie,$454.37 ,26543,87-619-1751,Maint
+909971948-5,cubilia,Never,FALSE,,$205.98 ,60826,73-844-9401,Accounting
+134371498-2,ultrices posuere cubilia,Yearly,TRUE,,$222.35 ,91677,32-559-2403,Maint
+490721671-8,ultrices posuere,Never,TRUE,Romeo Quebec Mike Sierra Hotel India Yankee Uniform Juliett Delta November Oscar Foxtrot Alfa Zulu Echo Kilo Bravo Lima,$440.77 ,873,68-642-0506,Patient_services
+540798595-0,habitasse,Often,FALSE,,$340.16 ,18072,61-014-5566,Facilities
+994880191-1,ipsum,Yearly,FALSE,,$732.31 ,28439,27-132-3243,Patient_services
+511071256-5,quis turpis eget,Daily,FALSE,Kilo India Papa Hotel Juliett Echo Delta Lima Yankee Uniform Sierra X-ray Whiskey Bravo November,$641.54 ,31558,15-780-2712,Accounting
+245160559-6,in faucibus,Once,FALSE,Romeo Mike Papa Uniform X-ray Zulu Delta Charlie Tango Lima Quebec Oscar Echo Bravo Kilo Alfa Golf Hotel,$469.04 ,78919,37-739-6835,Patient_services
+709176931-7,molestie nibh in,Yearly,TRUE,Romeo Papa Bravo Delta Zulu Tango Victor India Kilo Juliett Lima Alfa Echo Yankee November Charlie Uniform Mike Foxtrot Oscar,$313.13 ,47254,50-494-0077,Custodial
+481299560-4,nibh,Seldom,FALSE,,$850.69 ,39816,71-372-0359,Caretaker
+233416625-1,eu felis,Daily,TRUE,Kilo Alfa X-ray Charlie Victor Delta Echo Uniform Yankee Bravo Juliett Papa Mike Sierra Golf,$551.29 ,39513,50-627-9998,Facilities
+150457481-8,id,Seldom,FALSE,Sierra Hotel Foxtrot X-ray November Romeo Echo Bravo Whiskey Golf Alfa Quebec Kilo Uniform Victor Lima,$966.45 ,17660,44-568-4902,Accounting
+060918713-9,ultrices enim,Weekly,FALSE,,$794.82 ,42145,71-013-7860,Facilities
+354495344-7,nec,Daily,TRUE,,$988.75 ,8293,37-066-3461,Maint
+283630931-8,leo rhoncus sed,Yearly,TRUE,Alfa Uniform Yankee Sierra Zulu Kilo Juliett Oscar Tango Golf Quebec Bravo,$938.51 ,90284,41-448-2939,Custodial
+768729101-8,cursus urna,Monthly,FALSE,Golf Lima Papa Delta Quebec Echo India Mike Zulu Foxtrot Victor Tango Whiskey Hotel Yankee November X-ray,$166.38 ,69400,87-387-7133,Admin
+653344431-X,lacinia,Monthly,FALSE,Alfa Delta Echo Zulu Yankee Kilo Mike Juliett Bravo X-ray Uniform Golf Sierra Charlie Hotel,$969.22 ,15774,87-080-0455,Custodial
+295398906-4,condimentum curabitur in,Monthly,TRUE,,$520.22 ,62334,51-311-6692,Patient_care
+476498076-2,donec ut,Once,FALSE,,$886.51 ,21188,03-309-8784,Patient_care
+721284256-7,vel dapibus at,Seldom,FALSE,,$277.31 ,61987,24-574-4492,Admin
+874152497-7,ut erat curabitur,Often,FALSE,,$475.13 ,44056,67-970-4431,Custodial
+543837264-0,integer tincidunt,Never,FALSE,Romeo Lima Juliett Kilo Hotel X-ray Alfa November Bravo Victor Oscar Zulu Mike India Golf Delta Sierra Echo Foxtrot,$565.87 ,44770,47-544-4230,Accounting
+270405284-0,vestibulum,Seldom,FALSE,,$702.24 ,87238,14-707-0772,Maint
+533464056-8,at nunc commodo,Weekly,TRUE,,$315.95 ,65035,37-454-6094,Admin
+087119706-5,elementum,Often,TRUE,,$641.53 ,45162,69-759-1167,Patient_care
+272223797-0,proin eu mi,Daily,FALSE,Echo Romeo Golf Papa Tango X-ray Uniform Oscar Alfa Foxtrot Yankee Lima Kilo November Victor Delta India Charlie,$498.15 ,92075,91-587-7738,Accounting
+487816449-2,pulvinar sed,Never,TRUE,Alfa Foxtrot Quebec Papa Echo Delta Hotel Lima Bravo Kilo Romeo Zulu Golf,$107.73 ,74886,12-873-3281,Patient_care
+085447798-5,velit,Yearly,FALSE,,$185.35 ,77755,68-162-4860,Facilities
+872658088-8,luctus,Monthly,TRUE,Whiskey Victor Quebec Golf Juliett Papa Sierra Oscar Kilo Lima Alfa Echo Mike Zulu India Yankee,$334.71 ,80247,65-050-6690,Patient_care
+225426530-X,ultrices libero non,Monthly,TRUE,,$704.80 ,45724,87-119-3662,Caretaker
+527962520-5,ligula,Monthly,TRUE,,$317.98 ,16579,94-155-4279,Admin
+272521761-X,morbi vestibulum velit,Monthly,TRUE,Mike Foxtrot Victor Alfa Sierra Yankee Hotel Golf November Echo Quebec X-ray Uniform Oscar Juliett Papa Whiskey Bravo Zulu Tango,$223.23 ,6567,37-062-4509,Maint
+630597737-2,gravida,Yearly,FALSE,,$647.69 ,30623,19-956-5976,Caretaker
+103626598-6,condimentum curabitur,Yearly,FALSE,Hotel November Tango Lima Uniform Bravo Mike X-ray Victor Yankee Juliett Foxtrot India,$537.68 ,5475,69-230-1484,Patient_care
+243818611-9,nec,Often,TRUE,November X-ray Papa Golf Tango Quebec Yankee Delta Foxtrot Oscar Lima Mike Charlie Echo Kilo Juliett,$417.74 ,6651,03-758-1329,Custodial
+323421621-5,turpis nec,Once,FALSE,,$367.88 ,89510,10-893-6508,Patient_care
+887298218-9,lorem,Weekly,TRUE,Romeo Oscar Whiskey Hotel India Golf Tango Victor Zulu Papa Juliett Delta Uniform Quebec,$46.35 ,89643,63-083-7695,Caretaker
+277396655-4,in,Never,TRUE,Kilo Golf Echo Bravo Quebec Foxtrot India Oscar Hotel Uniform Zulu Charlie Sierra Lima Mike Tango Romeo,$102.50 ,28095,20-890-9124,Maint
+758010842-9,convallis,Often,TRUE,Echo Whiskey Tango Yankee X-ray Lima India Sierra Hotel Zulu Papa Romeo Victor Golf Kilo Bravo Foxtrot Oscar,$456.17 ,18358,96-387-5494,Custodial
+662128309-1,risus,Daily,TRUE,Oscar Victor Mike Quebec Alfa Charlie Echo X-ray Bravo Romeo Tango Lima November Sierra Delta,$984.98 ,58436,31-937-1341,Accounting
+112224381-2,duis,Weekly,TRUE,Papa Uniform Golf Lima Foxtrot Yankee Delta Victor Hotel Alfa Whiskey Echo Charlie Romeo Oscar,$557.41 ,50460,74-139-6912,Accounting
+272084234-6,eu interdum,Daily,FALSE,Hotel Papa Zulu November Victor Mike Golf Foxtrot Oscar Sierra Yankee Delta Echo Romeo Juliett Quebec Uniform X-ray Charlie,$645.12 ,98386,40-890-6186,Accounting
+328401492-6,posuere felis,Yearly,TRUE,Oscar Hotel Echo India Delta Sierra Kilo Juliett Golf Lima Alfa Yankee Papa,$888.19 ,91184,41-432-3459,Patient_services
+131146775-0,vel,Weekly,FALSE,,$210.19 ,15337,72-826-7024,Custodial
+403904915-2,turpis elementum,Yearly,FALSE,Romeo Whiskey Charlie Hotel Delta November X-ray Foxtrot India Yankee Juliett Tango Papa Sierra Golf Quebec Alfa Echo Victor,$339.00 ,42776,19-431-5721,Patient_care
+293660556-3,pretium,Once,FALSE,,$100.98 ,54954,40-479-2395,Caretaker
+590761457-9,sit amet,Often,TRUE,,$640.24 ,48983,57-327-0246,Facilities
+293567388-3,eget semper,Never,FALSE,Papa X-ray Quebec Charlie Uniform Hotel Tango Victor Juliett Alfa November Delta Kilo Zulu Yankee Foxtrot Whiskey,$884.08 ,29846,13-398-2077,Facilities
+409382300-6,faucibus orci,Yearly,FALSE,Tango Victor Zulu Oscar Lima X-ray Sierra Romeo Charlie Alfa Whiskey,$35.10 ,5309,73-951-3261,Accounting
+965391608-4,sit amet,Never,TRUE,Yankee Golf Foxtrot Romeo Sierra Victor Kilo Charlie Bravo Oscar Zulu November X-ray Tango Papa Uniform Mike Delta India Echo,$661.63 ,56997,34-697-1852,Maint
+682833347-0,eget tempus vel,Daily,FALSE,Romeo Golf Alfa Bravo Hotel Delta Victor November Kilo Uniform Oscar,$641.36 ,30593,46-945-2518,Facilities
+719856763-0,nonummy integer,Never,TRUE,,$43.66 ,65188,98-533-2841,Patient_care
+192850129-X,aliquam,Monthly,FALSE,Yankee November Papa Echo Golf Hotel Lima Zulu Oscar India Tango Juliett Charlie Alfa Victor Delta Whiskey X-ray Kilo Romeo,$589.55 ,32397,54-701-2832,Facilities
+320062676-3,sed,Daily,TRUE,Mike Charlie Sierra Echo November Uniform Alfa X-ray Yankee Foxtrot Bravo Whiskey Tango Quebec Romeo,$29.98 ,72221,67-029-5205,Patient_care
+140458482-X,diam in,Weekly,FALSE,India Echo Whiskey Juliett Charlie Hotel Zulu November Yankee Oscar Lima Alfa Delta Golf Kilo Foxtrot Papa,$321.44 ,62692,42-544-5876,Custodial
+479827243-4,erat vestibulum,Yearly,FALSE,,$3.10 ,61486,99-341-1304,Admin
+108755428-4,venenatis tristique fusce,Never,FALSE,,$951.24 ,1028,56-113-8855,Admin
+377569440-4,odio odio elementum,Monthly,FALSE,,$447.57 ,57488,16-242-0347,Accounting
+580132066-0,est,Often,FALSE,Golf Hotel Echo Oscar Foxtrot India Bravo Papa Quebec Victor Kilo Charlie Delta Whiskey,$612.69 ,14457,37-226-4254,Patient_services
+397423133-1,in hac habitasse,Never,TRUE,Sierra Victor Kilo Echo Foxtrot Bravo Juliett X-ray Papa Whiskey Tango Quebec November Romeo,$261.58 ,51748,22-502-6607,Custodial
+834793450-9,aliquet pulvinar,Often,TRUE,Foxtrot Yankee Juliett Sierra X-ray Bravo Kilo Lima Victor Delta Uniform,$551.55 ,46751,83-497-7152,Facilities
+538926452-5,ut,Often,TRUE,Golf Juliett X-ray Foxtrot Kilo Charlie Romeo Sierra Echo November Papa Lima Hotel Delta India Uniform Zulu Oscar Mike,$166.94 ,66301,43-583-3745,Patient_care
+401587511-7,fermentum,Weekly,FALSE,,$90.57 ,391,12-080-9335,Accounting
+689183846-0,nisi,Never,FALSE,Quebec X-ray Yankee Bravo Whiskey November Victor Charlie Uniform Alfa Golf,$803.00 ,47145,88-758-4326,Accounting
+379479905-4,sit amet,Often,TRUE,Uniform Alfa Hotel Victor Delta Foxtrot Charlie Quebec Mike Whiskey Sierra Kilo Tango Juliett Zulu Bravo,$971.01 ,5402,09-597-3159,Admin
+964317833-1,lobortis convallis,Once,TRUE,Yankee Hotel Whiskey Kilo Delta Romeo Foxtrot Lima Alfa Oscar Victor Zulu Echo Uniform Sierra Juliett,$951.76 ,49940,01-487-5010,Custodial
+931039431-5,a pede,Yearly,TRUE,Juliett Echo Victor Charlie Foxtrot Bravo Zulu Kilo Alfa Quebec X-ray November India Whiskey Yankee Lima Golf Sierra,$994.57 ,23602,76-130-6987,Patient_care
+408071727-X,aliquet,Once,TRUE,X-ray Charlie Juliett Foxtrot Whiskey Sierra Uniform India Bravo Quebec Lima Hotel Alfa Yankee November Papa Delta,$12.95 ,34922,44-369-1332,Patient_care
+820235756-X,at ipsum ac,Often,TRUE,Tango Foxtrot Whiskey Victor Lima Papa Uniform X-ray Quebec November Delta Hotel Romeo Kilo Yankee Echo Juliett Oscar,$57.95 ,79297,87-947-8369,Admin
+892321268-7,bibendum,Often,FALSE,,$659.24 ,40068,42-176-0215,Patient_services
+430791910-6,non,Weekly,FALSE,,$194.19 ,42612,16-392-6849,Caretaker
+635250077-3,nunc,Weekly,TRUE,,$601.67 ,1907,59-431-7208,Patient_care
+133925096-9,posuere nonummy integer,Weekly,FALSE,Sierra Mike Golf India X-ray Echo Zulu Charlie Juliett Whiskey Lima,$900.75 ,33677,78-397-9521,Admin
+734116746-7,nulla justo,Never,FALSE,,$822.64 ,92313,08-521-7834,Admin
+801831358-X,lectus,Often,TRUE,Romeo Quebec November Delta Uniform Hotel Victor Sierra Papa Oscar India Juliett Yankee Echo Bravo Charlie Mike Foxtrot Kilo,$696.78 ,86320,44-119-8088,Caretaker
+096877092-4,in,Never,TRUE,Kilo Juliett Charlie Oscar Victor Mike Uniform Golf Foxtrot Yankee X-ray Tango Quebec Lima Bravo Sierra,$476.90 ,77028,45-289-7698,Custodial
+829932997-3,ac nulla sed,Once,FALSE,Tango Alfa Charlie Bravo X-ray Golf Delta Yankee Mike Victor Quebec Papa Foxtrot Sierra Zulu Echo Romeo Oscar Uniform,$65.88 ,35430,87-971-0249,Accounting
+510497223-2,maecenas tincidunt,Yearly,FALSE,Kilo Whiskey Quebec November Delta Yankee Golf India Uniform Juliett Victor,$234.55 ,78873,68-992-8123,Patient_services
+893983445-3,magna vestibulum,Never,TRUE,,$544.57 ,66190,72-242-9904,Patient_services
+855139970-5,nisl,Yearly,FALSE,Tango Delta X-ray Alfa Oscar Bravo Yankee Quebec Foxtrot Victor,$625.98 ,19954,99-696-2388,Accounting
+476884687-4,nunc,Yearly,FALSE,November Juliett Golf Victor Yankee Whiskey Bravo Quebec Sierra Zulu Mike Tango Foxtrot Alfa,$139.61 ,85824,74-674-1557,Accounting
+448477818-1,scelerisque mauris,Once,TRUE,,$204.58 ,85560,84-128-4471,Facilities
+714608000-5,risus,Weekly,TRUE,Foxtrot Delta Uniform Kilo Lima Victor Sierra Echo Charlie India November Whiskey Papa Alfa Yankee,$907.88 ,4297,81-065-7184,Accounting
+041061657-5,in,Weekly,FALSE,,$218.32 ,95984,08-542-6198,Custodial
+894562959-9,turpis,Yearly,TRUE,,$97.59 ,98060,65-611-5279,Admin
+870380021-0,curae mauris viverra,Never,TRUE,Mike November Oscar Victor Alfa Juliett Quebec Delta Uniform Sierra,$381.61 ,47384,95-856-1162,Caretaker
+507049129-6,dictumst,Monthly,TRUE,Romeo Oscar Kilo Quebec Foxtrot Uniform India Zulu Golf Lima Hotel Yankee Sierra Bravo Alfa Mike November Echo,$531.82 ,81706,91-487-6524,Facilities
+501001070-4,amet turpis,Daily,FALSE,Mike Golf Zulu Sierra Alfa India Juliett Quebec Romeo Hotel Victor Kilo,$847.48 ,7171,04-099-1112,Facilities
+179708294-9,sed,Never,TRUE,,$267.10 ,52537,41-280-2332,Accounting
+507882862-1,semper rutrum nulla,Often,FALSE,Papa Hotel Romeo Quebec India Uniform Echo Alfa Lima November Bravo Charlie Kilo Tango X-ray,$384.21 ,69071,31-728-2937,Patient_services
+484823954-0,erat eros,Once,FALSE,Tango Oscar Alfa Zulu Quebec Mike Delta Yankee Romeo Lima Uniform Echo Whiskey Papa X-ray November Juliett India,$274.17 ,26431,90-115-7815,Caretaker
+417530602-1,nibh quisque,Yearly,TRUE,Victor Zulu Golf Alfa Foxtrot Echo Romeo Papa Lima Juliett Hotel X-ray,$904.01 ,57672,43-309-7526,Patient_services
+103244154-2,pede,Never,FALSE,Echo Romeo X-ray Tango Papa Sierra Kilo Oscar Foxtrot Quebec Golf Lima Charlie Whiskey Delta India,$461.60 ,83532,87-687-1788,Facilities
+996378942-0,convallis,Once,TRUE,Golf Echo Papa Whiskey Delta Zulu Quebec Juliett India Victor Kilo Sierra Charlie Uniform Romeo Mike Alfa Lima,$531.85 ,16967,10-902-2696,Caretaker
+058618880-0,ornare consequat lectus,Once,TRUE,,$995.86 ,52403,19-112-6990,Maint
+029141673-X,in,Never,TRUE,,$114.42 ,92527,68-717-0172,Accounting
+669947151-1,in,Never,TRUE,Golf Oscar Alfa X-ray Zulu November Tango Sierra India Quebec Yankee Uniform Bravo Hotel Echo Papa Mike,$112.94 ,39525,76-576-6049,Facilities
+499223037-7,in,Weekly,FALSE,India Yankee Kilo Papa Quebec Lima Uniform Charlie Alfa November Zulu Delta Hotel Whiskey Mike,$631.18 ,11547,20-716-2025,Accounting
+450419892-4,neque aenean auctor,Seldom,FALSE,Delta Yankee Victor Juliett Echo Kilo Golf Mike November Whiskey Charlie X-ray Alfa Zulu India Foxtrot Oscar Hotel,$21.32 ,90295,65-103-3554,Patient_services
+011667206-4,convallis morbi,Never,TRUE,Echo Kilo Victor Yankee X-ray Romeo Hotel Sierra Bravo Charlie Whiskey Golf Papa Mike,$984.82 ,6175,00-005-7493,Custodial
+852093554-0,semper porta,Weekly,FALSE,,$975.13 ,33220,41-397-9978,Accounting
+285337243-X,morbi quis tortor,Monthly,TRUE,Mike Kilo Alfa Lima Zulu Uniform Yankee Foxtrot Victor X-ray Sierra Quebec November Oscar Bravo Charlie Whiskey Juliett Papa,$576.75 ,51076,20-149-9843,Admin
+248770126-9,amet consectetuer,Daily,TRUE,Uniform Quebec Kilo Whiskey Yankee X-ray November Romeo Lima Golf Alfa Mike Foxtrot Zulu Charlie Victor Delta,$776.11 ,98027,40-226-3301,Facilities
+656129068-2,in est,Never,TRUE,Hotel Uniform November Kilo Romeo Golf Zulu Victor X-ray Oscar Papa Lima Tango Echo,$577.37 ,73744,89-762-8201,Admin
+553977314-4,eget semper,Often,TRUE,Tango Lima Kilo Yankee Sierra India Romeo Echo November Foxtrot Mike Zulu Quebec Charlie,$321.02 ,2956,16-620-7654,Admin
+418495749-8,luctus et,Never,FALSE,Zulu Foxtrot Romeo Yankee Uniform Kilo Echo November Mike Charlie Alfa Golf Quebec,$12.47 ,33840,54-196-4472,Custodial
+640714624-0,facilisi cras,Seldom,TRUE,Sierra November Whiskey Bravo Charlie Uniform X-ray Oscar Victor Zulu Echo Delta Hotel Kilo Quebec Alfa Juliett Yankee India Foxtrot,$132.39 ,55769,08-981-3335,Accounting
+952591631-6,in porttitor,Seldom,TRUE,,$300.18 ,21482,17-918-7456,Maint
+597642519-4,quam,Monthly,FALSE,,$822.07 ,94412,44-264-2510,Accounting
+562003207-8,feugiat,Weekly,TRUE,X-ray Juliett Victor Charlie Alfa Foxtrot Papa Yankee November Sierra Echo India Kilo Oscar,$793.24 ,74728,65-056-0487,Caretaker
+084057441-X,quam a odio,Often,TRUE,India Hotel Bravo Alfa Golf Juliett Quebec Whiskey Foxtrot Romeo Papa X-ray Lima Kilo Yankee Charlie Echo Uniform November Oscar,$892.48 ,93099,56-937-1368,Maint
+872450562-5,vulputate,Yearly,FALSE,,$867.19 ,49783,72-354-0496,Admin
+286259119-X,eget tincidunt eget,Yearly,FALSE,Papa Charlie Foxtrot Oscar November Golf Hotel Romeo Yankee Zulu X-ray Kilo Delta Sierra Bravo India Victor Tango,$796.05 ,94761,16-395-8066,Admin
+749671638-3,elit proin,Yearly,TRUE,Victor Charlie Tango Uniform Bravo Oscar Quebec Alfa Sierra Mike November,$953.72 ,8855,97-822-2435,Maint
+584799532-6,at lorem,Never,FALSE,,$82.81 ,9562,19-278-8538,Patient_care
+257294810-9,ut rhoncus,Once,TRUE,,$415.44 ,5225,51-259-3852,Patient_care
+696217436-5,mattis pulvinar nulla,Daily,TRUE,,$830.88 ,1481,06-843-8897,Admin
+385909688-5,lacus,Weekly,FALSE,Charlie Mike Uniform Lima Delta Victor Romeo Bravo Oscar X-ray India Yankee Tango Golf November Juliett,$783.84 ,71089,53-435-4736,Patient_care
+891864537-6,montes nascetur ridiculus,Seldom,FALSE,,$539.46 ,80363,94-532-3338,Patient_care
+385871493-3,tristique in,Seldom,FALSE,Oscar Yankee Tango X-ray India Romeo Juliett Lima Bravo Foxtrot Papa Whiskey Quebec Alfa Golf Hotel Zulu Uniform Mike November,$248.53 ,56352,21-075-0788,Facilities
+896691726-7,condimentum id luctus,Daily,FALSE,,$309.63 ,88179,24-353-7832,Maint
+475575888-2,natoque,Monthly,FALSE,,$664.72 ,19200,73-823-4265,Caretaker
+653067176-5,vitae ipsum,Never,TRUE,Bravo Golf Echo Zulu Papa Victor Charlie Quebec Delta Tango Whiskey Alfa Kilo,$197.61 ,8760,01-662-9488,Accounting
+228370193-7,non,Monthly,TRUE,Foxtrot Kilo Echo Papa Golf Alfa November Whiskey Lima Yankee Mike Hotel Juliett Charlie Oscar,$955.16 ,41063,06-346-3991,Facilities
+192819956-9,lacinia aenean,Often,TRUE,,$460.34 ,55052,79-482-8403,Custodial
+461820906-2,scelerisque mauris sit,Weekly,FALSE,Juliett Charlie India Kilo Lima Whiskey Echo Quebec Bravo Yankee X-ray Hotel Alfa Uniform Romeo Delta Victor Foxtrot,$518.16 ,16004,53-486-9860,Maint
+702045028-8,ante vestibulum ante,Yearly,FALSE,,$736.16 ,93127,92-553-4849,Patient_care
+582417512-8,nulla dapibus dolor,Weekly,FALSE,,$850.05 ,88088,92-244-2218,Patient_care
+398330620-9,porta volutpat quam,Daily,FALSE,,$39.60 ,28709,49-791-3931,Patient_care
+577327037-4,tempor turpis,Seldom,FALSE,Zulu Juliett Charlie November Echo Papa Bravo Hotel Delta Kilo Tango Mike Golf Victor Romeo India,$271.93 ,10749,94-533-8910,Patient_services
+611967929-4,blandit,Daily,TRUE,Uniform Zulu Tango November X-ray Whiskey Echo Yankee Papa Romeo Golf Hotel,$947.58 ,5007,04-640-7750,Patient_care
+231591626-7,molestie sed,Often,FALSE,Foxtrot X-ray Zulu Golf November Hotel Bravo India Uniform Quebec Victor Sierra Kilo Oscar Whiskey Romeo Mike Papa Echo Juliett,$72.73 ,47539,51-464-9868,Admin
+063437315-3,purus,Never,FALSE,Mike Lima Golf Zulu Echo Victor Hotel Oscar Charlie Alfa Quebec Whiskey India X-ray Romeo,$157.37 ,45316,25-385-0575,Custodial
+997809944-1,nunc viverra,Yearly,TRUE,,$650.92 ,21901,11-928-6682,Patient_services
+866392258-2,pulvinar,Monthly,FALSE,,$316.78 ,84352,66-271-9590,Caretaker
+716206526-0,cubilia,Seldom,TRUE,Lima X-ray Bravo Kilo Quebec Zulu Papa Delta Romeo November Alfa Echo Oscar,$834.18 ,13986,38-544-1021,Patient_services
+382089922-7,non mauris morbi,Once,FALSE,Foxtrot Delta Zulu Charlie Sierra Romeo Papa Hotel Mike Oscar X-ray Juliett Alfa Tango Quebec India Echo Golf Yankee,$843.62 ,66671,19-945-6420,Facilities
+762804260-0,pede,Yearly,TRUE,Romeo Zulu Mike Lima X-ray Hotel Juliett Echo Victor Quebec Bravo,$316.60 ,11115,13-593-2092,Patient_care
+836317216-2,integer,Monthly,TRUE,Uniform Delta Foxtrot Papa Hotel Golf Quebec Zulu Lima Echo Yankee Victor Kilo India Alfa,$309.96 ,67451,87-066-1925,Facilities
+780856084-7,nunc donec,Never,TRUE,X-ray Golf Yankee Romeo November Charlie Hotel Zulu Kilo Echo Tango Lima Alfa Delta Foxtrot Mike Sierra Oscar Juliett,$15.28 ,46365,86-971-0599,Patient_services
+779414302-0,odio odio elementum,Yearly,TRUE,Juliett India Victor Mike Charlie Yankee Alfa November Uniform Whiskey Tango X-ray Oscar Papa Romeo Hotel,$442.24 ,15584,17-484-7619,Maint
+660378905-1,sem sed sagittis,Monthly,TRUE,Alfa Kilo Whiskey Tango Oscar Juliett Golf Delta Charlie Romeo Sierra,$693.24 ,14843,91-025-8524,Accounting
+043343870-3,nulla nisl,Never,TRUE,Yankee Oscar Hotel Bravo India Sierra X-ray Charlie Alfa Tango Juliett,$811.32 ,70738,64-665-7460,Caretaker
+757045909-1,quam sapien,Daily,TRUE,Victor Lima Romeo Sierra Delta India Charlie Echo Quebec Whiskey X-ray Kilo Uniform Alfa Papa Oscar Bravo,$51.56 ,75790,18-997-3785,Facilities
+835210648-1,massa donec dapibus,Yearly,TRUE,Delta X-ray Charlie Quebec Mike Hotel Sierra Golf Echo Lima Uniform Bravo,$271.29 ,49762,49-438-7930,Patient_care
+642544891-1,vivamus vestibulum,Yearly,FALSE,Sierra Lima Tango Whiskey Quebec Echo Kilo Oscar Uniform November Juliett X-ray,$447.59 ,36767,07-825-7774,Admin
+017987127-7,mauris morbi,Never,FALSE,Lima Zulu India Yankee Hotel Romeo Juliett Mike Alfa Whiskey Oscar Delta Kilo X-ray November Golf,$487.30 ,36155,39-593-0924,Admin
+805599993-7,fringilla,Once,TRUE,Kilo Yankee Foxtrot Oscar India Golf Uniform Zulu Victor Lima Sierra Quebec Charlie Mike Delta Romeo,$54.35 ,7179,15-427-7263,Admin
+515690616-8,orci,Never,TRUE,,$665.33 ,87026,42-058-4976,Caretaker
+708097815-7,cum,Weekly,TRUE,Echo Juliett Whiskey November Bravo Quebec Sierra X-ray India Papa Delta Golf,$744.39 ,92109,33-690-4807,Admin
+355896038-6,velit donec diam,Daily,FALSE,Oscar X-ray Alfa Bravo Juliett Quebec Yankee Victor Sierra Golf Whiskey Uniform Delta Mike Echo Kilo November Papa,$213.76 ,47499,72-210-7367,Admin
+722826840-7,a,Once,TRUE,,$146.39 ,25952,47-522-7911,Caretaker
+445018653-2,ac lobortis vel,Seldom,FALSE,,$605.75 ,85693,68-646-6824,Patient_care
+681739249-7,vitae ipsum aliquam,Once,FALSE,Sierra Lima Echo Quebec Kilo Yankee Romeo Papa Oscar Mike Whiskey Foxtrot Charlie November Juliett X-ray Golf Zulu,$928.29 ,13769,02-460-4723,Admin
+769659775-2,elementum nullam varius,Seldom,FALSE,,$231.81 ,15352,17-128-9293,Admin
+834528218-0,nisi venenatis,Yearly,TRUE,,$536.70 ,82262,15-075-0107,Facilities
+735122800-0,morbi odio odio,Seldom,FALSE,Foxtrot Uniform Papa India Bravo Lima Juliett Zulu Yankee Hotel Kilo November Romeo Quebec Mike Delta,$485.53 ,78433,72-962-8192,Caretaker
+771720102-X,pellentesque viverra,Often,TRUE,,$487.97 ,86175,81-103-3948,Caretaker
+577362395-1,integer ac,Weekly,TRUE,,$90.50 ,99641,44-533-2795,Patient_services
+097558158-9,consequat,Seldom,FALSE,Papa Golf Victor Foxtrot Whiskey Oscar Kilo November India Mike Quebec Lima Yankee X-ray Uniform Charlie Delta Juliett Hotel,$350.30 ,5501,29-071-4434,Admin
+043181448-1,posuere,Yearly,TRUE,Hotel Mike Zulu Foxtrot X-ray Echo Yankee Uniform Charlie Sierra Bravo Oscar Victor Lima Delta Kilo Golf November,$698.50 ,48491,45-021-2297,Patient_services
+062190228-4,erat,Seldom,FALSE,Zulu Romeo Uniform Hotel Bravo Victor Sierra Golf Quebec Tango Foxtrot X-ray Juliett Echo Kilo Oscar Whiskey India Charlie Mike,$977.29 ,66514,72-497-5180,Patient_care
+706834424-0,nullam porttitor lacus,Monthly,FALSE,Mike Papa Foxtrot Oscar Golf November Zulu Bravo Lima Quebec Tango Alfa Echo Charlie Yankee Romeo Kilo Delta,$710.97 ,23720,74-014-2608,Maint
+574618207-9,curabitur,Yearly,TRUE,Whiskey Alfa Bravo Lima Golf November Kilo Quebec Uniform India Mike Tango Sierra Victor Delta Echo,$907.23 ,92895,39-925-0960,Accounting
+103045447-7,dui nec,Often,FALSE,,$400.32 ,8356,82-254-6874,Patient_care
+468777114-9,quis lectus,Once,TRUE,,$640.93 ,77614,44-360-4866,Custodial
+156934368-3,vel,Once,FALSE,Golf Quebec Zulu Mike Romeo Delta Lima Hotel November Kilo Oscar Foxtrot Echo Whiskey Bravo X-ray,$510.17 ,31072,03-040-9666,Admin
+636944316-6,non,Once,TRUE,,$899.25 ,91274,64-914-9753,Admin
+774638527-3,etiam faucibus cursus,Once,TRUE,,$454.00 ,89234,05-938-9810,Maint
+716880246-1,consequat lectus,Never,FALSE,Oscar Foxtrot Kilo Quebec Golf Lima X-ray Juliett Hotel Charlie Sierra Papa Zulu Romeo Echo Victor,$436.15 ,59409,42-198-1989,Facilities
+717928845-4,nisi vulputate,Once,FALSE,Mike Papa X-ray Charlie Bravo Lima Echo Delta Yankee Kilo,$411.29 ,81261,37-635-1251,Caretaker
+847680996-4,habitasse platea,Once,TRUE,,$974.32 ,46595,16-104-5849,Caretaker
+872292965-7,penatibus,Once,TRUE,,$865.27 ,64363,94-740-5918,Caretaker
+056827681-7,velit eu,Daily,FALSE,Delta Hotel Oscar India Foxtrot Bravo Quebec Yankee Golf X-ray Whiskey Kilo Uniform Alfa,$369.87 ,54410,31-476-5178,Admin
+456267538-1,erat volutpat,Never,TRUE,Yankee Juliett Sierra Foxtrot Romeo Echo Kilo Delta Alfa Golf Victor Tango Uniform November Oscar X-ray Quebec Whiskey Papa Mike,$16.41 ,31749,34-676-9480,Patient_care
+131489862-0,vestibulum ante,Daily,FALSE,,$304.83 ,54448,14-251-7455,Facilities
+139452027-1,nullam orci,Daily,TRUE,Uniform Kilo Victor Oscar Echo Golf Mike X-ray Yankee Hotel Sierra,$551.80 ,61935,38-656-6251,Admin
+921751216-8,adipiscing elit proin,Weekly,FALSE,,$494.17 ,70898,45-235-6906,Admin
+149902562-9,nunc commodo,Weekly,TRUE,,$389.31 ,81375,61-489-5737,Admin
+112482104-X,sociis natoque penatibus,Yearly,FALSE,,$748.28 ,31528,56-377-9162,Maint
+166851688-8,fermentum,Monthly,TRUE,,$640.85 ,58635,04-188-7854,Facilities
+868545406-9,cras pellentesque volutpat,Yearly,FALSE,,$679.94 ,57527,23-518-5758,Accounting
+681728234-9,odio elementum eu,Daily,FALSE,,$341.53 ,32816,90-842-9543,Custodial
+122002353-1,nullam,Never,FALSE,,$190.40 ,11149,68-300-7509,Patient_care
+523377310-4,ut erat id,Daily,TRUE,,$49.11 ,45889,71-184-7103,Admin
+174363961-9,eget eleifend luctus,Daily,FALSE,,$258.32 ,93628,96-622-1872,Patient_services
+350947059-1,quisque ut,Never,TRUE,Quebec Tango November Oscar X-ray Zulu Yankee Romeo Alfa Mike Golf Uniform Foxtrot Delta Papa India Juliett,$383.82 ,24918,78-617-8242,Custodial
+136861419-1,ac nibh,Weekly,TRUE,,$718.67 ,16757,23-649-1596,Caretaker
+048885980-8,convallis nunc,Daily,TRUE,,$968.11 ,84246,60-732-5735,Patient_services
+768154837-8,ipsum primis,Never,TRUE,Bravo Whiskey Foxtrot Mike Juliett Sierra Charlie Alfa Tango Kilo Yankee,$771.07 ,76036,88-227-7742,Admin
+716803910-5,purus phasellus in,Yearly,TRUE,Echo Papa Mike Tango India Lima November Delta Foxtrot Bravo,$590.02 ,34953,16-028-9130,Facilities
+324633114-6,tellus in,Never,FALSE,Bravo November Sierra Whiskey Yankee Kilo Golf Uniform Victor Romeo Oscar Alfa Lima Foxtrot Echo Charlie Zulu India,$558.10 ,37337,86-340-8379,Admin
+630784344-6,donec semper,Seldom,FALSE,,$538.77 ,95047,62-968-6824,Admin
+134220036-5,lorem ipsum dolor,Once,TRUE,Papa Yankee Tango Uniform Whiskey Bravo Kilo Juliett Oscar Mike Golf Victor Zulu,$80.76 ,10736,63-084-4193,Facilities
+810061848-8,eu,Daily,TRUE,Mike Juliett Golf Uniform November Delta Bravo Charlie Yankee India Echo,$768.60 ,80575,80-991-7040,Admin
+687675776-5,maecenas rhoncus,Monthly,FALSE,Uniform Victor Echo Romeo Kilo Yankee Bravo Oscar Zulu Juliett Mike India Tango Delta November Hotel Golf Papa,$320.42 ,66894,18-010-2807,Accounting
+582576486-0,nec,Never,FALSE,Echo Hotel Victor Foxtrot India Mike Quebec Bravo Charlie Delta Sierra Juliett Alfa Kilo,$866.43 ,19254,74-309-4745,Admin
+533441589-0,augue,Yearly,TRUE,,$691.91 ,48973,38-421-2341,Patient_services
+077874160-5,in felis donec,Monthly,TRUE,Oscar Lima Quebec Hotel Papa Delta Kilo Juliett Romeo Foxtrot Tango,$827.65 ,68688,17-822-8332,Facilities
+536162587-6,venenatis lacinia aenean,Daily,TRUE,Alfa Echo X-ray Uniform Golf India Yankee Victor Romeo Papa,$363.84 ,82275,09-737-3124,Accounting
+093780703-6,vestibulum ante ipsum,Weekly,FALSE,Alfa Papa Uniform Oscar Mike Whiskey Sierra Golf Charlie Bravo Lima Echo Juliett Romeo Hotel India November Tango Quebec,$747.80 ,42886,92-122-0835,Maint
+578105196-1,pulvinar,Once,TRUE,,$964.06 ,7796,49-619-8074,Facilities
+852634073-5,lectus pellentesque,Often,TRUE,,$160.42 ,20524,48-831-7647,Maint
+085117771-9,platea dictumst,Seldom,TRUE,,$31.99 ,88670,24-302-6333,Caretaker
+427139838-1,eu nibh quisque,Never,TRUE,Papa India Romeo Victor Mike Delta Bravo X-ray Sierra Yankee Tango November Juliett Foxtrot Lima Quebec,$639.06 ,97821,46-393-0232,Custodial
+454831889-5,ante vivamus tortor,Monthly,TRUE,,$256.81 ,82556,80-034-1705,Accounting
+296105660-8,ut,Never,TRUE,Hotel India Delta Victor Mike Foxtrot Tango Charlie Juliett Papa Echo,$274.89 ,41229,28-367-0010,Patient_services
+281988438-5,proin,Monthly,FALSE,Sierra Quebec Bravo November Papa Whiskey Delta Charlie Golf Oscar Kilo,$780.09 ,94501,94-936-6246,Caretaker
+322971004-5,lacus purus,Yearly,TRUE,,$727.18 ,93586,71-811-5685,Maint
+081734699-6,dui vel,Often,FALSE,Delta Alfa Hotel November Whiskey Zulu Bravo Tango Sierra Uniform Juliett Quebec Papa Echo Oscar Foxtrot,$862.99 ,90264,05-893-5320,Admin
+355424651-4,congue,Yearly,FALSE,,$807.33 ,19725,27-721-2868,Maint
+511625486-0,magnis dis,Once,FALSE,,$311.68 ,63031,29-014-5392,Maint
+929725116-1,turpis,Never,TRUE,Delta Yankee Tango Lima Golf Kilo Whiskey November Zulu Hotel Quebec Alfa,$6.92 ,55704,27-129-0821,Caretaker
+611804494-5,lobortis,Once,FALSE,Alfa Papa India Kilo Sierra Romeo Juliett Hotel Tango Bravo Delta Zulu,$966.44 ,42365,55-131-5069,Caretaker
+785640411-6,duis,Monthly,FALSE,Bravo Sierra November Alfa Yankee Hotel Uniform Zulu Juliett Tango Lima Quebec Romeo Mike Papa Oscar Delta Golf X-ray India,$372.54 ,31100,24-754-9174,Custodial
+397083942-4,sit amet erat,Yearly,FALSE,,$437.19 ,87633,13-988-3699,Caretaker
+100237947-4,in porttitor,Weekly,TRUE,,$931.48 ,73839,97-979-3330,Patient_services
+157301441-9,turpis nec,Yearly,TRUE,Juliett Charlie India Romeo Tango Hotel Zulu Mike Quebec Victor,$609.65 ,12916,28-114-5147,Accounting
+769455684-6,aliquet at feugiat,Often,TRUE,,$654.57 ,67982,57-105-6818,Facilities
+226286566-3,in porttitor pede,Once,FALSE,Charlie Yankee Papa Delta Bravo Juliett Oscar Alfa Kilo Echo India Zulu Golf Uniform Hotel Whiskey Quebec Foxtrot Romeo X-ray,$131.65 ,49178,72-763-8658,Admin
+868988215-4,suscipit nulla,Weekly,FALSE,,$149.04 ,97347,17-194-5664,Custodial
+788777503-5,nam,Monthly,TRUE,Kilo Lima Yankee Golf India Charlie Juliett Sierra Victor Hotel Echo Bravo Quebec Mike Foxtrot Oscar,$598.59 ,42063,77-609-8607,Patient_care
+042134544-6,sagittis,Often,FALSE,Foxtrot Kilo Romeo Bravo Delta X-ray Mike India Zulu Quebec November Hotel Sierra Charlie Papa Golf Uniform Yankee,$952.87 ,45801,31-495-7657,Patient_care
+481123864-8,risus dapibus augue,Seldom,TRUE,,$400.99 ,36951,01-247-0762,Facilities
+398946806-5,accumsan tellus,Seldom,TRUE,Hotel Golf Charlie Alfa Whiskey Uniform Oscar Quebec Sierra Romeo Tango Zulu Mike Lima Yankee Echo Papa X-ray Victor,$149.55 ,90002,30-870-2948,Caretaker
+269722497-1,fringilla rhoncus,Often,TRUE,India Delta Uniform Alfa Zulu November Quebec Foxtrot Juliett Mike Whiskey Lima Tango Sierra Hotel,$368.68 ,50431,60-781-0147,Patient_care
+041948789-1,posuere nonummy,Yearly,TRUE,Victor Echo Alfa X-ray Yankee Oscar Juliett Foxtrot Tango Golf Bravo Sierra Quebec,$195.99 ,39183,49-625-4917,Facilities
+853229851-6,odio porttitor id,Weekly,FALSE,Juliett X-ray India Sierra Victor Charlie Papa Zulu Yankee Mike Oscar Golf Alfa Uniform Hotel Foxtrot Quebec Whiskey Lima Bravo,$638.47 ,82237,70-111-9661,Facilities
+778083397-6,nunc,Once,FALSE,Zulu Tango Oscar Delta Yankee Juliett Victor Lima India Bravo Hotel Sierra,$277.04 ,10257,10-088-3920,Custodial
+991292954-3,tellus in sagittis,Seldom,TRUE,Yankee Sierra Romeo Foxtrot Zulu Quebec Tango Echo Oscar Papa Victor November Golf X-ray Bravo Juliett Alfa Mike,$616.95 ,82945,46-596-2456,Patient_care
+618450979-9,justo maecenas rhoncus,Daily,TRUE,Victor Whiskey Yankee X-ray Quebec November Kilo Bravo Zulu India Sierra Golf Uniform Delta,$80.98 ,54536,56-396-2300,Facilities
+378625763-9,tortor eu pede,Never,TRUE,,$998.26 ,1962,01-795-9313,Facilities
+406741471-4,mattis nibh,Daily,TRUE,Sierra India Alfa Romeo Mike November Papa Lima Charlie Foxtrot Zulu Victor,$730.95 ,7261,23-494-5361,Caretaker
+714950397-7,quis,Once,TRUE,Quebec Romeo X-ray Whiskey Sierra Juliett Uniform Kilo Zulu Golf Oscar Bravo Echo Delta India,$306.02 ,12666,63-625-8934,Custodial
+379410180-4,ultricies,Daily,TRUE,,$578.68 ,25007,52-019-6802,Caretaker
+433445001-6,risus,Monthly,FALSE,X-ray Uniform Zulu Mike November Golf Tango India Kilo Oscar Quebec,$695.20 ,10576,66-346-2335,Patient_care
+496125288-3,tortor,Seldom,FALSE,Uniform Tango Alfa X-ray Echo Romeo India Papa Yankee Bravo,$595.43 ,84053,28-508-4049,Facilities
+850098113-X,lectus,Once,FALSE,,$938.12 ,56303,29-295-4069,Caretaker
+844311984-5,adipiscing,Seldom,TRUE,Mike Sierra India Foxtrot Yankee Tango Kilo Zulu X-ray Charlie Victor Romeo,$678.08 ,97527,82-316-8583,Patient_care
+393081612-1,in,Monthly,FALSE,Whiskey Charlie Romeo Delta November Yankee Quebec Victor Uniform Alfa Oscar,$460.06 ,34054,20-826-3759,Maint
+287621251-X,semper,Often,FALSE,Quebec Papa India Yankee Sierra X-ray Hotel Juliett Golf Bravo Victor Delta Zulu Uniform Alfa Lima November,$840.15 ,90644,32-341-1418,Patient_services
+882964140-5,aliquet,Weekly,TRUE,,$909.30 ,22473,07-161-8420,Maint
+141697572-1,nulla mollis molestie,Monthly,TRUE,Bravo Kilo Delta Victor Sierra Echo Oscar Uniform November Juliett India Tango Zulu Lima Romeo Golf,$223.58 ,44949,46-515-2355,Facilities
+938879799-X,sapien,Seldom,TRUE,Golf Zulu Quebec India Papa November Alfa Romeo Oscar Whiskey,$646.53 ,15240,75-890-2068,Admin
+304137744-6,nunc,Never,TRUE,,$257.71 ,19948,60-083-7008,Custodial
+993757519-2,etiam pretium,Never,FALSE,Hotel Yankee Bravo Charlie Papa Alfa Delta Victor Zulu Tango Lima Whiskey Mike Oscar Juliett,$97.57 ,53111,41-693-5249,Maint
+106360526-1,posuere,Often,TRUE,Tango Charlie Yankee Uniform Bravo Oscar Romeo Lima Golf Foxtrot Delta Echo Papa,$5.34 ,42062,75-670-0486,Patient_care
+167263342-7,gravida sem,Weekly,FALSE,,$231.69 ,711,52-024-0453,Patient_services
+974898232-7,ut at dolor,Yearly,TRUE,Hotel Quebec Whiskey Lima Alfa Zulu Victor Charlie Foxtrot Sierra Delta Juliett,$10.43 ,2742,81-228-3893,Custodial
+235683245-9,metus vitae,Once,TRUE,Kilo Victor November Bravo Hotel Mike Tango Alfa Romeo India Sierra X-ray Papa Whiskey Golf,$978.46 ,94545,16-136-0219,Custodial
+047310177-7,est phasellus sit,Once,TRUE,,$242.04 ,93900,54-014-4200,Patient_services
+573524652-6,morbi,Often,FALSE,November Hotel Charlie Zulu Lima Golf Yankee Uniform Echo X-ray Oscar India Alfa,$989.18 ,71462,42-081-7291,Facilities
+057265508-8,erat,Never,FALSE,,$842.81 ,26752,15-491-1217,Patient_care
+025447019-X,felis,Once,FALSE,,$100.25 ,6906,41-205-4518,Facilities
+179104661-4,in imperdiet,Daily,FALSE,,$494.66 ,65181,17-361-2824,Caretaker
+437025333-0,vitae ipsum aliquam,Seldom,FALSE,,$29.98 ,27995,31-676-1896,Maint
+906381644-8,volutpat in,Yearly,FALSE,,$732.42 ,21164,13-016-2191,Admin
+195642481-4,quis lectus suspendisse,Weekly,TRUE,Romeo Papa Hotel Lima Oscar Yankee Quebec Charlie November Kilo Victor,$131.93 ,61452,76-628-3634,Caretaker
+619429587-2,morbi,Often,TRUE,Golf Papa Zulu India Victor Bravo Tango Kilo Mike Hotel Oscar Lima Juliett November Delta,$205.42 ,8931,96-554-6592,Admin
+446136120-9,molestie,Once,TRUE,Juliett Papa Golf Foxtrot Tango Alfa Yankee Delta Zulu Sierra Echo Hotel,$388.98 ,26740,83-306-6677,Admin
+813774929-2,in,Yearly,FALSE,Alfa Delta Victor Romeo Sierra Charlie India Tango Golf Bravo Mike Uniform Lima Oscar,$808.60 ,12491,39-804-0685,Facilities
+635505916-4,tempor convallis nulla,Weekly,TRUE,Echo Foxtrot Quebec Lima Alfa Kilo Delta Sierra Hotel Papa Uniform,$530.48 ,57062,41-781-1300,Admin
+166113512-9,lectus suspendisse,Daily,TRUE,Uniform Delta Papa Romeo Yankee Lima Whiskey Sierra Mike Juliett Echo Charlie Foxtrot Bravo Golf Tango Victor Oscar Hotel,$527.03 ,54304,19-607-4226,Facilities
+147393471-0,eu orci mauris,Yearly,FALSE,,$141.87 ,43560,38-358-9721,Custodial
+987146717-6,tellus,Weekly,TRUE,Bravo Mike Tango Romeo Sierra Foxtrot Golf Oscar Lima Zulu Kilo Whiskey Alfa,$357.39 ,17383,48-448-7094,Admin
+176003486-X,diam vitae,Monthly,FALSE,Papa Echo Kilo Uniform Quebec Hotel Victor Charlie November Yankee Juliett Lima Oscar Foxtrot,$937.36 ,14381,40-741-8790,Admin
+171931170-6,sollicitudin,Daily,FALSE,,$148.12 ,32012,56-058-3126,Patient_care
+553859086-0,erat eros,Monthly,FALSE,Victor Zulu Lima Juliett Delta Golf Hotel India Tango November Echo,$943.51 ,88857,10-330-7101,Facilities
+298814818-X,ipsum dolor sit,Seldom,FALSE,Bravo Tango Juliett Golf Victor Uniform Yankee Mike Delta India November,$586.35 ,29201,91-384-7081,Caretaker
+682484035-1,pretium iaculis,Monthly,FALSE,Delta Uniform Charlie Bravo Hotel Zulu Yankee Lima Tango Oscar Victor Sierra Echo,$900.33 ,81882,09-554-8787,Admin
+092108710-1,a,Often,TRUE,Lima Yankee Uniform Echo X-ray Foxtrot November Alfa Oscar Tango Victor Bravo Golf Papa,$578.13 ,27028,19-387-0036,Caretaker
+118222823-2,nisi nam,Often,FALSE,X-ray Juliett Hotel Sierra Zulu Victor India Foxtrot Papa Lima November Mike Whiskey Echo Oscar Charlie Delta Uniform,$304.87 ,26204,68-500-7086,Admin
+014121723-5,porttitor id,Monthly,FALSE,Kilo Bravo Victor Mike Foxtrot Uniform Yankee Romeo Alfa Charlie Juliett Quebec Tango,$463.45 ,50477,06-819-2059,Admin
+352561002-5,morbi non lectus,Once,TRUE,,$82.14 ,56881,87-115-5317,Custodial
+258535444-X,curabitur,Often,FALSE,,$405.36 ,41773,91-103-4680,Patient_services
+195185133-1,tellus nisi,Seldom,TRUE,,$174.35 ,6194,40-290-5874,Maint
+093281578-2,elit,Once,TRUE,,$710.81 ,71925,85-996-9434,Maint
+184222608-8,vestibulum,Daily,FALSE,,$878.59 ,62243,14-385-3956,Accounting
+807252668-5,sed,Daily,TRUE,Foxtrot Uniform Echo India November Juliett Golf Kilo Zulu Sierra Bravo Whiskey Delta,$605.31 ,33128,78-648-5266,Accounting
+622767403-6,massa,Weekly,TRUE,Tango Uniform Kilo Echo Papa Golf Mike Charlie Delta Foxtrot Whiskey Bravo Alfa November Juliett,$524.52 ,87640,91-704-5938,Patient_care
+851162357-4,facilisi cras,Never,FALSE,,$717.70 ,28210,97-263-7598,Admin
+005052498-4,vel nulla,Daily,TRUE,Victor November Delta India Uniform Juliett X-ray Romeo Papa Alfa Echo Lima Sierra Tango Oscar Quebec Foxtrot,$303.37 ,29788,99-161-6704,Accounting
+225524653-8,metus arcu adipiscing,Yearly,FALSE,,$794.49 ,58328,58-338-0517,Accounting
+560406271-5,viverra dapibus nulla,Often,TRUE,Oscar Uniform Alfa X-ray India Papa Tango Romeo Foxtrot November Golf Hotel Juliett Mike Sierra Victor Zulu Whiskey Kilo,$186.61 ,65563,34-336-1019,Custodial
+903950513-6,tempus vel pede,Often,FALSE,,$428.05 ,68221,88-975-0544,Patient_care
+208323070-1,aliquam quis,Daily,FALSE,,$635.21 ,29636,32-197-2183,Maint
+324651239-6,morbi,Monthly,FALSE,Bravo Whiskey Sierra Uniform Tango India Lima Delta Yankee Mike Zulu Foxtrot Quebec Victor,$190.20 ,32413,11-805-9267,Admin
+947909574-2,nam,Seldom,TRUE,,$133.46 ,98091,58-550-4175,Admin
+796251771-9,purus,Daily,TRUE,Juliett Delta Kilo Lima Echo Oscar India Romeo November X-ray Yankee Golf Uniform Whiskey Charlie Sierra,$783.94 ,34353,12-624-7079,Caretaker
+304512977-3,nulla tempus,Weekly,FALSE,Foxtrot Sierra Tango Zulu Papa Echo Hotel Charlie Whiskey Yankee,$394.58 ,48239,58-293-5951,Patient_care
+031128437-X,vestibulum ante ipsum,Seldom,TRUE,Zulu Alfa Bravo Hotel Tango Kilo Delta Romeo Oscar Whiskey Papa Juliett Foxtrot Echo,$726.52 ,21416,76-938-0488,Patient_care
+759140993-X,diam neque,Monthly,FALSE,,$555.43 ,61464,62-636-2745,Custodial
+075701389-9,rutrum,Monthly,TRUE,November Whiskey Papa Uniform Charlie Tango Victor Quebec Alfa Echo,$567.59 ,67065,99-619-9097,Caretaker
+972763650-0,est congue elementum,Once,TRUE,Golf X-ray Delta Juliett November Romeo Bravo Hotel Zulu Victor Mike Oscar,$248.06 ,45705,19-406-3301,Accounting
+964835475-8,massa donec dapibus,Often,FALSE,,$595.82 ,48307,49-201-1950,Admin
+710256267-5,velit,Once,FALSE,Golf Papa Yankee Mike Lima Whiskey Foxtrot X-ray Alfa Bravo Quebec Romeo Tango,$716.23 ,66854,42-841-9449,Patient_care
+478177084-3,venenatis tristique fusce,Weekly,FALSE,Delta Mike Golf Quebec Juliett Papa Foxtrot Lima India Yankee Sierra Kilo Echo Whiskey Tango Charlie Oscar,$78.46 ,23505,22-366-9467,Custodial
+754693887-2,consectetuer eget rutrum,Never,TRUE,Juliett Delta Tango Kilo Quebec Romeo Echo Sierra Golf November Yankee Lima Oscar Whiskey Foxtrot Zulu,$862.22 ,37588,64-154-9966,Patient_care
+184545699-8,purus,Daily,FALSE,Romeo Mike Echo Charlie Whiskey November Bravo Victor Tango Oscar Zulu Juliett Hotel Alfa X-ray Yankee Kilo Sierra,$946.05 ,99535,98-542-3499,Accounting
+647283647-7,interdum,Never,TRUE,,$821.01 ,33103,38-484-4936,Admin
+287047145-9,ante vestibulum ante,Often,FALSE,Tango Oscar Foxtrot Lima Hotel Yankee Delta Whiskey Charlie Echo Kilo,$182.69 ,6035,42-052-3051,Facilities
+086724441-0,porttitor pede justo,Daily,FALSE,Echo November Hotel Victor Papa Lima Foxtrot Yankee Whiskey Charlie Zulu Uniform,$824.96 ,20216,44-882-1004,Patient_services
+324812005-3,volutpat,Seldom,TRUE,,$121.20 ,86308,57-447-4583,Maint
+726751423-5,vestibulum,Once,FALSE,,$914.64 ,96542,76-124-6862,Patient_services
+095449540-3,urna ut,Monthly,TRUE,Bravo Uniform Whiskey Golf Tango Kilo Juliett Echo Oscar Charlie Quebec Yankee Romeo X-ray Alfa Papa Delta Foxtrot,$770.67 ,88011,22-006-7182,Accounting
+168799801-9,parturient montes,Yearly,FALSE,Sierra Victor Zulu Foxtrot Romeo November Bravo Mike Lima Yankee Quebec,$521.51 ,22409,65-242-6369,Admin
+078124826-4,neque sapien placerat,Often,TRUE,Lima Kilo Charlie Zulu Mike Whiskey Yankee Tango Golf Victor Juliett Papa Romeo November,$850.53 ,17943,74-913-3439,Facilities
+983766449-5,iaculis,Weekly,TRUE,Juliett Sierra Mike Tango Yankee Kilo Golf X-ray Quebec Papa Lima India Romeo Whiskey Foxtrot Delta Alfa Bravo November Echo,$656.44 ,71214,98-549-0493,Facilities
+372010331-5,etiam,Daily,TRUE,Foxtrot Hotel Echo Sierra Kilo Golf Tango Delta Victor Juliett Bravo Papa Oscar Yankee Lima Mike Alfa Uniform,$437.44 ,63690,06-818-3010,Accounting
+836203866-7,non quam,Once,FALSE,Victor Alfa Juliett Delta Zulu Kilo Papa Uniform Hotel India Foxtrot Whiskey X-ray Echo Charlie November,$702.36 ,16046,37-315-0985,Caretaker
+341472870-2,orci,Seldom,TRUE,,$297.82 ,99805,02-996-0341,Caretaker
+106621834-X,faucibus orci,Once,FALSE,,$875.85 ,79867,53-383-0000,Admin
+061027376-0,sem duis,Daily,TRUE,Delta Tango Victor Zulu Bravo Mike Juliett Hotel Kilo Whiskey Quebec,$872.25 ,39374,53-903-4862,Facilities
+328958928-5,morbi vestibulum,Monthly,FALSE,,$764.27 ,12779,12-634-2906,Patient_services
+749935271-4,convallis tortor,Daily,TRUE,,$37.84 ,57008,40-185-3193,Caretaker
+938905563-6,justo,Weekly,FALSE,Echo Sierra Hotel Papa Whiskey Romeo Oscar X-ray Zulu Quebec Foxtrot Yankee Kilo,$325.46 ,99380,05-381-8595,Admin
+572677872-3,molestie nibh in,Monthly,TRUE,,$810.08 ,66560,84-457-7062,Maint
+137826476-2,at,Daily,FALSE,Charlie Bravo Tango Delta Hotel Juliett Uniform Quebec Whiskey Victor Echo Foxtrot Romeo Lima Zulu,$198.21 ,32596,45-636-7181,Patient_services
+211873831-5,orci vehicula condimentum,Once,TRUE,Oscar Quebec Victor Whiskey Yankee Romeo November Kilo Tango India Charlie Hotel Juliett,$5.65 ,40397,36-795-2843,Patient_care
+046966173-9,ut odio,Once,TRUE,,$965.10 ,42277,29-022-3068,Custodial
+251377328-4,suscipit nulla,Weekly,FALSE,Hotel Echo Zulu Lima Charlie Tango India Kilo Whiskey November Mike Alfa X-ray Foxtrot Golf Oscar Uniform Papa Yankee,$247.89 ,34237,84-927-4018,Admin
+622823802-7,sed tincidunt,Yearly,FALSE,,$214.78 ,14080,78-356-9658,Maint
+173605670-0,velit,Daily,TRUE,Charlie Zulu Hotel Mike Papa X-ray Lima Romeo Tango Quebec Whiskey Uniform November,$742.74 ,25522,12-415-5554,Admin
+677892201-X,venenatis,Weekly,TRUE,Tango Mike Yankee Hotel Echo Whiskey Papa Victor Quebec Romeo Golf Charlie X-ray Sierra Uniform,$138.43 ,74766,08-601-3436,Facilities
+579832603-9,accumsan felis,Once,TRUE,Sierra Oscar Alfa Foxtrot Quebec Lima November India Mike Hotel Victor Papa Delta Zulu X-ray Whiskey Bravo Yankee,$489.53 ,35870,34-823-8279,Patient_services
+981542454-8,eget tempus,Monthly,FALSE,,$446.21 ,36843,32-341-9873,Accounting
+308325205-6,donec ut dolor,Never,FALSE,Mike Oscar Yankee India Tango Victor Alfa Zulu Romeo Uniform Hotel Golf,$690.14 ,33564,98-587-9991,Accounting
+986007246-9,suspendisse,Weekly,TRUE,,$395.32 ,23363,69-150-0775,Patient_care
+184791492-6,vestibulum,Never,FALSE,Papa Oscar Tango Yankee Delta India Zulu Charlie Uniform Kilo Echo Foxtrot Victor Bravo X-ray Golf Quebec Sierra,$292.44 ,5344,82-590-9005,Maint
+962441934-5,nunc viverra dapibus,Never,TRUE,Whiskey Echo Uniform Charlie Mike Victor Sierra Oscar Golf X-ray Bravo Hotel Kilo Romeo November Delta,$7.41 ,64908,44-061-3812,Admin
+491272776-8,venenatis turpis enim,Once,TRUE,,$631.55 ,69273,78-767-3340,Accounting
+415425642-4,purus,Often,FALSE,,$658.83 ,64540,04-061-7024,Custodial
+739651473-8,tincidunt,Yearly,TRUE,,$147.44 ,90803,74-138-9960,Caretaker
+476812717-7,libero rutrum,Monthly,TRUE,Yankee India Delta Tango Zulu Charlie Quebec Whiskey Lima November Alfa Mike Kilo Echo Oscar Hotel Papa X-ray Sierra Victor,$152.12 ,44949,63-585-5908,Maint
+163897234-6,a ipsum integer,Monthly,FALSE,,$510.01 ,91761,44-354-2341,Custodial
+558339164-2,at vulputate vitae,Yearly,TRUE,Hotel Echo Romeo Yankee Victor Kilo November Mike Juliett Alfa Whiskey Zulu Lima,$757.92 ,5094,32-150-9162,Patient_services
+390923663-4,ipsum primis,Daily,TRUE,Uniform Kilo Oscar Lima Foxtrot Hotel Delta Alfa Papa X-ray Victor Juliett Romeo Echo,$657.49 ,52898,42-548-6655,Facilities
+610008249-7,erat tortor sollicitudin,Weekly,FALSE,,$988.49 ,14074,99-434-9528,Patient_care
+036773498-2,in,Yearly,FALSE,Whiskey November Delta Uniform Victor Zulu Foxtrot Romeo Tango X-ray Charlie Juliett Bravo Papa Quebec Oscar,$92.35 ,79987,65-240-7066,Facilities
+658554797-7,nulla tempus vivamus,Daily,FALSE,Yankee Sierra Uniform Mike Alfa November Foxtrot Oscar Zulu Echo Charlie Bravo Victor Golf,$256.83 ,42054,99-293-8716,Facilities
+311104031-3,nunc purus,Yearly,FALSE,X-ray Kilo Papa Whiskey Charlie Delta Uniform Yankee Victor Lima India Oscar Golf Zulu Romeo Juliett Quebec,$947.01 ,42930,72-414-5198,Custodial
+121059732-2,sed nisl nunc,Once,FALSE,Papa Delta Oscar Quebec Echo Golf Tango Victor Charlie Mike,$343.66 ,63163,88-003-1330,Patient_care
+587631907-4,amet diam in,Once,TRUE,,$585.24 ,58181,36-766-3374,Accounting
+085026670-X,vitae nisi,Often,FALSE,Lima Yankee India Juliett Charlie Whiskey X-ray Quebec Sierra Hotel Echo Golf,$148.80 ,67641,57-896-0433,Patient_care
+076257768-1,non sodales sed,Often,FALSE,Echo Whiskey Sierra Juliett Kilo November Mike Foxtrot Yankee Victor Papa Charlie India Tango Zulu Bravo,$36.62 ,85825,77-815-2811,Facilities
+493812478-5,aenean,Often,TRUE,November Tango Hotel Alfa Foxtrot Sierra Whiskey Mike Bravo Zulu Quebec Victor Delta Kilo Yankee Lima,$859.44 ,10564,79-087-5601,Patient_services
+999534104-2,neque libero convallis,Monthly,TRUE,,$790.20 ,7315,34-163-5473,Accounting
+396624622-8,ultrices libero,Often,TRUE,,$353.01 ,12973,52-045-8200,Custodial
+927562260-4,nulla tempus vivamus,Daily,TRUE,India Sierra Lima Yankee Zulu Echo Hotel Uniform Victor November Quebec Delta Bravo Oscar Charlie Kilo Alfa Foxtrot Papa,$44.88 ,86772,39-098-9497,Accounting
+111471204-3,lobortis ligula,Daily,TRUE,Alfa Victor Uniform Lima Sierra Charlie Tango Foxtrot Quebec Romeo Kilo Whiskey Yankee Juliett Hotel Zulu Papa Echo India,$205.81 ,22898,49-560-5522,Admin
+906538585-1,suscipit ligula,Weekly,TRUE,,$184.20 ,87346,76-465-9029,Maint
+435300432-8,urna pretium,Never,FALSE,Mike Delta Tango Zulu Oscar Charlie India November X-ray Quebec Bravo Hotel Echo Uniform Whiskey Lima Papa Victor Alfa Golf,$487.68 ,28343,98-176-1508,Caretaker
+059249626-0,ipsum praesent blandit,Seldom,TRUE,Delta Foxtrot Papa Whiskey November Yankee Golf India Juliett X-ray Zulu Tango Romeo Quebec Hotel Bravo Echo Oscar Mike,$728.93 ,12586,80-924-5713,Custodial
+440610819-X,ac tellus semper,Once,FALSE,,$982.37 ,93324,90-014-3415,Maint
+141643475-5,mattis egestas,Once,FALSE,,$754.94 ,66038,48-880-9744,Caretaker
+856161143-X,donec ut dolor,Never,TRUE,Echo Zulu Victor Lima Yankee Kilo Bravo Romeo Quebec Foxtrot Oscar Hotel,$991.50 ,47143,83-984-3893,Custodial
+184588399-3,leo rhoncus,Yearly,FALSE,,$340.48 ,47239,18-108-7031,Admin
+827421999-6,lacus curabitur,Weekly,TRUE,Charlie India Delta Kilo Zulu Juliett Romeo X-ray Tango November Echo Foxtrot Victor Quebec Whiskey,$591.48 ,19528,03-155-6528,Accounting
+030714242-6,tempus semper,Once,FALSE,Delta Hotel Bravo Mike Oscar Victor India Foxtrot Kilo Echo Charlie Tango Zulu Alfa November Golf Papa,$171.15 ,85116,00-470-2312,Facilities
+309939456-4,dolor sit,Seldom,TRUE,Lima Juliett Zulu November Papa Victor Hotel Sierra Uniform Romeo Alfa Kilo Oscar Delta India,$531.35 ,80515,29-223-8580,Facilities
+187781434-2,odio justo,Never,TRUE,Quebec Lima Kilo Bravo Victor Sierra November Foxtrot Zulu Yankee Oscar Uniform Hotel Juliett Romeo Charlie Papa India,$448.86 ,77152,10-553-4199,Admin
+896465575-3,id justo,Often,TRUE,Yankee Sierra Juliett X-ray Mike Delta Tango India Papa Foxtrot Alfa Whiskey Charlie Golf,$443.30 ,81279,82-057-7625,Patient_services
+763992663-7,leo pellentesque,Monthly,TRUE,Foxtrot Golf Sierra Quebec Tango India Uniform November Oscar Yankee Lima,$368.93 ,12524,36-931-3983,Facilities
+180178121-4,tellus nulla ut,Seldom,TRUE,,$949.61 ,63814,33-551-1173,Patient_care
+020334915-6,erat,Daily,TRUE,November Victor Romeo Juliett Hotel Mike Tango Charlie Whiskey India Delta Foxtrot Lima,$575.67 ,29373,99-273-6478,Facilities
+098782296-9,curabitur convallis duis,Weekly,FALSE,India Oscar Zulu Golf Hotel Charlie Whiskey Romeo Tango Delta Bravo Mike Lima Quebec Juliett,$924.97 ,7285,90-486-2254,Patient_care
+774580992-4,mollis molestie lorem,Seldom,TRUE,,$703.54 ,90653,81-012-8425,Facilities
+287629904-6,vel nulla eget,Seldom,TRUE,Uniform Mike Sierra Kilo Golf Charlie Bravo India Oscar Tango Whiskey Zulu Foxtrot November Quebec Juliett Victor Alfa,$874.98 ,28216,93-531-4278,Maint
+683248567-0,ridiculus mus vivamus,Seldom,TRUE,X-ray Echo Alfa Charlie Romeo Zulu Golf Whiskey Delta Quebec Kilo India November Lima Hotel,$479.47 ,83892,44-458-7098,Custodial
+186668031-5,purus eu magna,Weekly,TRUE,Golf Whiskey November X-ray Juliett Alfa Echo Romeo Quebec Charlie Lima Mike Papa,$443.70 ,69462,56-732-1759,Facilities
+647518559-0,aenean lectus pellentesque,Yearly,FALSE,Golf India X-ray Victor Uniform Alfa Quebec Sierra Delta Zulu Lima Echo Mike Hotel Oscar Bravo Juliett Romeo Tango,$949.38 ,46634,96-002-2539,Custodial
+064249009-0,ultrices,Weekly,FALSE,Papa Juliett Hotel Whiskey Tango Golf Yankee Oscar Alfa Quebec,$292.25 ,35277,20-968-1898,Accounting
+143210592-2,praesent lectus,Weekly,FALSE,Tango Oscar Yankee Alfa Victor Bravo Foxtrot Zulu Lima Charlie Echo Whiskey Juliett X-ray Mike Sierra Hotel Romeo Uniform Golf,$684.81 ,62557,84-416-0107,Patient_services
+174201753-3,convallis,Often,TRUE,,$23.38 ,70950,72-429-2276,Patient_services
+741810579-7,odio consequat varius,Seldom,FALSE,,$403.07 ,11353,04-044-0019,Admin
+688194717-8,ante nulla justo,Never,FALSE,Bravo Mike Sierra Alfa India Hotel Golf Echo Lima Quebec Uniform Victor Juliett Charlie Whiskey Kilo Zulu Foxtrot Romeo Yankee,$716.88 ,41407,08-033-7873,Admin
+526194205-5,venenatis,Never,TRUE,,$452.81 ,84884,29-334-5194,Admin
+290050258-6,a feugiat et,Once,FALSE,Romeo Yankee Sierra November Echo Oscar Lima Victor Uniform Bravo Golf Foxtrot Quebec,$858.90 ,58284,31-537-4662,Accounting
+534998922-7,imperdiet et,Once,FALSE,Oscar India Foxtrot Juliett Sierra Kilo Alfa Whiskey X-ray Bravo Charlie Papa Quebec Zulu Romeo Victor Delta Yankee Tango,$497.60 ,4760,58-060-2701,Admin
+693095620-1,ultricies eu nibh,Often,FALSE,November Zulu Alfa Foxtrot Yankee Tango Echo Bravo Whiskey Lima,$38.44 ,95464,02-583-2266,Caretaker
+120242120-2,eget tempus vel,Daily,TRUE,,$728.74 ,99952,19-478-1401,Accounting
+004021246-7,vestibulum ante ipsum,Never,TRUE,Papa Oscar Foxtrot Sierra Bravo Golf Zulu X-ray Quebec Romeo Whiskey Delta Uniform,$674.50 ,91504,70-095-2974,Facilities
+914722847-4,primis in,Monthly,TRUE,India Yankee Echo Bravo Romeo Zulu X-ray Whiskey Juliett Mike Delta Hotel Tango Charlie Victor,$708.07 ,27478,22-154-6842,Caretaker
+533264191-5,sed nisl nunc,Weekly,TRUE,,$554.62 ,27466,49-219-8865,Accounting
+250303701-1,tortor duis mattis,Yearly,TRUE,India Hotel Delta Tango Oscar X-ray Sierra Golf Juliett Whiskey Quebec Echo Alfa Lima November Uniform,$514.72 ,28432,28-030-1777,Facilities
+299797656-1,phasellus id,Yearly,TRUE,November Uniform Zulu Juliett Victor Bravo Lima India Sierra Yankee Hotel Kilo Papa Tango,$567.28 ,36747,95-069-9629,Patient_care
+029887099-1,eu felis fusce,Weekly,FALSE,,$812.34 ,78593,89-630-3633,Custodial
+699097196-7,accumsan tortor quis,Seldom,TRUE,,$327.12 ,63359,50-176-5161,Patient_care
+600313572-7,dis,Weekly,TRUE,,$355.74 ,919,16-129-0869,Maint
+828321967-7,quis tortor id,Often,FALSE,India Quebec Oscar Alfa Whiskey X-ray Hotel Foxtrot Sierra Bravo Yankee Golf Tango Mike Papa Kilo Delta Charlie Romeo,$216.05 ,73526,13-754-2377,Custodial
+209297891-8,nec nisi volutpat,Never,FALSE,Romeo Quebec Bravo Alfa Delta Whiskey Charlie Echo Oscar Yankee Hotel India Tango Golf Juliett Sierra Kilo Uniform November Zulu,$435.39 ,11065,20-365-1441,Caretaker
+149367045-X,vulputate,Once,FALSE,Mike Charlie Juliett Foxtrot Quebec Echo Romeo Bravo Kilo X-ray Victor Golf Yankee Tango Whiskey,$172.21 ,31683,14-617-1725,Patient_services
+248773487-6,eu pede,Daily,TRUE,X-ray Charlie Zulu Sierra Kilo Papa November Alfa Tango Lima Mike Delta,$956.36 ,51521,41-443-2081,Patient_care
+970227434-6,volutpat eleifend,Once,TRUE,,$906.06 ,19200,94-766-3230,Admin
+526930108-3,non mattis,Yearly,FALSE,Kilo Juliett Uniform Hotel Mike Delta India Whiskey Echo Yankee Tango,$847.53 ,60857,16-283-7037,Facilities
+766818150-4,curae mauris,Daily,TRUE,November Kilo Zulu Golf Hotel Lima Echo Juliett Tango India Bravo,$805.99 ,15060,59-200-4983,Custodial
+655947465-8,mauris vulputate elementum,Once,FALSE,Quebec Uniform Bravo Golf Tango Delta Whiskey Juliett X-ray India Charlie Lima,$825.05 ,96472,22-955-8006,Maint
+885756188-7,curabitur at,Weekly,TRUE,,$26.84 ,83632,58-117-0990,Facilities
+029827071-4,pede posuere,Once,FALSE,Romeo Lima Delta Tango Foxtrot Alfa X-ray Uniform Papa Quebec,$584.18 ,71630,75-382-4126,Accounting
+908033858-3,non mauris morbi,Daily,FALSE,,$104.54 ,38024,95-216-9229,Patient_services
+134054937-9,velit vivamus,Often,TRUE,Victor Yankee Bravo Golf Romeo Charlie Mike Sierra Whiskey Oscar Foxtrot,$776.11 ,67475,65-547-3367,Custodial
+873713545-7,aenean sit,Monthly,TRUE,,$190.65 ,42596,70-539-0000,Patient_care
+049921111-1,justo morbi ut,Weekly,FALSE,Quebec Zulu Delta Golf India Bravo Lima Tango Charlie Sierra Juliett Alfa Whiskey November,$324.39 ,40946,08-637-1725,Caretaker
+213887709-4,a ipsum,Often,TRUE,Quebec Charlie Sierra Lima Romeo Alfa Foxtrot Golf Papa November Yankee Uniform Whiskey Oscar Mike Zulu X-ray Victor India,$334.22 ,95008,76-952-2210,Facilities
+903997228-1,praesent,Seldom,TRUE,Tango Whiskey Delta Oscar Juliett Sierra Victor Papa Bravo Charlie X-ray Romeo Hotel Yankee Golf Kilo Alfa Mike Uniform,$228.96 ,81928,32-533-4671,Caretaker
+094595005-5,in felis donec,Seldom,FALSE,Delta Sierra Foxtrot Quebec Oscar India Yankee Charlie Zulu Romeo Uniform Hotel Tango Bravo X-ray,$753.76 ,90838,21-595-1037,Caretaker
+675949512-8,turpis,Seldom,FALSE,Whiskey Oscar Charlie Hotel Juliett Lima Tango Golf Uniform Quebec Papa Romeo Zulu Echo November,$390.55 ,54925,16-599-9571,Patient_services
+289814212-3,non sodales,Once,TRUE,Victor Charlie Tango Golf November Oscar Echo Bravo Lima Romeo Quebec Yankee Papa X-ray Delta Hotel Alfa Juliett Uniform,$983.43 ,45704,04-974-0079,Patient_care
+667241586-6,volutpat erat,Once,TRUE,Foxtrot Victor Romeo Hotel India Yankee Zulu Oscar Bravo Quebec Papa Mike Delta Juliett,$586.67 ,28283,92-098-3828,Accounting
+537361708-3,quam sapien varius,Weekly,FALSE,,$935.45 ,75329,70-674-9486,Custodial
+568514161-0,rhoncus mauris enim,Daily,FALSE,,$287.80 ,81824,08-142-1085,Maint
+111477173-2,faucibus orci luctus,Once,FALSE,November Victor Yankee Foxtrot X-ray Hotel Whiskey Papa Bravo Sierra Golf Alfa Mike Oscar Uniform,$958.35 ,86218,15-905-1611,Patient_care
+653479382-2,aenean auctor gravida,Monthly,FALSE,,$485.42 ,48626,11-038-2045,Custodial
+972125432-0,consequat metus,Daily,FALSE,,$228.64 ,84517,97-075-5008,Admin
+433582877-2,mauris,Seldom,FALSE,Whiskey Juliett Papa November Echo Hotel Mike Sierra India Delta Charlie X-ray Oscar Golf Bravo Yankee Lima Alfa,$314.91 ,87856,31-543-1193,Patient_care
+131581500-1,pellentesque quisque,Weekly,TRUE,,$690.56 ,73677,47-584-0472,Patient_care
+855504577-0,dis parturient montes,Often,TRUE,Golf Foxtrot Oscar Quebec Yankee Alfa Uniform Hotel Lima Echo Bravo X-ray,$830.84 ,77241,51-704-0839,Accounting
+222195685-0,porta volutpat quam,Once,TRUE,Oscar Golf Lima Echo Victor Alfa Romeo Mike Tango India,$927.86 ,91522,95-077-8858,Facilities
+801449074-6,curae,Daily,TRUE,,$721.95 ,18547,88-894-9092,Admin
+315656578-4,sit amet,Never,TRUE,Hotel Bravo Victor India Golf Kilo Oscar Foxtrot Delta Tango,$553.57 ,75308,47-702-7260,Maint
+876275927-2,nisi,Once,FALSE,Uniform Charlie India X-ray Victor Whiskey Golf Juliett Yankee Hotel,$763.80 ,12471,21-948-7900,Admin
+810802091-3,augue vestibulum rutrum,Seldom,TRUE,Zulu Echo November Papa Golf Oscar Victor Mike X-ray Kilo Juliett,$537.79 ,27386,44-766-8418,Admin
+881146126-X,potenti,Never,FALSE,Mike November Kilo Bravo Delta Juliett Hotel Whiskey Yankee Alfa Papa Golf Charlie Lima Echo Uniform Sierra Foxtrot Victor,$75.43 ,60006,52-152-3176,Admin
+093143865-9,enim lorem,Daily,FALSE,,$144.36 ,95555,02-088-4744,Admin
+471377078-7,nisi venenatis tristique,Once,FALSE,,$249.17 ,73318,27-239-8434,Facilities
+872438411-9,lorem integer,Daily,FALSE,,$639.28 ,63082,22-388-1016,Patient_care
+896673916-4,molestie nibh,Weekly,FALSE,Romeo Sierra Hotel Tango Charlie Golf Quebec Echo X-ray Alfa Juliett Victor Kilo Uniform Yankee Bravo,$759.55 ,1566,73-917-4736,Caretaker
+466806858-6,magna,Once,TRUE,Juliett Hotel India Zulu Foxtrot Oscar Lima Kilo Romeo Yankee Victor Echo Alfa X-ray Delta Sierra Papa Whiskey,$798.06 ,24559,39-743-6046,Caretaker
+153978319-7,et ultrices posuere,Once,FALSE,Alfa X-ray Kilo Sierra Tango Golf Papa November Yankee Uniform Bravo Zulu Victor Quebec Romeo,$815.45 ,10232,03-264-6069,Patient_services
+665210957-3,varius,Daily,TRUE,,$757.34 ,14028,33-868-3490,Custodial
+538884800-0,orci luctus,Monthly,TRUE,Hotel Uniform Victor Charlie Whiskey India Foxtrot Quebec Lima Echo X-ray Oscar,$620.70 ,19111,97-060-2304,Accounting
+138511779-6,mattis egestas metus,Often,FALSE,,$813.90 ,76429,54-518-1421,Accounting
+748819049-1,curae mauris,Monthly,TRUE,Oscar Quebec Kilo Echo Whiskey Romeo X-ray Yankee Mike Victor Zulu November Charlie Papa,$465.85 ,47328,62-734-2777,Maint
+613031335-7,duis,Weekly,FALSE,,$10.53 ,2576,99-464-5031,Maint
+054682129-4,massa quis augue,Yearly,FALSE,,$658.55 ,16035,14-837-3778,Admin
+222357441-6,cursus id turpis,Seldom,FALSE,,$851.43 ,64247,51-834-7503,Facilities
+040423947-1,volutpat,Yearly,TRUE,,$280.61 ,88401,46-586-7797,Facilities
+163942925-5,rutrum,Weekly,TRUE,X-ray Quebec November Uniform Echo Mike Victor Papa Tango Yankee Delta Juliett Romeo Golf Charlie Alfa Sierra,$352.33 ,76421,42-567-1331,Custodial
+943967417-2,vestibulum sit amet,Yearly,FALSE,Whiskey Lima Victor Zulu Uniform Romeo Golf November Quebec Juliett Foxtrot X-ray Kilo Tango,$333.41 ,24333,40-795-0130,Patient_services
+700635202-9,vivamus in felis,Monthly,TRUE,Whiskey Juliett Zulu Quebec Uniform India Oscar Lima Papa Yankee Mike,$462.39 ,45697,49-568-6044,Accounting
+016808708-1,sit amet,Yearly,TRUE,Uniform Tango Quebec Echo Oscar X-ray Lima Charlie Foxtrot Delta Yankee Bravo Romeo Kilo November Zulu Alfa Hotel,$693.38 ,75515,72-828-0564,Patient_care
+848748042-X,convallis eget,Daily,FALSE,,$620.49 ,67392,69-071-2153,Facilities
+740223919-5,viverra,Once,FALSE,,$496.67 ,76401,35-181-2541,Accounting
+357088393-0,pretium,Yearly,TRUE,Hotel X-ray Zulu Bravo Papa Juliett Romeo Echo Yankee Quebec Lima Oscar Tango Whiskey,$753.04 ,20230,89-858-9989,Custodial
+496139986-8,velit,Weekly,FALSE,,$567.92 ,51886,34-230-0470,Accounting
+927595671-5,nulla quisque arcu,Weekly,TRUE,Hotel November Echo Uniform Quebec X-ray Zulu Tango Victor India Lima Sierra Bravo Oscar Whiskey Juliett Alfa Papa Yankee Kilo,$628.19 ,61258,14-538-4463,Maint
+981089650-6,eleifend quam a,Never,TRUE,,$130.70 ,71522,25-046-9239,Admin
+490546315-7,at nibh in,Once,FALSE,,$5.96 ,4313,00-215-5379,Accounting
+815260883-1,non,Daily,FALSE,Papa Mike Victor Hotel Zulu Echo Charlie Quebec Lima India Sierra Tango Kilo Yankee Juliett Romeo X-ray,$722.81 ,67770,70-247-6218,Accounting
+858166158-0,ligula sit amet,Monthly,FALSE,Bravo Golf Papa Delta Tango India Romeo Quebec Sierra Mike Foxtrot X-ray Zulu Hotel Victor Alfa Charlie,$492.47 ,90822,21-732-8239,Accounting
+573629496-6,in leo maecenas,Once,FALSE,Delta Lima India Yankee Uniform Whiskey Juliett Foxtrot Kilo Echo Zulu Oscar Romeo,$739.61 ,48905,67-041-5607,Admin
+466101061-2,varius,Weekly,FALSE,Yankee November Romeo Oscar Papa Bravo Tango Victor Foxtrot Charlie,$956.69 ,45041,39-427-9666,Accounting
+031652860-9,eget nunc,Yearly,FALSE,,$927.70 ,69264,85-121-3912,Custodial
+165788291-8,sapien cursus vestibulum,Seldom,TRUE,,$730.12 ,51622,52-891-2640,Accounting
+849218843-X,curabitur,Once,FALSE,Oscar Yankee Alfa Echo Romeo Tango Foxtrot Papa Kilo Zulu Mike Juliett Charlie Uniform November,$961.27 ,47436,86-818-5963,Maint
+754563170-6,convallis morbi,Daily,TRUE,,$797.00 ,7329,62-091-3204,Caretaker
+576041541-7,mauris,Never,FALSE,Victor Foxtrot Bravo Zulu Kilo Tango Alfa Oscar Romeo Hotel X-ray Lima Quebec Echo Uniform Sierra,$484.13 ,44727,96-665-4764,Custodial
+755616973-1,turpis integer,Yearly,FALSE,,$494.82 ,16919,59-527-3471,Caretaker
+791153381-4,non,Once,TRUE,,$756.51 ,91548,03-368-2362,Admin
+743352799-0,ultricies,Often,TRUE,,$469.87 ,65475,71-287-5239,Facilities
+354869854-9,blandit ultrices enim,Often,TRUE,,$735.15 ,66858,10-881-6412,Facilities
+758262818-7,in,Daily,TRUE,Mike Victor Quebec Foxtrot Echo November Alfa Papa Charlie Kilo Hotel Romeo Tango Zulu Oscar X-ray Yankee,$837.73 ,49576,91-441-2437,Patient_services
+332616359-2,erat eros viverra,Never,FALSE,Sierra Romeo November Whiskey Kilo Quebec India Bravo Delta Zulu Charlie Mike Echo Lima Hotel Oscar Golf Juliett Alfa X-ray,$931.37 ,1722,90-464-8721,Caretaker
+754382496-5,varius integer ac,Once,TRUE,Oscar Juliett Zulu X-ray Papa Whiskey Golf Yankee India November Romeo Mike Quebec Kilo Victor Hotel Tango Bravo Sierra,$560.40 ,38320,68-132-2638,Custodial
+523632207-3,cubilia curae,Yearly,TRUE,Quebec Papa Victor November Oscar Alfa Sierra Zulu Bravo Yankee X-ray Mike Hotel Lima Whiskey Foxtrot,$466.66 ,90207,42-974-0882,Maint
+564769569-8,ultrices,Once,FALSE,Hotel Golf Papa Kilo Whiskey Mike Victor Foxtrot India Lima X-ray Romeo Uniform Zulu Bravo Echo Juliett Oscar Delta Tango,$280.47 ,73643,80-039-1624,Patient_services
+559371137-2,at vulputate vitae,Often,FALSE,Sierra Uniform Golf Foxtrot X-ray Delta Oscar Kilo Charlie Alfa November,$381.70 ,45420,36-887-7615,Caretaker
+415077663-6,eleifend quam,Never,FALSE,,$59.77 ,47349,10-440-1372,Accounting
+280230878-5,quam nec dui,Seldom,TRUE,,$645.62 ,25533,32-340-2576,Caretaker
+810647952-8,turpis nec euismod,Often,TRUE,,$518.54 ,96668,78-856-0154,Facilities
+652763296-7,porttitor id consequat,Weekly,TRUE,India Quebec Yankee Juliett Victor Mike Kilo Bravo Foxtrot November,$888.77 ,70168,86-967-4700,Facilities
+456452967-6,in,Seldom,TRUE,Echo Romeo Sierra X-ray Hotel Kilo Alfa Delta November Tango Uniform Lima Yankee Whiskey,$909.57 ,60415,95-794-0598,Admin
+586522936-2,primis in,Once,FALSE,,$218.65 ,25373,10-460-0516,Patient_care
+937171406-9,turpis elementum ligula,Often,FALSE,Alfa Golf Romeo Hotel Yankee Charlie X-ray Sierra November Mike Zulu Echo Papa Uniform,$217.04 ,31170,90-804-9372,Patient_services
+230916390-2,morbi,Often,TRUE,Delta Zulu Bravo Yankee X-ray Papa Foxtrot Kilo Oscar Uniform Mike November India,$185.78 ,33117,89-351-7489,Patient_services
+589860859-1,nunc,Seldom,FALSE,Uniform Hotel Quebec Victor Echo Yankee Bravo India Kilo Delta,$252.35 ,49413,39-611-7074,Caretaker
+369053433-X,id justo sit,Once,TRUE,,$499.82 ,97539,93-326-1938,Caretaker
+228518324-0,leo,Weekly,TRUE,Kilo India Hotel Quebec Sierra X-ray Zulu Papa Echo November Delta Uniform Juliett Victor Bravo,$206.28 ,20027,11-945-6367,Admin
+869819720-5,ullamcorper,Once,TRUE,Hotel Foxtrot Yankee Bravo Lima Sierra Oscar Victor Whiskey Echo Delta Golf X-ray Tango Papa Kilo Mike,$697.02 ,17595,69-438-1996,Patient_services
+043202824-2,donec vitae nisi,Once,FALSE,Yankee Mike Hotel Kilo Victor India November Papa Lima Whiskey,$423.28 ,30503,34-736-0329,Caretaker
+550609714-X,est donec odio,Never,TRUE,Mike Zulu Charlie Yankee Uniform Sierra Hotel Juliett November Bravo Alfa Tango X-ray Golf Echo Kilo,$584.47 ,22273,68-546-9156,Patient_services
+095977943-4,pede lobortis,Monthly,FALSE,,$440.01 ,16314,49-814-1893,Maint
+078312866-5,convallis eget,Once,TRUE,,$734.58 ,77078,27-194-0666,Facilities
+652207740-X,faucibus orci luctus,Once,FALSE,Hotel Alfa Romeo Whiskey Charlie Yankee Tango Zulu Bravo Lima India Foxtrot Echo Papa Kilo Oscar Juliett,$1.48 ,22016,68-359-7600,Facilities
+752766433-9,morbi,Yearly,TRUE,Mike Whiskey Echo Golf Zulu Bravo Uniform X-ray November Romeo Oscar Papa Yankee Sierra,$598.30 ,85985,82-384-8188,Admin
+781799744-6,convallis nulla,Once,TRUE,November Echo Bravo Papa Zulu India Sierra X-ray Charlie Oscar Yankee Whiskey Mike Foxtrot Tango Delta Hotel,$752.23 ,71507,98-467-5506,Accounting
+449718442-0,sapien iaculis,Yearly,FALSE,Zulu Sierra November Foxtrot Bravo Echo Uniform Alfa Papa Whiskey X-ray India Quebec Romeo Victor Charlie Tango,$953.78 ,84919,97-614-5542,Admin
+644775151-X,lobortis sapien,Monthly,FALSE,X-ray Foxtrot Papa Delta Hotel Echo Zulu Romeo November Sierra Tango Oscar Charlie Whiskey Uniform Quebec Lima Mike,$869.79 ,49273,90-357-5567,Custodial
+150165642-2,venenatis turpis,Often,FALSE,,$325.88 ,65347,37-033-9904,Caretaker
+671806583-8,ultrices libero non,Monthly,TRUE,,$282.93 ,63487,59-254-9364,Patient_care
+170482208-4,consequat metus,Once,FALSE,Foxtrot Papa Romeo Delta Bravo Zulu Oscar Sierra Golf Alfa Juliett India Uniform Kilo Victor Tango Charlie Hotel,$104.74 ,30251,06-639-3063,Custodial
+127832752-5,tempor,Monthly,TRUE,,$217.65 ,96055,89-122-9865,Patient_services
+761620953-X,consectetuer,Monthly,FALSE,,$133.34 ,77745,99-058-9669,Patient_care
+456935038-0,magna vulputate luctus,Daily,FALSE,Whiskey Hotel India Tango Mike Juliett Oscar Yankee Papa Quebec Sierra Zulu Victor,$293.10 ,40651,28-001-1578,Custodial
+784019492-3,eros,Daily,FALSE,Foxtrot Delta Romeo Papa Juliett Hotel Uniform Tango Golf Kilo X-ray Charlie Yankee Victor India Echo Sierra,$995.96 ,16580,38-024-2869,Caretaker
+281570765-9,duis,Seldom,TRUE,Echo Golf Victor Charlie Yankee Quebec November Foxtrot Tango Mike Delta India Kilo Uniform Sierra Whiskey Bravo Lima X-ray Oscar,$952.41 ,76352,33-797-7066,Patient_care
+788942392-6,ultrices aliquet maecenas,Often,TRUE,,$794.83 ,12219,97-911-7273,Maint
+325548705-6,semper,Daily,TRUE,Uniform Foxtrot Bravo Yankee Mike Golf Echo Juliett Romeo Alfa Oscar Delta Hotel Papa Whiskey Charlie Sierra X-ray Kilo,$876.07 ,78654,55-851-0759,Patient_care
+199031149-0,justo in blandit,Weekly,FALSE,X-ray Bravo India Hotel Tango Victor Lima Delta Quebec Kilo Sierra Echo Yankee Juliett Papa Romeo Mike,$335.63 ,17724,18-358-8781,Patient_care
+488157990-8,interdum eu tincidunt,Seldom,FALSE,,$324.21 ,2834,22-196-0844,Patient_services
+282323635-X,non mi,Yearly,FALSE,Victor Foxtrot Echo Tango Romeo Oscar Alfa Papa Kilo Quebec Hotel Delta Golf Whiskey Mike Sierra X-ray India Yankee Juliett,$572.03 ,53644,15-708-2773,Maint
+119195736-5,id justo,Seldom,TRUE,Alfa Victor Lima Bravo Uniform Quebec Juliett Mike India Delta Oscar X-ray Romeo Yankee Tango Whiskey Golf Sierra,$292.15 ,98145,96-731-8600,Admin
+867589576-3,nulla sed vel,Once,FALSE,Charlie X-ray Hotel Yankee Romeo Tango Foxtrot Quebec Sierra Echo Lima Victor Whiskey Golf Alfa Zulu Mike Papa Oscar Uniform,$428.56 ,93634,99-564-1965,Maint
+734303013-2,convallis duis consequat,Monthly,TRUE,,$654.92 ,34650,36-417-8755,Custodial
+168705779-6,habitasse,Once,FALSE,,$181.12 ,50850,60-412-5191,Facilities
+129525912-5,donec odio,Monthly,FALSE,Quebec Sierra Charlie Alfa Yankee Foxtrot November Bravo Echo India Zulu Mike,$206.03 ,31525,62-715-2163,Admin
+559352423-8,nisl ut volutpat,Weekly,TRUE,,$793.74 ,95201,11-865-7655,Facilities
+633904797-1,accumsan odio,Once,TRUE,November Uniform Delta Victor X-ray Whiskey Foxtrot Kilo Papa Juliett Oscar Romeo Golf Echo Lima Yankee Quebec India,$561.79 ,31374,99-392-8342,Facilities
+288414921-X,platea dictumst,Daily,TRUE,,$588.19 ,16750,23-119-9252,Patient_care
+099171653-1,elementum pellentesque,Monthly,FALSE,,$283.00 ,43395,57-737-9222,Caretaker
+401077958-6,sollicitudin vitae,Often,FALSE,Golf India Victor Alfa Kilo Juliett Yankee Charlie Mike Oscar Uniform,$799.63 ,63469,70-989-5944,Maint
+009524287-2,ligula sit amet,Never,TRUE,,$886.80 ,49645,92-984-6182,Caretaker
+449100297-5,nulla suscipit ligula,Daily,FALSE,Papa Lima Zulu November Mike Yankee Tango Romeo Alfa Charlie X-ray Quebec Kilo Sierra Bravo Juliett,$161.61 ,67743,81-473-1845,Custodial
+780772743-8,non,Never,FALSE,Echo Bravo Delta Whiskey Golf Sierra Romeo Lima Papa Kilo Alfa Hotel Charlie,$806.28 ,8515,68-224-1487,Caretaker
+666970899-8,sed,Monthly,TRUE,,$311.97 ,91039,96-185-1280,Custodial
+584676589-0,tincidunt,Never,TRUE,,$148.64 ,55260,62-204-9228,Maint
+846901739-X,tempus sit amet,Monthly,TRUE,,$747.09 ,26264,02-880-1177,Caretaker
+333926876-2,non ligula,Monthly,TRUE,,$701.04 ,84005,52-143-7252,Caretaker
+384711049-7,risus,Yearly,TRUE,Bravo Yankee Tango Victor Echo Uniform Papa Romeo Golf Juliett Hotel Delta Kilo,$719.11 ,5264,95-908-3332,Maint
+490247698-3,justo in blandit,Weekly,FALSE,Kilo Alfa Zulu Lima Whiskey Yankee Victor Romeo November Bravo Hotel Sierra Golf X-ray Echo Quebec Tango,$355.04 ,91158,97-720-2302,Accounting
+343829621-7,lacinia,Monthly,TRUE,,$481.00 ,55467,22-961-3090,Custodial
+133736931-4,nulla,Never,TRUE,,$67.00 ,38296,14-948-9537,Caretaker
+958679880-1,sit amet,Yearly,TRUE,X-ray Bravo Echo Yankee Lima Charlie Golf November Alfa Mike Sierra Juliett Uniform Oscar Foxtrot Delta,$528.33 ,55999,45-690-3895,Admin
+446837472-1,cubilia curae nulla,Never,TRUE,,$953.97 ,29680,96-817-0212,Patient_care
+028521468-3,in purus,Never,FALSE,Mike Foxtrot Delta X-ray Victor Alfa Charlie Juliett Sierra Yankee Zulu Tango,$777.06 ,56737,91-675-1847,Patient_services
+893041622-5,volutpat,Never,FALSE,,$168.59 ,97587,53-603-4340,Admin
+249672313-X,blandit nam nulla,Never,FALSE,Sierra Foxtrot Tango Kilo Lima Victor November Oscar Uniform India Romeo Alfa Echo Mike X-ray Quebec Hotel Golf,$252.76 ,75409,78-178-1167,Maint
+634587048-X,est lacinia nisi,Daily,FALSE,November Whiskey Hotel Lima Kilo Echo Zulu Mike India Alfa Bravo,$599.24 ,12591,06-472-4641,Facilities
+392343827-3,turpis,Once,FALSE,Oscar Foxtrot Tango Kilo Mike Golf Sierra Alfa Lima Delta Echo Charlie Yankee Uniform Quebec Victor,$567.57 ,81633,08-965-0811,Accounting
+983832571-6,volutpat convallis,Yearly,FALSE,Victor Zulu Echo Golf Tango Quebec Alfa Papa Whiskey Foxtrot Oscar November Lima X-ray Charlie Juliett Mike Delta Kilo,$740.32 ,36952,38-007-3617,Patient_services
+497551600-4,ultrices phasellus,Weekly,FALSE,Tango Whiskey Oscar Kilo Quebec Bravo Foxtrot Alfa India Mike Delta Lima,$717.83 ,12949,57-539-7016,Patient_services
+486220850-9,venenatis tristique fusce,Often,FALSE,,$894.76 ,43811,98-403-2158,Accounting
+669526719-7,vel dapibus at,Often,FALSE,Uniform Yankee November Foxtrot Quebec Papa India X-ray Hotel Charlie Juliett Lima Zulu Mike Tango,$407.12 ,56164,22-589-4972,Maint
+319858091-9,consectetuer adipiscing elit,Monthly,FALSE,Victor Mike Golf Zulu November Echo Uniform Charlie Sierra Foxtrot,$733.14 ,94663,70-129-7547,Facilities
+494494338-5,lobortis vel,Weekly,TRUE,,$344.25 ,49774,41-010-1981,Accounting
+334295229-6,sed justo,Yearly,TRUE,Victor Zulu Mike X-ray Uniform Romeo Alfa November Lima Kilo Papa Oscar Echo Juliett Hotel,$729.81 ,94513,22-106-8013,Patient_care
+834654448-0,dui proin,Seldom,TRUE,Foxtrot Kilo Echo Yankee Sierra Whiskey Alfa Papa X-ray Juliett Quebec Charlie,$432.59 ,51604,36-271-3118,Custodial
+530024344-2,volutpat,Often,FALSE,,$116.00 ,70473,13-206-9269,Patient_services
+642082385-4,tincidunt ante vel,Never,FALSE,,$36.08 ,28186,13-934-0834,Facilities
+886197620-4,amet lobortis sapien,Often,FALSE,Foxtrot India Alfa Sierra Quebec Mike November Uniform Victor Hotel Oscar Whiskey Zulu Romeo Papa Yankee Juliett Kilo Tango,$788.93 ,43501,17-604-3405,Patient_care
+297047473-5,vestibulum proin eu,Often,TRUE,Delta Charlie Quebec Hotel India X-ray Kilo Mike Alfa Whiskey Victor Romeo,$664.68 ,55586,89-142-6364,Patient_services
+271290570-9,turpis elementum,Seldom,FALSE,,$951.60 ,28209,81-241-8287,Admin
+204301014-X,leo maecenas,Seldom,FALSE,,$735.27 ,39460,71-353-1436,Facilities
+889327531-7,donec ut,Daily,FALSE,,$476.92 ,42659,37-878-0738,Maint
+251178924-8,etiam justo,Yearly,FALSE,Charlie Golf Alfa Tango Mike Papa Yankee Romeo Victor Foxtrot Whiskey Oscar Uniform Zulu Sierra Juliett Bravo Kilo November,$732.94 ,66806,67-007-5418,Facilities
+797439967-8,justo in blandit,Seldom,TRUE,,$563.23 ,63646,60-348-4848,Custodial
+858555111-9,enim in,Often,FALSE,Quebec Victor Kilo Yankee Golf Sierra Charlie X-ray India Foxtrot Delta Lima Romeo Echo Tango Alfa,$640.12 ,26053,51-626-0795,Custodial
+717807919-3,tempor turpis nec,Never,TRUE,,$231.40 ,15800,95-449-1069,Admin
+875704022-2,sed vestibulum,Often,FALSE,,$528.38 ,96464,72-216-1952,Caretaker
+049634959-7,nulla,Yearly,TRUE,Uniform Hotel Juliett Romeo Yankee Alfa November Oscar Kilo Quebec Sierra Zulu Golf Mike Victor Lima Delta India X-ray Foxtrot,$96.49 ,94185,77-863-2305,Patient_care
+500376223-2,ligula,Yearly,TRUE,Papa Sierra Golf Lima Foxtrot Bravo Juliett Mike Delta Charlie Whiskey,$779.21 ,41658,17-076-4720,Custodial
+221031298-1,morbi vestibulum velit,Daily,FALSE,,$104.31 ,5931,73-735-7001,Maint
+746717182-X,fermentum donec,Weekly,FALSE,Bravo Papa Romeo Sierra Golf Lima Delta Echo Tango November Victor Whiskey Charlie Mike India Zulu X-ray Alfa Foxtrot Yankee,$2.27 ,63856,18-044-7906,Accounting
+672548526-X,vehicula condimentum,Seldom,FALSE,,$630.89 ,60933,09-341-2800,Maint
+729613123-3,tincidunt in,Monthly,TRUE,,$23.34 ,577,61-033-0091,Maint
+257729330-5,sit amet,Monthly,TRUE,Uniform Oscar Victor Papa Delta Sierra Zulu Alfa Yankee India Bravo Tango Golf Romeo Quebec Kilo,$271.82 ,8801,34-764-8603,Maint
+485350864-3,aliquam erat volutpat,Daily,FALSE,,$294.46 ,71420,04-409-3397,Accounting
+043073327-5,ullamcorper,Monthly,FALSE,,$235.05 ,29382,91-982-1881,Caretaker
+447332406-0,odio,Often,FALSE,Tango Hotel Foxtrot India Golf November Bravo Sierra Quebec Charlie Papa Uniform Juliett Oscar Mike Whiskey Alfa Lima Echo,$962.46 ,49403,03-317-8829,Patient_care
+563179400-4,mauris,Monthly,TRUE,Mike Romeo Lima November Juliett Quebec Golf Charlie Yankee Delta Echo Whiskey Alfa Uniform Oscar,$811.17 ,50906,47-910-4398,Facilities
+623309383-X,pede venenatis,Seldom,TRUE,Zulu Delta Hotel Foxtrot Alfa Oscar Bravo Mike India Kilo Sierra,$668.56 ,68026,67-425-2732,Caretaker
+629668106-2,non,Never,FALSE,Lima Papa Alfa Quebec Foxtrot Romeo Uniform Zulu Sierra November Delta Bravo Victor Hotel Kilo Mike,$516.44 ,85485,01-780-2890,Patient_care
+642450694-2,dui vel sem,Yearly,FALSE,Juliett Quebec Bravo X-ray Mike November Kilo Charlie Sierra Golf Tango Foxtrot Alfa Romeo Victor Delta Hotel Lima Zulu,$801.03 ,64464,13-712-5711,Admin
+018467645-2,aliquam,Daily,TRUE,Yankee Tango Uniform Zulu Bravo Echo Papa Juliett Mike Foxtrot November,$669.42 ,91612,46-122-6398,Caretaker
+081019390-6,rhoncus dui,Once,TRUE,Lima Whiskey Oscar Bravo Romeo Victor Papa Yankee Foxtrot Tango Sierra Juliett Delta Quebec India,$218.32 ,21162,50-758-4732,Accounting
+957895106-X,in est,Daily,FALSE,Yankee Lima Bravo India November Hotel Tango X-ray Whiskey Quebec Juliett Echo Mike Charlie Zulu Victor Delta Golf Oscar,$27.43 ,95894,15-063-4214,Accounting
+849736723-5,erat volutpat,Often,FALSE,Lima November Golf Bravo Oscar India Tango Quebec Mike Delta Zulu Romeo Whiskey,$733.87 ,37407,99-094-2257,Admin
+987293357-X,sem praesent id,Often,FALSE,Lima Juliett Oscar Romeo Uniform Sierra November Victor Papa Tango Bravo X-ray Delta Quebec Echo Kilo Alfa,$145.72 ,92383,15-118-4429,Maint
+591707421-6,justo,Often,FALSE,Zulu Lima Foxtrot Hotel Yankee Bravo November Quebec Kilo Tango Uniform Mike India Romeo X-ray Delta,$601.96 ,5469,50-776-0993,Patient_care
+507425281-4,pellentesque volutpat,Never,TRUE,Charlie Kilo Bravo Uniform Alfa Mike Oscar Sierra Golf November Echo Papa Delta Romeo Tango,$193.22 ,42634,62-102-2031,Patient_care
+887483093-9,odio,Monthly,FALSE,Alfa India Juliett Echo Quebec Yankee Oscar Kilo Mike Bravo Hotel Lima Charlie,$985.97 ,71269,79-172-2802,Patient_care
+979782844-1,ultrices aliquet maecenas,Often,FALSE,Kilo Delta Victor Alfa Echo Juliett Tango Whiskey X-ray Oscar Bravo Sierra Golf,$255.05 ,68038,66-738-7570,Custodial
+427770770-X,tortor duis mattis,Weekly,FALSE,,$326.00 ,4874,36-026-6608,Maint
+963896824-9,lectus,Often,FALSE,,$551.70 ,4690,96-357-5311,Patient_services
+197790800-4,porttitor lorem id,Never,FALSE,Delta Kilo Tango Uniform Foxtrot Yankee X-ray November Golf India Lima Mike Juliett Charlie Echo Romeo Alfa Sierra,$712.02 ,88096,71-913-0011,Accounting
+793512574-0,porta,Often,FALSE,Papa Juliett Delta Zulu Whiskey Foxtrot Hotel Tango Charlie Yankee November Golf Oscar Lima Mike Alfa Sierra,$52.98 ,78120,44-390-7252,Facilities
+429672328-6,massa tempor,Seldom,FALSE,Echo Lima Delta Romeo Alfa Golf Mike Hotel Papa Uniform Whiskey Quebec,$836.57 ,54505,27-714-6573,Patient_services
+448069843-4,nam dui proin,Seldom,TRUE,Kilo Charlie Echo Victor Delta Oscar Juliett November Zulu Uniform,$699.33 ,87029,14-461-6513,Patient_care
+864757801-5,dui vel,Once,TRUE,Tango Hotel Mike Bravo Delta Whiskey Alfa Kilo Juliett Golf X-ray Echo,$890.80 ,67718,85-821-5664,Accounting
+474422721-X,odio,Once,TRUE,,$967.56 ,32742,62-128-0765,Admin
+587138690-3,nisl nunc,Never,TRUE,,$805.51 ,99636,32-527-7293,Maint
+868532241-3,dis,Once,FALSE,Delta November Sierra Foxtrot Echo Lima India Papa Quebec Tango Alfa Mike Kilo,$609.58 ,22394,49-270-0775,Caretaker
+837105662-1,duis faucibus,Often,TRUE,Romeo Echo Papa Juliett Whiskey Yankee Sierra Uniform Mike Oscar Tango Alfa Foxtrot India Zulu,$717.61 ,41257,65-881-4607,Admin
+085845827-6,dictumst morbi,Often,TRUE,Lima Oscar Charlie November Foxtrot Uniform Echo Juliett Mike Victor Golf Romeo,$767.14 ,75323,91-093-7375,Patient_care
+329638137-6,etiam pretium iaculis,Yearly,FALSE,Kilo Romeo Delta Zulu Lima Victor Sierra November Oscar Mike Tango Hotel Golf Juliett,$127.74 ,66447,66-594-2030,Accounting
+773170525-0,nisi nam ultrices,Seldom,FALSE,Oscar Bravo Romeo Sierra Alfa Papa Quebec Yankee Juliett Kilo India,$243.76 ,78979,57-145-1494,Patient_services
+713661167-9,ante ipsum,Monthly,TRUE,,$44.19 ,21375,33-046-0442,Custodial
+896704539-5,sed,Yearly,FALSE,India Lima Uniform Kilo Romeo Delta Juliett Victor Hotel Bravo Papa Mike Yankee Oscar Quebec X-ray Golf Alfa November Whiskey,$458.17 ,79285,84-204-8367,Facilities
+348215475-9,id pretium,Often,FALSE,Whiskey Juliett Lima Oscar Yankee Foxtrot Alfa Bravo Golf November Echo X-ray Sierra Kilo Hotel Zulu Delta,$82.21 ,82624,42-977-1151,Patient_care
+011799924-5,platea dictumst,Seldom,TRUE,Romeo Zulu India Victor Delta Foxtrot Charlie Echo Tango Whiskey Lima November Juliett Sierra Kilo,$745.99 ,25734,36-387-9873,Admin
+938851245-6,tincidunt in,Daily,FALSE,,$792.51 ,85575,69-617-4414,Admin
+725840412-0,odio consequat,Monthly,TRUE,Lima Whiskey Charlie India Juliett November Kilo Mike Foxtrot X-ray Delta Echo Romeo Zulu,$897.77 ,48661,58-093-9152,Accounting
+019549383-4,proin eu mi,Daily,TRUE,Uniform X-ray Victor Hotel Zulu November India Quebec Papa Bravo Sierra Golf Whiskey Kilo Lima Yankee,$509.35 ,75383,29-618-7858,Custodial
+562269846-4,non,Yearly,FALSE,Romeo Bravo Sierra Oscar India Hotel Lima Zulu Alfa Juliett Uniform Yankee Mike Quebec Tango November Golf X-ray,$626.77 ,34864,26-925-6748,Custodial
+592886951-7,adipiscing elit proin,Yearly,FALSE,Charlie Golf Whiskey Yankee Echo Quebec Victor Zulu Romeo X-ray India November,$815.19 ,57729,93-885-9693,Caretaker
+110734666-5,ultrices,Seldom,TRUE,Juliett Romeo Bravo Golf Zulu Tango Victor Lima Uniform Delta November Yankee Echo Whiskey India Foxtrot Hotel,$869.30 ,83960,19-297-8344,Patient_care
+931811385-4,donec,Once,TRUE,Yankee Romeo Victor Quebec Bravo Whiskey Sierra X-ray Uniform Zulu Alfa Echo Foxtrot Tango Charlie Hotel India,$315.15 ,69622,99-890-6143,Facilities
+861975953-1,nonummy,Once,FALSE,Whiskey Tango Papa Lima Zulu Golf X-ray November Echo Bravo Victor Oscar Juliett Uniform Romeo Delta India,$144.26 ,79523,23-654-3342,Admin
+731089334-4,leo pellentesque ultrices,Weekly,TRUE,Sierra Bravo Mike Juliett Echo Papa Charlie Hotel Zulu Foxtrot Delta Victor Golf,$512.39 ,78658,24-215-3684,Facilities
+692361990-4,metus aenean,Monthly,TRUE,Alfa India Whiskey Mike Hotel Juliett Tango Zulu Bravo Romeo Victor Papa Quebec Delta,$476.54 ,63968,43-598-9444,Caretaker
+957124070-2,potenti cras in,Monthly,FALSE,Charlie Zulu Romeo Quebec Golf November Lima Echo Sierra India Mike,$573.89 ,25056,24-798-8923,Caretaker
+184579819-8,sem duis,Never,TRUE,Yankee Hotel Lima Romeo Golf Mike Quebec India November Charlie Tango Echo Victor Kilo Juliett,$73.23 ,27979,71-712-0729,Admin
+180460394-5,sagittis dui vel,Seldom,FALSE,,$506.57 ,99855,39-984-6143,Patient_care
+303459346-5,venenatis lacinia aenean,Monthly,FALSE,Oscar Echo Victor Golf Whiskey Sierra Uniform Alfa X-ray Zulu November Kilo Mike Foxtrot Juliett Hotel Lima Quebec India Delta,$930.13 ,72261,63-975-1266,Facilities
+633130165-8,nisi vulputate nonummy,Once,TRUE,Foxtrot Romeo Charlie Yankee Whiskey Uniform Golf Juliett India X-ray Zulu Papa Echo Lima November Kilo Oscar Mike,$677.89 ,11653,03-551-4062,Caretaker
+963914149-6,morbi odio,Yearly,TRUE,,$71.17 ,10077,20-236-5257,Accounting
+807472509-X,in tempor,Often,TRUE,,$299.22 ,18383,77-153-9858,Patient_services
+682923423-9,odio curabitur convallis,Seldom,TRUE,Tango X-ray Hotel Juliett Foxtrot Golf Oscar Lima Zulu Romeo Victor Uniform Whiskey Papa Quebec Mike Bravo Yankee Alfa,$757.76 ,14902,28-004-1457,Patient_care
+595237844-7,turpis elementum ligula,Once,FALSE,Lima X-ray Golf Juliett Yankee Alfa India Victor Mike Whiskey Charlie Delta November Tango Foxtrot Uniform Hotel Quebec Kilo Sierra,$924.80 ,83028,64-715-9738,Maint
+026398832-5,non ligula pellentesque,Yearly,FALSE,November Zulu X-ray Whiskey Victor Delta Sierra Foxtrot Romeo Hotel Papa Lima Tango Golf Bravo Uniform Kilo,$89.47 ,28355,77-461-4741,Caretaker
+288533366-9,odio,Never,TRUE,Echo Charlie Hotel Sierra Mike X-ray Romeo Juliett Kilo Zulu Oscar India Uniform Quebec Tango,$609.73 ,4695,58-837-5732,Maint
+832854897-6,enim blandit mi,Monthly,TRUE,,$772.02 ,1662,97-819-8530,Facilities
+047146976-9,maecenas,Yearly,TRUE,Bravo Juliett Alfa Tango Yankee Lima Charlie Uniform Papa Whiskey Zulu,$853.45 ,6320,28-085-3063,Facilities
+310665820-7,at velit vivamus,Daily,TRUE,Zulu Uniform Foxtrot November Mike Papa Charlie Golf India Hotel Quebec Lima Delta Whiskey Alfa Romeo,$659.83 ,61553,21-906-1512,Maint
+154622844-6,blandit ultrices enim,Weekly,TRUE,,$485.89 ,31106,30-450-4423,Maint
+837262841-6,cum sociis natoque,Seldom,FALSE,Whiskey India Charlie Quebec Hotel Romeo Uniform Bravo Golf November Zulu Foxtrot Victor Papa Juliett X-ray Lima Tango,$289.84 ,89599,13-230-5765,Admin
+658005955-9,et commodo vulputate,Yearly,TRUE,Charlie Delta Romeo India Sierra Papa Golf Lima Bravo Hotel Alfa Victor Oscar,$2.78 ,1543,77-998-7851,Custodial
+099629531-3,congue diam id,Daily,TRUE,Romeo Tango Alfa Lima Yankee Hotel Uniform November Papa Bravo Whiskey India Quebec Zulu Mike X-ray Delta Oscar Sierra Juliett,$92.42 ,97029,72-600-2338,Admin
+983328197-4,sociis,Often,TRUE,Whiskey Uniform Romeo Charlie Victor Yankee Papa Mike Foxtrot Kilo Alfa Bravo Zulu X-ray Hotel Quebec November Sierra,$543.91 ,71874,17-429-2448,Admin
+169166555-X,ac nibh fusce,Monthly,TRUE,,$565.16 ,81993,92-586-5642,Caretaker
+971174607-7,platea,Weekly,FALSE,Hotel Sierra Oscar Lima November Alfa Romeo Uniform Juliett Foxtrot Papa,$946.58 ,48426,88-402-5638,Facilities
+463447776-9,diam,Yearly,FALSE,X-ray Kilo India Quebec Victor Papa Yankee Romeo Juliett Echo Uniform Zulu Mike Hotel,$158.81 ,86108,15-745-7009,Custodial
+267795816-3,elit proin,Yearly,FALSE,Alfa Romeo Kilo Tango Foxtrot Lima Golf Victor Hotel Echo X-ray,$197.74 ,76654,79-481-4910,Caretaker
+419694660-7,primis in faucibus,Monthly,FALSE,,$937.64 ,69898,93-634-9904,Caretaker
+702921095-6,suspendisse ornare consequat,Never,TRUE,Whiskey Quebec Romeo Charlie Echo X-ray Tango Bravo Zulu Juliett Uniform India Mike November Alfa,$566.38 ,72791,94-926-5429,Maint
+777452312-X,in,Once,TRUE,Yankee India Romeo X-ray Kilo Zulu Hotel Uniform Mike Juliett Bravo November Foxtrot Whiskey Charlie Victor Quebec Echo,$562.17 ,94268,29-157-5001,Accounting
+611531429-1,eget,Weekly,FALSE,Papa Romeo Alfa Echo Yankee Tango Charlie Golf Juliett India Delta,$335.13 ,24564,40-585-6849,Accounting
+040564389-6,odio cras,Daily,TRUE,X-ray November Kilo Romeo Juliett Sierra Tango Charlie Golf Papa Quebec,$393.26 ,84808,00-878-3571,Admin
+390256573-X,molestie,Yearly,FALSE,Tango Romeo Echo Victor Foxtrot Hotel Mike Sierra Golf Charlie Juliett India Uniform Papa Kilo,$512.79 ,4182,85-348-5617,Maint
+096868632-X,duis mattis egestas,Daily,TRUE,Echo Bravo Golf Kilo Tango Romeo Juliett Oscar Mike Alfa Whiskey Hotel Charlie Yankee Foxtrot X-ray Victor Papa Quebec,$446.17 ,36963,10-132-3021,Maint
+913024394-7,amet,Weekly,FALSE,Quebec Yankee Bravo Uniform X-ray Golf Foxtrot Victor Lima November Papa Romeo,$784.60 ,87923,76-092-8696,Accounting
+468512227-5,integer,Never,FALSE,Victor Romeo Mike Papa Tango India Hotel Yankee X-ray Charlie Sierra Whiskey Lima Oscar Bravo Quebec,$393.45 ,34228,63-724-6211,Patient_care
+984504321-6,vivamus vestibulum,Never,FALSE,Bravo Lima Foxtrot November Mike Echo Zulu Kilo Quebec Victor Yankee Hotel,$462.61 ,10070,41-364-8913,Patient_services
+073203193-1,nisi,Never,FALSE,,$402.80 ,95611,37-582-6920,Admin
+580182488-X,erat fermentum,Often,FALSE,Tango X-ray Lima Juliett Yankee Sierra Uniform Foxtrot Alfa Oscar Whiskey Charlie India Mike Golf Papa,$260.32 ,45769,88-242-2362,Facilities
+350936076-1,erat nulla tempus,Monthly,FALSE,,$866.74 ,49825,43-977-3942,Patient_services
+602054034-0,gravida nisi at,Monthly,FALSE,,$71.55 ,44527,94-490-5158,Facilities
+908212438-6,blandit,Weekly,FALSE,Kilo Romeo Juliett Papa Mike Golf Alfa Echo Oscar Tango X-ray Foxtrot Victor November Yankee,$409.49 ,71656,00-009-7212,Patient_services
+975437196-2,cursus urna ut,Often,FALSE,Mike Charlie Lima November Alfa Whiskey Delta X-ray Tango Kilo Romeo Echo Bravo,$972.93 ,53005,14-550-6613,Patient_services
+888362928-0,in quam fringilla,Seldom,FALSE,,$697.76 ,12067,82-591-7354,Custodial
+866764680-6,nulla,Weekly,TRUE,,$172.95 ,47655,16-594-3602,Maint
+178795057-3,eleifend luctus,Monthly,FALSE,Whiskey X-ray Kilo Lima Yankee Tango Oscar Foxtrot Bravo India Charlie Delta Alfa Hotel Mike Victor Sierra Echo November,$369.04 ,10152,14-426-1630,Caretaker
+456040245-0,ultrices erat tortor,Never,TRUE,Oscar Sierra Papa Bravo Delta Echo Romeo Hotel Victor November Uniform Whiskey Foxtrot Juliett Yankee Quebec Charlie Zulu Lima,$245.84 ,23184,68-381-6640,Facilities
+678360470-5,eleifend pede libero,Monthly,FALSE,Tango Sierra Alfa Golf Foxtrot Papa Uniform Romeo Juliett Mike X-ray Bravo,$912.80 ,59929,88-577-6613,Accounting
+262239687-2,nam tristique tortor,Weekly,FALSE,Hotel Kilo Uniform Oscar Foxtrot India Romeo Tango Yankee Golf Whiskey Juliett Papa Mike Alfa Quebec November Lima,$451.23 ,18446,21-531-2882,Facilities
+468558238-1,sit amet,Seldom,FALSE,Victor Delta Mike Charlie Uniform Yankee Sierra Oscar Alfa Tango X-ray Bravo Romeo Hotel Echo Quebec,$607.75 ,19198,25-230-1559,Patient_services
+811507153-6,libero convallis eget,Monthly,FALSE,,$668.13 ,1791,54-299-4328,Patient_care
+490511384-9,diam in magna,Yearly,FALSE,,$769.17 ,61354,71-976-7503,Caretaker
+325362651-2,eu massa donec,Daily,FALSE,Golf Uniform Alfa Whiskey Sierra Kilo Romeo Victor Papa Yankee Tango Mike Zulu Hotel Bravo Foxtrot Oscar Echo,$207.67 ,13107,36-864-9910,Accounting
+104589263-7,at turpis donec,Weekly,TRUE,Quebec November India Sierra Mike Yankee Charlie Delta Foxtrot Kilo Uniform Whiskey Lima Zulu Tango Golf Hotel Romeo Alfa Echo,$945.45 ,54586,93-234-6020,Caretaker
+306024680-7,nisi nam,Daily,FALSE,X-ray Romeo Victor Delta Foxtrot Juliett Quebec Lima Echo Hotel Mike Kilo Sierra Papa Alfa Whiskey,$231.71 ,43558,69-863-1439,Maint
+015334934-4,nam ultrices libero,Often,TRUE,Alfa Juliett Lima Quebec Victor Romeo Whiskey November Yankee X-ray Foxtrot Sierra Charlie Kilo Uniform Delta Golf Mike Bravo Papa,$691.99 ,84505,52-703-4598,Patient_care
+016367853-7,in,Once,FALSE,,$567.22 ,28607,45-982-3136,Custodial
+353448067-8,morbi,Never,TRUE,Quebec Sierra Foxtrot Hotel Alfa Papa Juliett Bravo Uniform Oscar Yankee November Delta Golf Zulu Lima Kilo,$794.76 ,51114,45-761-9135,Patient_services
+394502967-8,sit amet,Weekly,TRUE,,$324.96 ,8178,09-055-8135,Patient_services
+311015686-5,eros,Seldom,TRUE,Golf Tango Delta Quebec Kilo Mike Zulu Charlie November Echo,$92.88 ,34629,71-911-9295,Patient_services
+486215459-X,cras,Often,FALSE,India Kilo Oscar Charlie Alfa Foxtrot Victor Golf Lima Whiskey Uniform,$845.79 ,58654,03-627-9067,Facilities
+377661613-X,blandit,Often,FALSE,Kilo Mike Lima Victor Romeo Golf Whiskey Sierra Tango Quebec,$312.71 ,43573,90-822-4965,Custodial
+716737619-1,dui vel sem,Once,FALSE,Kilo Oscar Mike Lima Papa Golf Yankee Whiskey Charlie Juliett India Sierra Echo Foxtrot Zulu Bravo Hotel Tango Delta Victor,$15.46 ,67326,87-962-3731,Accounting
+965572177-9,volutpat,Seldom,FALSE,Golf Uniform Quebec Whiskey Oscar November Tango Bravo Juliett X-ray,$792.01 ,80085,89-140-6487,Admin
+470399607-3,luctus,Seldom,TRUE,Mike Delta Juliett Victor Charlie Zulu Yankee Foxtrot Echo Whiskey Tango X-ray Bravo November Alfa Oscar Golf Sierra Hotel Lima,$148.37 ,96068,89-820-6660,Maint
+723807860-0,praesent blandit lacinia,Often,FALSE,Charlie Romeo Uniform Zulu Kilo Quebec Sierra Tango Bravo Delta Mike Echo X-ray Alfa Victor Oscar Hotel Yankee Lima India,$768.77 ,46948,50-683-9460,Custodial
+383748167-0,at velit eu,Seldom,TRUE,,$540.47 ,62568,15-914-0988,Custodial
+225428562-9,laoreet,Yearly,TRUE,,$743.44 ,17780,39-183-3460,Custodial
+062829456-5,sapien cum sociis,Yearly,FALSE,,$897.61 ,89549,18-696-2802,Patient_services
+622211359-1,neque duis,Daily,FALSE,,$635.98 ,14672,54-513-9177,Accounting
+176227431-0,sed justo pellentesque,Daily,FALSE,India Foxtrot Sierra X-ray Mike Delta Victor Bravo Alfa Romeo Quebec Uniform Juliett Golf Lima Charlie,$396.06 ,38251,99-905-2012,Facilities
+009579016-0,elementum eu,Yearly,TRUE,Charlie Romeo Kilo Quebec X-ray India Whiskey Yankee Bravo Sierra Tango,$482.36 ,73244,05-990-4753,Patient_care
+248303089-0,tellus,Monthly,TRUE,Kilo Sierra Uniform November Lima Romeo India Oscar Whiskey Alfa,$711.69 ,67105,38-115-9174,Admin
+308244058-4,cras non,Weekly,FALSE,Echo Bravo Alfa Golf Foxtrot Zulu Sierra November Hotel Mike Papa Quebec X-ray Victor Romeo Juliett Tango Oscar Kilo Charlie,$736.73 ,38688,87-814-9557,Maint
+766529667-X,enim leo,Weekly,TRUE,Oscar Echo Juliett Lima Kilo Tango Golf Whiskey X-ray Romeo Yankee November,$117.67 ,63355,44-858-1668,Patient_services
+559725078-7,id justo,Often,TRUE,,$136.63 ,83486,66-396-5929,Facilities
+939631224-X,ullamcorper purus sit,Once,TRUE,Whiskey Juliett Echo Golf Bravo Oscar Delta Tango Yankee Sierra November Hotel X-ray Foxtrot Victor Lima Alfa Kilo Mike Romeo,$568.87 ,77556,58-157-4185,Maint
+745239555-7,augue,Never,TRUE,,$624.73 ,9852,47-938-8433,Patient_services
+977137727-2,vivamus,Seldom,FALSE,,$596.37 ,31015,50-401-4611,Custodial
+596896861-3,dolor sit amet,Seldom,TRUE,Papa Romeo Alfa Victor Sierra Echo Juliett India Delta Golf Foxtrot Uniform Mike Oscar,$760.14 ,49888,79-300-9465,Accounting
+855893081-3,amet sem,Often,TRUE,,$67.49 ,56283,23-687-1986,Admin
+143328647-5,a,Never,FALSE,,$260.59 ,8540,36-289-4559,Facilities
+631730685-0,nullam varius nulla,Monthly,FALSE,,$792.06 ,91921,42-759-7688,Custodial
+489125622-2,et,Yearly,TRUE,,$885.03 ,91529,07-120-2094,Patient_services
+760138469-1,volutpat sapien arcu,Weekly,FALSE,,$862.33 ,15993,28-349-0200,Admin
+833496278-9,vel,Never,FALSE,Alfa Yankee Tango Whiskey Uniform India November Victor Mike Zulu Bravo Oscar Sierra Echo Romeo Delta Hotel Golf Juliett,$62.64 ,11148,97-600-8640,Maint
+646967802-5,congue,Once,FALSE,,$352.88 ,28793,05-028-6273,Caretaker
+024090497-4,amet consectetuer,Yearly,FALSE,,$837.12 ,96051,75-776-9849,Maint
+492453535-4,dictumst aliquam augue,Never,FALSE,,$756.64 ,29009,29-955-9055,Accounting
+492946939-2,vivamus,Never,TRUE,Delta Yankee Echo Tango Papa Kilo Quebec Hotel Alfa Victor Bravo Lima,$640.58 ,21212,55-804-9209,Admin
+515813657-2,magna,Daily,FALSE,,$504.39 ,89329,49-886-4889,Admin
+036862974-0,est phasellus,Weekly,FALSE,Uniform Juliett Yankee November Whiskey Papa Charlie Golf Zulu Mike Quebec Bravo,$723.46 ,23150,34-478-8438,Accounting
+573513484-1,mauris enim leo,Seldom,TRUE,,$339.50 ,82447,96-106-8107,Patient_services
+713550072-5,leo odio,Yearly,TRUE,,$792.96 ,78775,56-678-5405,Facilities
+138434639-2,et,Monthly,FALSE,Whiskey Foxtrot Delta Oscar Tango India Hotel Charlie Juliett Quebec Sierra X-ray Papa Victor Alfa,$76.72 ,23114,99-887-5144,Maint
+042464807-5,quis,Often,FALSE,,$260.02 ,65139,07-081-6670,Admin
+738184656-X,in tempor,Monthly,FALSE,Papa Bravo Quebec X-ray Kilo Uniform Mike November Yankee Sierra Oscar Victor Romeo India,$829.58 ,77279,24-729-1764,Maint
+586539154-2,eget,Often,TRUE,,$555.49 ,93403,10-653-3621,Facilities
+116332907-X,odio,Monthly,TRUE,India Whiskey Victor Romeo Alfa Bravo Golf November Echo Charlie Uniform Hotel Papa,$204.04 ,98579,66-485-6299,Facilities
+801153014-3,suspendisse potenti cras,Monthly,FALSE,Lima Foxtrot November Whiskey Yankee Golf Oscar Kilo Echo Alfa Papa Zulu Uniform Sierra Mike Tango India X-ray Hotel Romeo,$183.84 ,3847,86-359-4381,Admin
+141564976-6,at vulputate vitae,Daily,TRUE,,$472.64 ,16313,88-321-9815,Patient_care
+251843515-8,tristique,Never,FALSE,Oscar Bravo Alfa Lima Papa Hotel Foxtrot Uniform X-ray Tango Whiskey Golf India Victor Romeo,$188.49 ,30758,72-511-0496,Facilities
+555453785-5,penatibus et magnis,Daily,TRUE,,$141.11 ,55460,68-291-7068,Maint
+921939978-4,massa id lobortis,Yearly,TRUE,,$957.44 ,95236,30-643-8406,Facilities
+041055814-1,convallis eget,Never,TRUE,,$989.50 ,7472,67-106-4221,Admin
+209295560-8,dictumst,Yearly,TRUE,,$639.83 ,82462,03-479-3994,Caretaker
+684615312-8,et ultrices posuere,Often,TRUE,,$571.91 ,85668,88-342-2542,Facilities
+525375652-3,pellentesque quisque porta,Monthly,FALSE,Juliett Romeo Sierra Yankee Papa Bravo Quebec Uniform Hotel Charlie November,$869.87 ,31886,86-366-9816,Facilities
+116049438-X,nisi nam ultrices,Once,FALSE,,$875.50 ,13133,39-509-6887,Admin
+131206641-5,felis donec semper,Weekly,TRUE,Uniform Juliett India Quebec X-ray Zulu Echo Charlie Tango Mike November Whiskey Bravo Sierra Foxtrot,$837.71 ,10280,31-674-3854,Facilities
+852953115-9,nulla,Seldom,TRUE,Sierra Uniform Alfa India Bravo Zulu Tango November Hotel Mike Papa Quebec,$146.66 ,15396,61-576-1599,Patient_care
+934630894-X,at nibh in,Monthly,FALSE,Romeo Kilo Golf Alfa India Oscar November Bravo Quebec Uniform,$29.28 ,74743,36-545-8421,Custodial
+316920845-4,semper,Monthly,FALSE,,$433.54 ,66408,59-191-6309,Accounting
+612093013-2,mauris sit,Monthly,FALSE,,$193.79 ,11226,28-489-2136,Admin
+658629807-5,nibh in,Monthly,TRUE,Alfa Papa Sierra Uniform Oscar Echo Victor Kilo Delta Hotel Romeo X-ray Yankee Tango Whiskey Mike,$65.28 ,48191,79-662-2885,Accounting
+733370647-8,leo maecenas,Monthly,FALSE,Yankee X-ray Bravo Tango Mike Kilo Delta Hotel Golf Foxtrot Charlie Victor November Alfa Quebec Romeo Oscar Whiskey,$875.10 ,30064,56-939-6440,Custodial
+038706628-4,molestie sed justo,Monthly,TRUE,Foxtrot Echo Delta India Romeo Sierra Yankee November Victor X-ray Kilo Juliett Quebec Tango Lima Zulu Charlie Bravo Alfa Oscar,$780.60 ,66204,62-589-2943,Maint
+278896646-6,a odio in,Often,TRUE,,$282.97 ,83699,43-757-8018,Custodial
+416058637-6,est,Daily,FALSE,Lima Whiskey Golf Zulu X-ray Bravo Kilo Uniform Mike Foxtrot India Yankee Sierra Echo Papa Tango Hotel,$533.35 ,4293,47-346-8463,Custodial
+226521055-2,tincidunt ante vel,Monthly,TRUE,Delta Victor Quebec Romeo Sierra Bravo Whiskey India Charlie November Papa Juliett Hotel Lima Foxtrot Yankee Echo Mike,$704.20 ,17051,77-081-4980,Caretaker
+812424120-1,est risus auctor,Never,FALSE,,$17.72 ,33111,65-066-9348,Accounting
+869768136-7,curabitur in libero,Never,TRUE,India Mike Hotel November Charlie Echo Delta Tango Quebec X-ray Oscar Zulu Kilo,$713.62 ,53737,91-334-3746,Maint
+620857716-0,dapibus,Seldom,FALSE,,$842.44 ,56715,29-126-5143,Patient_services
+158559647-7,non,Daily,FALSE,,$33.69 ,38553,04-340-6824,Patient_care
+309379261-4,in faucibus,Weekly,TRUE,,$659.67 ,85641,04-391-9718,Custodial
+163122537-5,vestibulum ante,Monthly,TRUE,,$80.65 ,82073,35-223-9528,Patient_care
+305973068-7,tristique,Weekly,TRUE,,$348.17 ,94642,89-843-9959,Admin
+031455578-1,aliquet,Once,FALSE,Whiskey Papa Lima Uniform Bravo Sierra Charlie Oscar Alfa Mike,$428.93 ,40958,11-986-4508,Maint
+512682763-4,natoque penatibus et,Never,FALSE,Whiskey Mike India Echo Alfa Hotel Sierra Romeo X-ray Zulu Kilo Oscar November Delta,$998.16 ,16160,07-969-3076,Accounting
+697443517-7,quis orci nullam,Yearly,FALSE,Yankee Alfa Mike Juliett Foxtrot Whiskey Tango Echo Uniform Quebec,$26.96 ,87849,52-888-1181,Custodial
+180212167-6,posuere,Never,TRUE,,$763.15 ,97720,35-673-0626,Custodial
+716003281-0,vitae,Once,FALSE,India Bravo X-ray Lima Juliett Victor Hotel Charlie Kilo Zulu Whiskey Golf Uniform Yankee Oscar,$28.17 ,94737,79-751-7202,Custodial
+277763757-1,feugiat,Monthly,FALSE,,$532.22 ,88933,06-071-6664,Patient_services
+276081689-3,massa id,Yearly,FALSE,Yankee Sierra Quebec Tango X-ray Delta Kilo Hotel Golf Lima Oscar Juliett,$505.70 ,44342,34-536-2701,Custodial
+012199919-X,aliquam lacus morbi,Weekly,TRUE,November Charlie Yankee X-ray Papa Hotel Sierra Alfa Whiskey Victor Juliett Romeo Delta Bravo,$552.56 ,24578,49-274-3639,Custodial
+887806742-3,ante ipsum,Yearly,TRUE,Quebec November Kilo Papa Oscar Whiskey Mike Charlie Echo Bravo Zulu,$404.15 ,95653,86-101-7785,Admin
+412324741-5,habitasse,Never,FALSE,November India Victor Alfa Oscar Bravo Foxtrot Yankee X-ray Golf Quebec,$754.07 ,49614,42-605-0647,Caretaker
+023733386-4,suspendisse,Weekly,FALSE,Echo Victor Sierra X-ray India Whiskey Papa Kilo Foxtrot Mike,$62.04 ,28549,32-009-3054,Accounting
+144847210-5,in ante,Weekly,FALSE,,$689.34 ,73537,67-746-7063,Facilities
